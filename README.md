@@ -12,4 +12,6 @@ https://covid19.isciii.es/
 
 https://raw.githubusercontent.com/CSSEGISandData/COVID-19/
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+## Ejemplo visualización
+
+![Evolución de fallecidos a partir del primer día con 10 fallecidos acumulados](https://user-images.githubusercontent.com/62479222/78712731-5a0a7700-7919-11ea-8fab-9968557b738c.png)
