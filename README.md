@@ -8,9 +8,21 @@ En este repositorio voy a ir incluyendo software para el análisis de los datos 
 
 ## Datos actualizados 08/04/2020
 
+
+### Evolución de fallecidos en España a partir del primer día con 10 fallecidos acumulados
 ![Evolución de fallecidos a partir del primer día con 10 fallecidos acumulados](https://user-images.githubusercontent.com/62479222/78785008-a4860500-79a6-11ea-98b3-7a7e17221489.png)
 
+
+### Evolución de casos en España a partir del primer día con 10 fallecidos acumulados
+
 ![Evolución de casos a partir del primer día con 10 fallecidos acumulados](https://user-images.githubusercontent.com/62479222/78785142-e616b000-79a6-11ea-9fc5-eb678178735a.png)
+
+
+### Evolución de fallecidos en España vs a otros paises afectados a partir del primer día con 10 fallecidos acumulados
+
+![Evolución de fallecidos a partir del primer día con 10 fallecidos acumulados por paises](https://user-images.githubusercontent.com/62479222/78789439-6f30e580-79ad-11ea-89a7-43d6e3837521.png)
+
+
 
 
 ## Fuentes
