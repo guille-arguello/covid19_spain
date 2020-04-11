@@ -40,7 +40,9 @@ En este repositorio voy a ir incluyendo software para el análisis de los datos 
 
 ## 5. Fuentes <a name="Fuentes"></a>
 
+[Web del Ministerio de Sanidad](https://covid19.isciii.es/)
 
-https://covid19.isciii.es/
+[Web de la Johns Hopkins University](https://raw.githubusercontent.com/CSSEGISandData/COVID-19/)
 
-https://raw.githubusercontent.com/CSSEGISandData/COVID-19/
+
+
