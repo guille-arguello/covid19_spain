@@ -4,8 +4,9 @@
 1. [Project Title](#Project_Title)
 2. [Descripción](#Descripción)
 3. [Analisis visual de la evolución del COVID-19](#Analisis_visual)
-    1. [Datos de España](#Dato_España)
+   	1. [Datos de España](#Dato_España)
 	2. [Comparación paises](#paises)
+	3. [Datos de Comunidades Autonomas](#CCAA)
 
 4. [Predicción de la evolución del COVID19 en España](#Predicción)
 5. [Fuentes](#Fuentes)
@@ -32,6 +33,20 @@ En este repositorio voy a ir incluyendo software para el análisis de los datos 
 ### 3.2) Comparación entre paises de la evolución del COVID-19 - **actualizados a 11/04/2020** <a name="paises"></a>
 
 ![Evolución de recuperados a partir del primer día con 10 fallecidos acumulados](/resources/imagenes/paises.png)
+
+
+### 3.3) Datos de interes Comunidades autonomas - **actualizados a 11/04/2020** <a name="CCAA"></a>
+
+Cataluña he hecho publico el número de tests PCR realizados y los que han sido positovos y negativos
+
+ Dato| Número
+------------ | -------------
+Número total de tests | 70446
+Positivos | 29396
+Negativos | 41050
+
+
+![Evolución del número de tests PCR hechos en Cataluña al día: totales, positivos y negativos](/resources/imagenes/tests.png)
 
 
 ## 4. Predicción de la evolución del COVID19 en España <a name="Predicción"></a>
