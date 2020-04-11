@@ -21,19 +21,19 @@ En este repositorio voy a ir incluyendo software para el análisis de los datos 
 
 ![Evolución de fallecidos a partir del primer día con 10 fallecidos acumulados](/resources/imagenes/fallecidos.png)
 
-![Evolución de casos a partir del primer día con 10 fallecidos acumulados](https://github.com/guille-arguello/covid19_spain/blob/master/resources/imagenes/casos.png)
+![Evolución de casos a partir del primer día con 10 fallecidos acumulados](/resources/imagenes/casos.png)
 
-![Evolución de recuperados a partir del primer día con 10 fallecidos acumulados](https://github.com/guille-arguello/covid19_spain/blob/master/resources/imagenes/recuperados.png)
+![Evolución de recuperados a partir del primer día con 10 fallecidos acumulados](/resources/imagenes/recuperados.png)
 
 
 ### 3.2) Comparación entre paises de la evolución del COVID-19 - **actualizados a 11/04/2020** <a name="paises"></a>
 
-![Evolución de recuperados a partir del primer día con 10 fallecidos acumulados](https://github.com/guille-arguello/covid19_spain/blob/master/resources/imagenes/paises.png)
+![Evolución de recuperados a partir del primer día con 10 fallecidos acumulados](/resources/imagenes/paises.png)
 
 
 ## 4. Predicción de la evolución del COVID19 en España <a name="Predicción"></a>
 
-![Evolución de recuperados a partir del primer día con 10 fallecidos acumulados](https://github.com/guille-arguello/covid19_spain/blob/master/resources/imagenes/predicción.png)
+![Evolución de recuperados a partir del primer día con 10 fallecidos acumulados](/resources/imagenes/predicción.png)
 
 
 ## Fuentes
@@ -41,3 +41,4 @@ En este repositorio voy a ir incluyendo software para el análisis de los datos 
 https://covid19.isciii.es/
 
 https://raw.githubusercontent.com/CSSEGISandData/COVID-19/
+
