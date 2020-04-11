@@ -8,6 +8,7 @@
     1. [Datos de España](#Dato_España)
     2. [Comparación paises](#paises)
     3. [Datos de Comunidades Autonomas](#CCAA)
+	4. [Datos globales](#globales)
 
 4. [Predicción de la evolución del COVID19 en España](#Predicción)
 5. [Fuentes](#Fuentes)
@@ -38,7 +39,7 @@ En este repositorio voy a ir incluyendo software para el análisis de los datos 
 
 ### 3.3) Datos de interes Comunidades autonomas - **actualizados a 11/04/2020** <a name="CCAA"></a>
 
-Cataluña he hecho publico el número de tests PCR realizados y los que han sido positovos y negativos
+Cataluña he hecho publico el número de tests PCR realizados y los que han sido positivos y negativos
 
  Dato| Número
 ------------ | -------------
@@ -48,6 +49,39 @@ Negativos | 41050
 
 
 ![Evolución del número de tests PCR hechos en Cataluña al día: totales, positivos y negativos](/resources/imagenes/tests.png)
+
+
+### 3.4) Datos globales - **actualizados a 11/04/2020** <a name="globales"></a>
+
+Tabla por fecha y país con los 10 días con más nuevos casos. Los 10 días con más nuevos casos han sido en Estados Unidos:
+
+Fecha | País| Incremento de casos
+------------ | -------------| -------------
+2020-04-10	| US	| 35098
+2020-04-04	| US	| 33267
+2020-04-08	| US	| 32829
+2020-04-09	| US	| 32385
+2020-04-03	| US	| 31824
+2020-04-02	| US	| 30390
+2020-04-06	| US	| 29595
+2020-04-07	| US	| 29556
+2020-04-05	| US	| 28219
+2020-03-31	| US	| 26341
+
+Tabla por fecha y país con los 10 días con mayor incremento de fallecidos:
+
+Fecha | País| Incremento de fallecidos
+------------ | -------------| -------------
+2020-04-10	|US	|2108
+2020-04-08	|US	|1973
+2020-04-07	|US	|1939
+2020-04-09	|US	|1783
+2020-04-07	|France	|1417
+2020-04-02	|France	|1355
+2020-04-09	|France	|1341
+2020-04-04	|US	|1320
+2020-04-05	|US	|1212
+2020-04-02	|US	|1169
 
 
 ## 4. Predicción de la evolución del COVID19 en España <a name="Predicción"></a>
@@ -68,5 +102,6 @@ Fecha | Incremento de fallecidos
 
 [Web de la Johns Hopkins University](https://raw.githubusercontent.com/CSSEGISandData/COVID-19/)
 
+[Datos Cataluña transparenciacatalunya](https://analisi.transparenciacatalunya.cat/)
 
 
