@@ -38,6 +38,14 @@ En este repositorio voy a ir incluyendo software para el análisis de los datos 
 
 ![Evolución de recuperados a partir del primer día con 10 fallecidos acumulados](/resources/imagenes/predicción.png)
 
+Está predición está hecha sobre la media movil de fallecidos semanal, según lo cual el incremento diario de fallecidos los próximos días sería:
+
+Fecha | Incremento de fallecidos
+------------ | -------------
+11/04/2020 | 734
+12/04/2020 | 434
+13/04/2020 | 582
+
 ## 5. Fuentes <a name="Fuentes"></a>
 
 [Web del Ministerio de Sanidad](https://covid19.isciii.es/)
