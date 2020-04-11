@@ -9,8 +9,7 @@ En este repositorio voy a ir incluyendo software para el análisis de los datos 
 ## Datos actualizados 11/04/2020
 
 
-![Evolución de casos a partir del primer día con 10 fallecidos acumulados](https://github.com/guille-arguello/covid19_spain/tree/master/resources/imagenes/casos.png)
-
+![Evolución de casos a partir del primer día con 10 fallecidos acumulados](https://github.com/guille-arguello/covid19_spain/blob/master/resources/imagenes/casos.png)
 
 
 ## Fuentes
