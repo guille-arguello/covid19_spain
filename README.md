@@ -30,7 +30,7 @@ En este repositorio voy a ir incluyendo software para el análisis de los datos 
 ### PREDICCIÓN de la variación en la media movil semanal de fallecidos, según esta predicción de la evolución de la media movil el número de fallecidos a fecha 11/04/2020 sería 734, el 12/04/2020: 434 y el 13/04/2020: 582
 ![Según esta predicción de la evolución de la media movil el número de fallecidos a fecha 11/04/2020 sería 734, el 12/04/2020: 434 y el 13/04/2020: 582](https://user-images.githubusercontent.com/62479222/79043285-903c4500-7bfe-11ea-914f-0bc05c947a45.png)
 
-
+ 
 
 ## Fuentes
 
