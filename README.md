@@ -23,7 +23,7 @@ En este repositorio voy a ir incluyendo software para el análisis de los datos 
 
 ## 3. Analisis visual de la evolución del COVID-19 <a name="Analisis_visual"></a>
 
-### 3.1) Datos de España - **actualizados a 11/04/2020** <a name="Dato_España"></a>
+### 3.1) Datos de España - **actualizados a 12/04/2020** <a name="Dato_España"></a>
 
 ![Evolución de fallecidos a partir del primer día con 10 fallecidos acumulados](/resources/imagenes/fallecidos.png)
 
@@ -32,12 +32,12 @@ En este repositorio voy a ir incluyendo software para el análisis de los datos 
 ![Evolución de recuperados a partir del primer día con 10 fallecidos acumulados](/resources/imagenes/recuperados.png)
 
 
-### 3.2) Comparación entre paises de la evolución del COVID-19 - **actualizados a 11/04/2020** <a name="paises"></a>
+### 3.2) Comparación entre paises de la evolución del COVID-19 - **actualizados a 12/04/2020** <a name="paises"></a>
 
 ![Evolución de recuperados a partir del primer día con 10 fallecidos acumulados](/resources/imagenes/paises.png)
 
 
-### 3.3) Datos de interes Comunidades autonomas - **actualizados a 11/04/2020** <a name="CCAA"></a>
+### 3.3) Datos de interes Comunidades autonomas - **actualizados a 12/04/2020** <a name="CCAA"></a>
 
 Cataluña he hecho publico el número de tests PCR realizados y los que han sido positivos y negativos
 
@@ -86,15 +86,51 @@ Fecha | País| Incremento de fallecidos
 
 ## 4. Predicción de la evolución del COVID19 en España <a name="Predicción"></a>
 
+
+```python
+mod2 = sm.tsa.statespace.SARIMAX(np.log(data_sem["Diferencia fallecidos dia anterior"]),
+                                order=(0, 1, 0),
+                                seasonal_order=(0, 1, 1, 12),
+                                enforce_stationarity=False,
+                                enforce_invertibility=False)
+results2 = mod2.fit()
+print(results2.summary())
+```
+
+
+                                           SARIMAX Results                                        
+    ==============================================================================================
+    Dep. Variable:     Diferencia fallecidos dia anterior   No. Observations:                   35
+    Model:               SARIMAX(0, 1, 0)x(0, 1, [1], 12)   Log Likelihood                   2.448
+    Date:                                Sun, 12 Apr 2020   AIC                             -0.896
+    Time:                                        12:46:38   BIC                             -0.501
+    Sample:                                    03-08-2020   HQIC                            -1.747
+                                             - 04-11-2020                                         
+    Covariance Type:                                  opg                                         
+    ==============================================================================
+                     coef    std err          z      P>|z|      [0.025      0.975]
+    ------------------------------------------------------------------------------
+    ma.S.L12       0.4659      1.299      0.359      0.720      -2.080       3.012
+    sigma2         0.0300      0.027      1.125      0.260      -0.022       0.082
+    ===================================================================================
+    Ljung-Box (Q):                       12.77   Jarque-Bera (JB):                 0.76
+    Prob(Q):                              0.12   Prob(JB):                         0.69
+    Heteroskedasticity (H):               0.05   Skew:                             0.40
+    Prob(H) (two-sided):                  0.03   Kurtosis:                         1.82
+    ===================================================================================
+    
+    Warnings:
+    [1] Covariance matrix calculated using the outer product of gradients (complex-step).
+
 ![Evolución de recuperados a partir del primer día con 10 fallecidos acumulados](/resources/imagenes/predicción.png)
 
 Está predición está hecha sobre la media movil de fallecidos semanal, según lo cual el incremento diario de fallecidos los próximos días sería:
 
 Fecha | Incremento de fallecidos
 ------------ | -------------
-11/04/2020 | 734
-12/04/2020 | 434
-13/04/2020 | 582
+12/04/2020 | 602
+13/04/2020 | 519
+14/04/2020 | 624
 
 ## 5. Fuentes <a name="Fuentes"></a>
 
