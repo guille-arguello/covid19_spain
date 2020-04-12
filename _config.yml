@@ -6,3 +6,18 @@ theme: jekyll-theme-cayman
 title: COVID-19 en España
 
 # Short description of your site
+
+
+# Select your active Social Network Links.
+# Uncomment the links you want to show in the footer and add your information to each link.
+# You can reorder the items to define the link order.
+# If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
+social-network-links:
+  rss: true
+
+  linkedin: https://www.linkedin.com/in/guillermo-arg%C3%BCello-gonz%C3%A1lez-599437b9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNofztgFzReqI491IQYH5Zg%3D%3D
+
+
+# Select which share links to show in posts
+share-links-active:
+  linkedin: true
