@@ -69,7 +69,7 @@ Renta Media-Alta	| > 125% < 150% de la mediana
 Renta Alta	| > 150% de la mediana
 
 
-
+Ejecutamos el test ANOVA para la mayor fecha disponible al ser datos acumulados. Observamos que a nivel de significación del 95% la varibale renta es significativa a la hora de contiagiarse de COVID-19 en la comunidad de Madrid:
 
 ```python
 from statsmodels.formula.api import ols
@@ -78,7 +78,6 @@ results = ols('tasa_incidencia_acumulada_total ~ data_mad["Renta Categorical"] '
 table = sm.stats.anova_lm(results)
 table
 ```
-
 
 
 
@@ -188,21 +187,6 @@ results.summary()
   <th>data_mad["Renta Categorical"][T.Renta Media-Media]</th> <td> -153.8337</td> <td>   77.201</td> <td>   -1.993</td> <td> 0.050</td> <td> -307.356</td> <td>   -0.312</td>
 </tr>
 </table>
-<table class="simpletable">
-<tr>
-  <th>Omnibus:</th>       <td>11.349</td> <th>  Durbin-Watson:     </th> <td>   1.433</td>
-</tr>
-<tr>
-  <th>Prob(Omnibus):</th> <td> 0.003</td> <th>  Jarque-Bera (JB):  </th> <td>  11.736</td>
-</tr>
-<tr>
-  <th>Skew:</th>          <td> 0.858</td> <th>  Prob(JB):          </th> <td> 0.00283</td>
-</tr>
-<tr>
-  <th>Kurtosis:</th>      <td> 3.469</td> <th>  Cond. No.          </th> <td>    6.08</td>
-</tr>
-</table><br/><br/>Warnings:<br/>[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
-
 
 
 
