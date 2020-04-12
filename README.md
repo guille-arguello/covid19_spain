@@ -268,3 +268,8 @@ Fecha | Incremento de fallecidos
 
 [Datos Madrid](https://datos.comunidad.madrid/)
 
+
+
+## Contacto
+
+[Linkedin](https://www.linkedin.com/in/guillermo-arg%C3%BCello-gonz%C3%A1lez-599437b9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNofztgFzReqI491IQYH5Zg%3D%3D)
