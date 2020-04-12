@@ -8,6 +8,8 @@
     1. [Datos de España](#Dato_España)
     2. [Comparación paises](#paises)
     3. [Datos de Comunidades Autonomas](#CCAA)
+		1. [Número de tests PCR realizados en Cataluña](#Test_cat)
+		2. [Como influye el nivel de renta en la probabilidad de contagiarse en la comunidad de Madrid](#Renta_mad)
 	4. [Datos globales](#globales)
 
 4. [Predicción de la evolución del COVID19 en España](#Predicción)
@@ -25,6 +27,8 @@ En este repositorio voy a ir incluyendo software para el análisis de los datos 
 
 ### 3.1) Datos de España - **actualizados a 12/04/2020** <a name="Dato_España"></a>
 
+En las siguientes gráficas se analiza la evolución del COVID-19 en España:
+
 ![Evolución de fallecidos a partir del primer día con 10 fallecidos acumulados](/resources/imagenes/fallecidos.png)
 
 ![Evolución de casos a partir del primer día con 10 fallecidos acumulados](/resources/imagenes/casos.png)
@@ -39,6 +43,8 @@ En este repositorio voy a ir incluyendo software para el análisis de los datos 
 
 ### 3.3) Datos de interes Comunidades autonomas - **actualizados a 12/04/2020** <a name="CCAA"></a>
 
+#### 3.3.1) Número de tests PCR realizados en Cataluña - **actualizados a 12/04/2020** <a name="Test_cat"></a>
+
 Cataluña he hecho publico el número de tests PCR realizados y los que han sido positivos y negativos
 
  Dato| Número
@@ -47,8 +53,157 @@ Número total de tests | 70446
 Positivos | 29396
 Negativos | 41050
 
-
 ![Evolución del número de tests PCR hechos en Cataluña al día: totales, positivos y negativos](/resources/imagenes/tests.png)
+
+
+#### 3.3.2) Como influye el nivel de renta en la probabilidad de contagiarse en la comunidad de Madrid - **actualizados a 12/04/2020** <a name="Renta_mad"></a>
+
+A partir de los datos que ha hecho públicos la comunidad de Madrid de la tasa de incidencia acumulada por municipio/distrito y la renta neta de los municipios y distritos de Madrid, se ha hecho una analisis ANOVA de cómo influye el nivel de renta en la tasa de incidencia. Los municipios/distritos se han estratificado de la siguiente forma:
+
+Renta | Categorización
+------------ | -------------
+Renta Baja	| < 85% de la mediana
+Renta Media-Baja	| > 85% < 100% de la mediana
+Renta Media-Media	| > 100% < 125% de la mediana
+Renta Media-Alta	| > 125% < 150% de la mediana
+Renta Alta	| > 150% de la mediana
+
+
+
+
+```python
+from statsmodels.formula.api import ols
+data_mad= data_mad[data_mad["fecha_informe"] == data_mad["fecha_informe"].max()]
+results = ols('tasa_incidencia_acumulada_total ~ data_mad["Renta Categorical"] ', data=data_mad).fit()
+table = sm.stats.anova_lm(results)
+table
+```
+
+
+
+
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>df</th>
+      <th>sum_sq</th>
+      <th>mean_sq</th>
+      <th>F</th>
+      <th>PR(&gt;F)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>data_mad["Renta Categorical"]</th>
+      <td>4.0</td>
+      <td>6.476488e+05</td>
+      <td>161912.189810</td>
+      <td>2.684711</td>
+      <td>0.036816</td>
+    </tr>
+    <tr>
+      <th>Residual</th>
+      <td>84.0</td>
+      <td>5.065955e+06</td>
+      <td>60308.984845</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+
+
+```python
+results.summary()
+```
+
+
+
+
+<table class="simpletable">
+<caption>OLS Regression Results</caption>
+<tr>
+  <th>Dep. Variable:</th>    <td>tasa_incidencia_acumulada_total</td> <th>  R-squared:         </th> <td>   0.113</td>
+</tr>
+<tr>
+  <th>Model:</th>                          <td>OLS</td>               <th>  Adj. R-squared:    </th> <td>   0.071</td>
+</tr>
+<tr>
+  <th>Method:</th>                    <td>Least Squares</td>          <th>  F-statistic:       </th> <td>   2.685</td>
+</tr>
+<tr>
+  <th>Date:</th>                    <td>Sun, 12 Apr 2020</td>         <th>  Prob (F-statistic):</th>  <td>0.0368</td> 
+</tr>
+<tr>
+  <th>Time:</th>                        <td>13:38:51</td>             <th>  Log-Likelihood:    </th> <td> -613.53</td>
+</tr>
+<tr>
+  <th>No. Observations:</th>             <td>    89</td>              <th>  AIC:               </th> <td>   1237.</td>
+</tr>
+<tr>
+  <th>Df Residuals:</th>                 <td>    84</td>              <th>  BIC:               </th> <td>   1250.</td>
+</tr>
+<tr>
+  <th>Df Model:</th>                     <td>     4</td>              <th>                     </th>     <td> </td>   
+</tr>
+<tr>
+  <th>Covariance Type:</th>             <td>nonrobust</td>            <th>                     </th>     <td> </td>   
+</tr>
+</table>
+<table class="simpletable">
+<tr>
+                           <td></td>                             <th>coef</th>     <th>std err</th>      <th>t</th>      <th>P>|t|</th>  <th>[0.025</th>    <th>0.975]</th>  
+</tr>
+<tr>
+  <th>Intercept</th>                                          <td>  640.3465</td> <td>   59.562</td> <td>   10.751</td> <td> 0.000</td> <td>  521.902</td> <td>  758.791</td>
+</tr>
+<tr>
+  <th>data_mad["Renta Categorical"][T.Renta Baja]</th>        <td>  124.4390</td> <td>   95.027</td> <td>    1.310</td> <td> 0.194</td> <td>  -64.534</td> <td>  313.412</td>
+</tr>
+<tr>
+  <th>data_mad["Renta Categorical"][T.Renta Media-Alta]</th>  <td>  -54.4895</td> <td>   90.481</td> <td>   -0.602</td> <td> 0.549</td> <td> -234.420</td> <td>  125.441</td>
+</tr>
+<tr>
+  <th>data_mad["Renta Categorical"][T.Renta Media-Baja]</th>  <td>  -41.2813</td> <td>   78.548</td> <td>   -0.526</td> <td> 0.601</td> <td> -197.482</td> <td>  114.919</td>
+</tr>
+<tr>
+  <th>data_mad["Renta Categorical"][T.Renta Media-Media]</th> <td> -153.8337</td> <td>   77.201</td> <td>   -1.993</td> <td> 0.050</td> <td> -307.356</td> <td>   -0.312</td>
+</tr>
+</table>
+<table class="simpletable">
+<tr>
+  <th>Omnibus:</th>       <td>11.349</td> <th>  Durbin-Watson:     </th> <td>   1.433</td>
+</tr>
+<tr>
+  <th>Prob(Omnibus):</th> <td> 0.003</td> <th>  Jarque-Bera (JB):  </th> <td>  11.736</td>
+</tr>
+<tr>
+  <th>Skew:</th>          <td> 0.858</td> <th>  Prob(JB):          </th> <td> 0.00283</td>
+</tr>
+<tr>
+  <th>Kurtosis:</th>      <td> 3.469</td> <th>  Cond. No.          </th> <td>    6.08</td>
+</tr>
+</table><br/><br/>Warnings:<br/>[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+
 
 
 ### 3.4) Datos globales - **actualizados a 11/04/2020** <a name="globales"></a>
@@ -63,10 +218,10 @@ Fecha | País| Incremento de casos
 2020-04-09	| US	| 32385
 2020-04-03	| US	| 31824
 2020-04-02	| US	| 30390
+2020-04-11	| US	| 29861
 2020-04-06	| US	| 29595
 2020-04-07	| US	| 29556
 2020-04-05	| US	| 28219
-2020-03-31	| US	| 26341
 
 Tabla por fecha y país con los 10 días con mayor incremento de fallecidos:
 
@@ -75,13 +230,13 @@ Fecha | País| Incremento de fallecidos
 2020-04-10	|US	|2108
 2020-04-08	|US	|1973
 2020-04-07	|US	|1939
+2020-04-11	|US	|1877
 2020-04-09	|US	|1783
 2020-04-07	|France	|1417
 2020-04-02	|France	|1355
 2020-04-09	|France	|1341
 2020-04-04	|US	|1320
 2020-04-05	|US	|1212
-2020-04-02	|US	|1169
 
 
 ## 4. Predicción de la evolución del COVID19 en España <a name="Predicción"></a>
@@ -140,4 +295,5 @@ Fecha | Incremento de fallecidos
 
 [Datos Cataluña transparenciacatalunya](https://analisi.transparenciacatalunya.cat/)
 
+[Datos Madrid](https://datos.comunidad.madrid/)
 
