@@ -25,7 +25,7 @@ En este repositorio voy a ir incluyendo software para el análisis de los datos 
 
 ## 3. Analisis visual de la evolución del COVID-19 <a name="Analisis_visual"></a>
 
-### 3.1) Datos de España - **actualizados a 12/04/2020** <a name="Dato_España"></a>
+### 3.1) Datos de España - **actualizados a 13/04/2020** <a name="Dato_España"></a>
 
 En las siguientes gráficas se analiza la evolución del COVID-19 en España:
 
@@ -36,7 +36,7 @@ En las siguientes gráficas se analiza la evolución del COVID-19 en España:
 ![Evolución de recuperados a partir del primer día con 10 fallecidos acumulados](/resources/imagenes/recuperados.png)
 
 
-### 3.2) Comparación entre paises de la evolución del COVID-19 - **actualizados a 12/04/2020** <a name="paises"></a>
+### 3.2) Comparación entre paises de la evolución del COVID-19 - **actualizados a 13/04/2020** <a name="paises"></a>
 
 ![Evolución de recuperados a partir del primer día con 10 fallecidos acumulados](/resources/imagenes/paises.png)
 
@@ -177,7 +177,7 @@ results.summary()
 
 
 
-### 3.4) Datos globales - **actualizados a 11/04/2020** <a name="globales"></a>
+### 3.4) Datos globales - **actualizados a 12/04/2020** <a name="globales"></a>
 
 Tabla por fecha y país con los 10 días con más nuevos casos. Los 10 días con más nuevos casos han sido en Estados Unidos:
 
