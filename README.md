@@ -214,49 +214,53 @@ Fecha | País| Incremento de fallecidos
 
 
 ```python
-mod2 = sm.tsa.statespace.SARIMAX(np.log(data_sem["Diferencia fallecidos dia anterior"]),
-                                order=(0, 1, 0),
-                                seasonal_order=(0, 1, 1, 12),
+mod = sm.tsa.statespace.SARIMAX(np.log(data_es["Diferencia fallecidos dia anterior"]),
+                                order=(1, 1, 1),
+                                seasonal_order=(1, 1, 0, 12),
                                 enforce_stationarity=False,
                                 enforce_invertibility=False)
-results2 = mod2.fit()
-print(results2.summary())
+results = mod.fit()
+print(results.summary())
 ```
 
 
-                                           SARIMAX Results                                        
-    ==============================================================================================
-    Dep. Variable:     Diferencia fallecidos dia anterior   No. Observations:                   35
-    Model:               SARIMAX(0, 1, 0)x(0, 1, [1], 12)   Log Likelihood                   2.448
-    Date:                                Sun, 12 Apr 2020   AIC                             -0.896
-    Time:                                        12:46:38   BIC                             -0.501
-    Sample:                                    03-08-2020   HQIC                            -1.747
-                                             - 04-11-2020                                         
-    Covariance Type:                                  opg                                         
-    ==============================================================================
-                     coef    std err          z      P>|z|      [0.025      0.975]
-    ------------------------------------------------------------------------------
-    ma.S.L12       0.4659      1.299      0.359      0.720      -2.080       3.012
-    sigma2         0.0300      0.027      1.125      0.260      -0.022       0.082
-    ===================================================================================
-    Ljung-Box (Q):                       12.77   Jarque-Bera (JB):                 0.76
-    Prob(Q):                              0.12   Prob(JB):                         0.69
-    Heteroskedasticity (H):               0.05   Skew:                             0.40
-    Prob(H) (two-sided):                  0.03   Kurtosis:                         1.82
-    ===================================================================================
-    
-    Warnings:
-    [1] Covariance matrix calculated using the outer product of gradients (complex-step).
+                                       SARIMAX Results                                        
+==============================================================================================
+Dep. Variable:     Diferencia fallecidos dia anterior   No. Observations:                   37
+Model:                SARIMAX(1, 1, 1)x(1, 1, [], 12)   Log Likelihood                   3.297
+Date:                                Tue, 14 Apr 2020   AIC                              1.405
+Time:                                        17:13:23   BIC                              2.997
+Sample:                                    03-08-2020   HQIC                             0.402
+                                         - 04-13-2020                                         
+Covariance Type:                                  opg                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+ar.L1          0.8252      0.162      5.083      0.000       0.507       1.143
+ma.L1         -1.0000    4.3e+04  -2.33e-05      1.000   -8.43e+04    8.43e+04
+ar.S.L12      -0.0095      0.065     -0.146      0.884      -0.137       0.118
+sigma2         0.0268   1153.003   2.33e-05      1.000   -2259.817    2259.871
+===================================================================================
+Ljung-Box (Q):                        8.34   Jarque-Bera (JB):                 3.18
+Prob(Q):                              0.60   Prob(JB):                         0.20
+Heteroskedasticity (H):               0.28   Skew:                             1.24
+Prob(H) (two-sided):                  0.24   Kurtosis:                         3.88
+===================================================================================
+
+Warnings:
+[1] Covariance matrix calculated using the outer product of gradients (complex-step).
 
 ![Evolución de recuperados a partir del primer día con 10 fallecidos acumulados](/resources/imagenes/predicción.png)
 
-Está predición está hecha sobre la media movil de fallecidos semanal, según lo cual el incremento diario de fallecidos los próximos días sería:
+Está predición está hecha sobre el incremento de fallecidos diario, por lo tanto el dato observado se publica en D+1.
 
-Fecha | Incremento de fallecidos
------------- | -------------
-12/04/2020 | 602
-13/04/2020 | 519
-14/04/2020 | 624
+Fecha | Incremento de fallecidos predicho | Incremento de fallecidos observado
+------------ | ------------- | -------------
+13/04/2020 | 555 | 567 
+14/04/2020 | 544 |  
+15/04/2020 | 464 |  
+16/04/2020 | 382 |  
+
 
 ## 5. Fuentes <a name="Fuentes"></a>
 
