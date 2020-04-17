@@ -25,7 +25,7 @@ En este repositorio voy a ir incluyendo software para el análisis de los datos 
 
 ## 3. Analisis visual de la evolución del COVID-19 <a name="Analisis_visual"></a>
 
-### 3.1) Datos de España - **actualizados a 16/04/2020** <a name="Dato_España"></a>
+### 3.1) Datos de España - **actualizados a 17/04/2020** <a name="Dato_España"></a>
 
 En las siguientes gráficas se analiza la evolución del COVID-19 en España:
 
@@ -36,14 +36,14 @@ En las siguientes gráficas se analiza la evolución del COVID-19 en España:
 ![Evolución de recuperados a partir del primer día con 10 fallecidos acumulados](/resources/imagenes/recuperados.png)
 
 
-### 3.2) Comparación entre paises de la evolución del COVID-19 - **actualizados a 16/04/2020** <a name="paises"></a>
+### 3.2) Comparación entre paises de la evolución del COVID-19 - **actualizados a 17/04/2020** <a name="paises"></a>
 
 ![Evolución de recuperados a partir del primer día con 10 fallecidos acumulados](/resources/imagenes/paises.png)
 
 
-### 3.3) Datos de interes Comunidades autonomas - **actualizados a 16/04/2020** <a name="CCAA"></a>
+### 3.3) Datos de interes Comunidades autonomas - **actualizados a 17/04/2020** <a name="CCAA"></a>
 
-#### 3.3.1) Número de tests PCR realizados en Cataluña - **actualizados a 16/04/2020** <a name="Test_cat"></a>
+#### 3.3.1) Número de tests PCR realizados en Cataluña - **actualizados a 17/04/2020** <a name="Test_cat"></a>
 
 Cataluña he hecho publico el número de tests PCR realizados y los que han sido positivos y negativos
 
@@ -177,7 +177,7 @@ results.summary()
 
 
 
-### 3.4) Datos globales - **actualizados a 14/04/2020** <a name="globales"></a>
+### 3.4) Datos globales - **actualizados a 17/04/2020** <a name="globales"></a>
 
 Tabla por fecha y país con los 10 días con más nuevos casos. Los 10 días con más nuevos casos han sido en Estados Unidos:
 
@@ -198,17 +198,16 @@ Tabla por fecha y país con los 10 días con mayor incremento de fallecidos:
 
 Fecha | País| Incremento de fallecidos
 ------------ | -------------| -------------
-2020-04-10	|US	|2108
-2020-04-08	|US	|1973
-2020-04-07	|US	|1939
-2020-04-11	|US	|1877
-2020-04-09	|US	|1783
-2020-04-12	|US	|1557
-2020-04-13	|US	|1509
-2020-04-07	|France	|1417
-2020-04-02	|France	|1355
-2020-04-09	|France	|1341
-
+020-04-16|US|4591
+2020-04-15|US|2494
+2020-04-14|US|2303
+2020-04-10|US|2108
+2020-04-08|US|1973
+2020-04-07|US|1939
+2020-04-11|US|1876
+2020-04-09|US|1783
+2020-04-12|US|1557
+2020-04-13|US|1509
 
 
 ## 4. Predicción de la evolución del COVID19 en España <a name="Predicción"></a>
@@ -260,8 +259,9 @@ Fecha | Incremento de fallecidos predicho | Incremento de fallecidos observado
 13/04/2020 | 555 | 567 
 14/04/2020 | 544 | 523 
 15/04/2020 | 447 | 551
-16/04/2020 | 452 |  
-17/04/2020 | 429 |  
+16/04/2020 | 452 | 585 
+17/04/2020 | 412 |  
+17/04/2020 | 465 |  
 
 
 ## 5. Fuentes <a name="Fuentes"></a>
