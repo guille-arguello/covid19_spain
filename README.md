@@ -49,9 +49,9 @@ Cataluña he hecho publico el número de tests PCR realizados y los que han sido
 
  Dato| Número
 ------------ | -------------
-Número total de tests | 77382
-Positivos | 31980
-Negativos | 45402
+Número total de tests | 82611
+Positivos | 33247
+Negativos | 49364
 
 ![Evolución del número de tests PCR hechos en Cataluña al día: totales, positivos y negativos](/resources/imagenes/tests.png)
 
@@ -198,7 +198,7 @@ Tabla por fecha y país con los 10 días con mayor incremento de fallecidos:
 
 Fecha | País| Incremento de fallecidos
 ------------ | -------------| -------------
-020-04-16|US|4591
+2020-04-16|US|4591
 2020-04-15|US|2494
 2020-04-14|US|2303
 2020-04-10|US|2108
