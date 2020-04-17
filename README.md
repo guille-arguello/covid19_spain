@@ -35,6 +35,8 @@ En las siguientes gráficas se analiza la evolución del COVID-19 en España:
 
 ![Evolución de recuperados a partir del primer día con 10 fallecidos acumulados](/resources/imagenes/recuperados.png)
 
+![Evolución de casos activos: acumulado de casos menos el acumulado de falecidos y recuperados](/resources/imagenes/casos_activos.png)
+
 
 ### 3.2) Comparación entre paises de la evolución del COVID-19 - **actualizados a 17/04/2020** <a name="paises"></a>
 
