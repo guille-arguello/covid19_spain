@@ -6,6 +6,9 @@
 2. [Descripción](#Descripción)
 3. [Analisis visual de la evolución del COVID-19](#Analisis_visual)
     1. [Datos de España](#Dato_España)
+		1. [Incrementos diarios](#incrementos)
+		2. [Totales vs diarios](#tot_vs_dia)
+		3. [Incrementos porcentuales](#porcentuales)
     2. [Comparación paises](#paises)
     3. [Datos de Comunidades Autonomas](#CCAA)
 		1. [Número de tests PCR realizados en Cataluña](#Test_cat)
@@ -25,9 +28,12 @@ En este repositorio voy a ir incluyendo software para el análisis de los datos 
 
 ## 3. Analisis visual de la evolución del COVID-19 <a name="Analisis_visual"></a>
 
-### 3.1) Datos de España - **actualizados a 17/04/2020** <a name="Dato_España"></a>
+### 3.1) Datos de España - **actualizados a 18/04/2020** <a name="Dato_España"></a>
 
-En las siguientes gráficas se analiza la evolución del COVID-19 en España:
+#### 3.1.1) Incrementos diarios **actualizados a 18/04/2020** <a name="incrementos"></a>
+
+
+En las siguientes gráficas se analiza la evolución del COVID-19 en España, incrementos diarios de las cifras de fallecidos, casos y recuperados, así como de casos activos.
 
 ![Evolución de fallecidos a partir del primer día con 10 fallecidos acumulados](/resources/imagenes/fallecidos.png)
 
@@ -37,23 +43,38 @@ En las siguientes gráficas se analiza la evolución del COVID-19 en España:
 
 ![Evolución de casos activos: acumulado de casos menos el acumulado de falecidos y recuperados](/resources/imagenes/casos_activos.png)
 
+#### 3.1.2) Totales VS diarios **actualizados a 18/04/2020** <a name="tot_vs_dia"></a>
 
-### 3.2) Comparación entre paises de la evolución del COVID-19 - **actualizados a 17/04/2020** <a name="paises"></a>
+A continuación tenemos otra forma de ver los datos, la evolución de los casos totales respecto a los diarios, con un ajuste polinomial de orden 5 de los puntos 
+
+![Fallecidos VS incremento de fallecidos día anterior](/resources/imagenes/fallecidos_VS_incremento.png)
+
+![Casos VS incremento de casos día anterior](/resources/imagenes/casos_VS_incremento.png)
+
+
+#### 3.1.3) Incrementos porcentuales **actualizados a 18/04/2020** <a name="tot_vs_dia"></a>
+
+A continuación podemos ver el incremento porcentual de casos y fallecidos del dia respecto al total de casos. Como se puede observar lleva estancado días en torno al 3%.
+
+![Incrementos porcentual](/resources/imagenes/incremento_porcentual.png)
+
+
+### 3.2) Comparación entre paises de la evolución del COVID-19 - **actualizados a 18/04/2020** <a name="paises"></a>
 
 ![Evolución de recuperados a partir del primer día con 10 fallecidos acumulados](/resources/imagenes/paises.png)
 
 
-### 3.3) Datos de interes Comunidades autonomas - **actualizados a 17/04/2020** <a name="CCAA"></a>
+### 3.3) Datos de interes Comunidades autonomas - **actualizados a 18/04/2020** <a name="CCAA"></a>
 
-#### 3.3.1) Número de tests PCR realizados en Cataluña - **actualizados a 17/04/2020** <a name="Test_cat"></a>
+#### 3.3.1) Número de tests PCR realizados en Cataluña - **actualizados a 18/04/2020** <a name="Test_cat"></a>
 
 Cataluña he hecho publico el número de tests PCR realizados y los que han sido positivos y negativos
 
  Dato| Número
 ------------ | -------------
-Número total de tests | 82611
-Positivos | 33247
-Negativos | 49364
+Número total de tests | 83447
+Positivos | 33446
+Negativos | 50001
 
 ![Evolución del número de tests PCR hechos en Cataluña al día: totales, positivos y negativos](/resources/imagenes/tests.png)
 
@@ -179,7 +200,7 @@ results.summary()
 
 
 
-### 3.4) Datos globales - **actualizados a 17/04/2020** <a name="globales"></a>
+### 3.4) Datos globales - **actualizados a 18/04/2020** <a name="globales"></a>
 
 Tabla por fecha y país con los 10 días con más nuevos casos. Los 10 días con más nuevos casos han sido en Estados Unidos:
 
@@ -189,18 +210,19 @@ Fecha | País| Incremento de casos
 2020-04-04	| US	| 33267
 2020-04-08	| US	| 32829
 2020-04-09	| US	| 32385
+2020-04-17	| US	| 31905
 2020-04-03	| US	| 31824
 2020-04-02	| US	| 30390
 2020-04-11	| US	| 29861
 2020-04-06	| US	| 29595
 2020-04-07	| US	| 29556
-2020-04-12	| US	| 28917
 
 Tabla por fecha y país con los 10 días con mayor incremento de fallecidos:
 
 Fecha | País| Incremento de fallecidos
 ------------ | -------------| -------------
 2020-04-16|US|4591
+2020-04-17|US|3857
 2020-04-15|US|2494
 2020-04-14|US|2303
 2020-04-10|US|2108
@@ -209,7 +231,6 @@ Fecha | País| Incremento de fallecidos
 2020-04-11|US|1876
 2020-04-09|US|1783
 2020-04-12|US|1557
-2020-04-13|US|1509
 
 
 ## 4. Predicción de la evolución del COVID19 en España <a name="Predicción"></a>

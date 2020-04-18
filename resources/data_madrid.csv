@@ -1,886 +1,981 @@
 ,municipio_distrito,fecha_informe,casos_confirmados_totales,tasa_incidencia_acumulada_total,MUNICIPIO,RENTA DISPONIBLE MEDIA,NUMERO HABITANTES,Renta Categorical
-0,Madrid-Retiro,2020/04/17 07:00:00,1186.0,1066.8,Madrid-Retiro,51.79,119379.0,Renta Alta
-1,Madrid-Salamanca,2020/04/17 07:00:00,1260.0,800.81,Madrid-Salamanca,53.972,146148.0,Renta Alta
-2,Madrid-Centro,2020/04/17 07:00:00,904.0,635.59,Madrid-Centro,31.378,134881.0,Renta Media-Alta
-3,Madrid-Arganzuela,2020/04/17 07:00:00,1287.0,721.4,Madrid-Arganzuela,40.201,153830.0,Renta Alta
-4,Madrid-Chamartín,2020/04/17 07:00:00,1232.0,838.75,Madrid-Chamartín,60.948,145865.0,Renta Alta
-5,Madrid-Tetuán,2020/04/17 07:00:00,1720.0,1052.13,Madrid-Tetuán,34.7,157937.0,Renta Alta
-6,Madrid-Chamberí,2020/04/17 07:00:00,1156.0,778.55,Madrid-Chamberí,48.989,139448.0,Renta Alta
-9,Madrid-Latina,2020/04/17 07:00:00,2190.0,877.51,Madrid-Latina,30.156,238154.0,Renta Media-Alta
-10,Madrid-Carabanchel,2020/04/17 07:00:00,2113.0,857.49,Madrid-Carabanchel,27.936,253040.0,Renta Media-Alta
-11,Madrid-Usera,2020/04/17 07:00:00,1142.0,769.27,Madrid-Usera,25.569000000000003,139501.0,Renta Media-Media
-12,Madrid-Puente de Vallecas,2020/04/17 07:00:00,2543.0,994.39,Madrid-Puente de Vallecas,24.688000000000002,234770.0,Renta Media-Media
-13,Madrid-San Blas - Canillejas,2020/04/17 07:00:00,1200.0,864.09,Madrid-San Blas - Canillejas,34.494,158166.0,Renta Alta
-14,Madrid-Barajas,2020/04/17 07:00:00,360.0,683.36,Madrid-Barajas,46.347,48972.0,Renta Alta
-15,Madrid-Moratalaz,2020/04/17 07:00:00,1116.0,1146.07,Madrid-Moratalaz,34.753,94609.0,Renta Alta
-16,Madrid-Ciudad Lineal,2020/04/17 07:00:00,1790.0,676.35,Madrid-Ciudad Lineal,36.833,216270.0,Renta Alta
-17,Madrid-Hortaleza,2020/04/17 07:00:00,1462.0,691.99,Madrid-Hortaleza,47.11,188267.0,Renta Alta
-18,Madrid-Villaverde,2020/04/17 07:00:00,1172.0,736.91,Madrid-Villaverde,26.599,148883.0,Renta Media-Alta
-19,Madrid-Villa de Vallecas,2020/04/17 07:00:00,1063.0,996.91,Madrid-Villa de Vallecas,30.17,110436.0,Renta Media-Alta
-20,Madrid-Vicálvaro,2020/04/17 07:00:00,675.0,938.96,Madrid-Vicálvaro,31.465999999999998,72126.0,Renta Media-Alta
-21,Pozuelo de Alarcón,2020/04/17 07:00:00,526.0,595.7,Pozuelo de Alarcón,44.043,84360.0,Renta Alta
-22,Alcorcón,2020/04/17 07:00:00,1386.0,792.72,Alcorcón,20.995,170336.0,Renta Media-Baja
-23,Navalcarnero,2020/04/17 07:00:00,134.0,474.69,Navalcarnero,20.189,26364.0,Renta Media-Baja
-24,San Agustín del Guadalix,2020/04/17 07:00:00,49.0,336.47,San Agustín del Guadalix,30.633000000000003,12953.0,Renta Media-Alta
-28,Valdemorillo,2020/04/17 07:00:00,33.0,272.25,Valdemorillo,24.861,12058.0,Renta Media-Media
-29,Velilla de San Antonio,2020/04/17 07:00:00,56.0,448.25,Velilla de San Antonio,20.5,12334.0,Renta Media-Baja
-30,Villanueva de la Cañada,2020/04/17 07:00:00,83.0,340.39,Villanueva de la Cañada,32.688,18827.0,Renta Alta
-31,Villanueva del Pardillo,2020/04/17 07:00:00,67.0,396.71,Villanueva del Pardillo,27.166999999999998,16730.0,Renta Media-Alta
-32,Nuevo Baztán,2020/04/17 07:00:00,24.0,361.07,Nuevo Baztán,23.03,5959.0,Renta Media-Media
-37,Aranjuez,2020/04/17 07:00:00,380.0,599.08,Aranjuez,20.976,57792.0,Renta Media-Baja
-38,Cercedilla,2020/04/17 07:00:00,84.0,1121.94,Cercedilla,20.721999999999998,6831.0,Renta Media-Baja
-40,Coslada,2020/04/17 07:00:00,709.0,802.01,Coslada,20.386,88847.0,Renta Media-Baja
-41,Morata de Tajuña,2020/04/17 07:00:00,83.0,1068.62,Morata de Tajuña,17.993,7452.0,Renta Baja
-44,Navas del Rey,2020/04/17 07:00:00,45.0,1528.53,Navas del Rey,17.605999999999998,2640.0,Renta Baja
-45,Becerril de la Sierra,2020/04/17 07:00:00,22.0,381.15,Becerril de la Sierra,23.642,5351.0,Renta Media-Media
-46,Fuenlabrada,2020/04/17 07:00:00,1279.0,626.91,Fuenlabrada,17.832,195864.0,Renta Baja
-47,Pinto,2020/04/17 07:00:00,186.0,349.94,Pinto,20.927,47594.0,Renta Media-Baja
-51,Galapagar,2020/04/17 07:00:00,162.0,488.39,Galapagar,25.579,32380.0,Renta Media-Media
-52,Griñón,2020/04/17 07:00:00,71.0,614.93,Griñón,22.293000000000003,9928.0,Renta Media-Media
-53,Aldea del Fresno,2020/04/17 07:00:00,35.0,1160.48,Aldea del Fresno,17.879,2528.0,Renta Baja
-55,Talamanca de Jarama,2020/04/17 07:00:00,21.0,670.5,Talamanca de Jarama,19.675,3267.0,Renta Media-Baja
-57,Ciempozuelos,2020/04/17 07:00:00,151.0,588.33,Ciempozuelos,18.608,23739.0,Renta Media-Baja
-59,San Lorenzo de El Escorial,2020/04/17 07:00:00,86.0,485.46,San Lorenzo de El Escorial,24.318,18241.0,Renta Media-Media
-60,San Martín de la Vega,2020/04/17 07:00:00,65.0,319.18,San Martín de la Vega,18.410999999999998,19092.0,Renta Media-Baja
-61,Móstoles,2020/04/17 07:00:00,1640.0,750.41,Móstoles,19.06,205712.0,Renta Media-Baja
-62,Leganés,2020/04/17 07:00:00,2560.0,1300.1,Leganés,19.548,186696.0,Renta Media-Baja
-64,Algete,2020/04/17 07:00:00,89.0,400.81,Algete,27.386,20102.0,Renta Media-Alta
-65,Mejorada del Campo,2020/04/17 07:00:00,159.0,648.82,Mejorada del Campo,18.533,22763.0,Renta Media-Baja
-66,Loeches,2020/04/17 07:00:00,48.0,692.54,Loeches,19.984,8159.0,Renta Media-Baja
-67,Parla,2020/04/17 07:00:00,621.0,454.26,Parla,17.772000000000002,125323.0,Renta Baja
-73,Soto del Real,2020/04/17 07:00:00,54.0,551.25,Soto del Real,26.491999999999997,8482.0,Renta Media-Media
-75,Fuente el Saz de Jarama,2020/04/17 07:00:00,22.0,257.61,Fuente el Saz de Jarama,21.414,6409.0,Renta Media-Media
-77,Campo Real,2020/04/17 07:00:00,22.0,365.21,Campo Real,19.386,5775.0,Renta Media-Baja
-79,Cobeña,2020/04/17 07:00:00,51.0,683.92,Cobeña,28.180999999999997,6921.0,Renta Media-Alta
-82,Guadarrama,2020/04/17 07:00:00,112.0,708.95,Guadarrama,22.3,15547.0,Renta Media-Media
-83,San Martín de Valdeiglesias,2020/04/17 07:00:00,63.0,738.66,San Martín de Valdeiglesias,17.371,8516.0,Renta Baja
-84,Torrelodones,2020/04/17 07:00:00,125.0,481.99,Torrelodones,33.721,22838.0,Renta Alta
-85,Boadilla del Monte,2020/04/17 07:00:00,230.0,435.3,Boadilla del Monte,36.065,47852.0,Renta Alta
-87,Tielmes,2020/04/17 07:00:00,29.0,1287.17,Tielmes,16.039,2617.0,Renta Baja
-88,San Sebastián de los Reyes,2020/04/17 07:00:00,394.0,429.47,San Sebastián de los Reyes,24.82,83329.0,Renta Media-Media
-89,Guadalix de la Sierra,2020/04/17 07:00:00,28.0,469.4,Guadalix de la Sierra,21.118000000000002,6057.0,Renta Media-Baja
-90,Humanes de Madrid,2020/04/17 07:00:00,90.0,436.72,Humanes de Madrid,17.593,19404.0,Renta Baja
-91,Chinchón,2020/04/17 07:00:00,23.0,445.65,Chinchón,16.925,5447.0,Renta Baja
-93,Hoyo de Manzanares,2020/04/17 07:00:00,23.0,300.22,Hoyo de Manzanares,27.424,7834.0,Renta Media-Alta
-94,Torrejón de la Calzada,2020/04/17 07:00:00,30.0,347.99,Torrejón de la Calzada,20.897,7739.0,Renta Media-Baja
-97,Meco,2020/04/17 07:00:00,119.0,851.09,Meco,21.186,13133.0,Renta Media-Baja
-98,Arganda del Rey,2020/04/17 07:00:00,287.0,495.31,Arganda del Rey,19.113,55307.0,Renta Media-Baja
-99,Collado Mediano,2020/04/17 07:00:00,21.0,319.49,Collado Mediano,25.078000000000003,6780.0,Renta Media-Media
-100,Daganzo de Arriba,2020/04/17 07:00:00,37.0,341.52,Daganzo de Arriba,23.326,9841.0,Renta Media-Media
-104,Miraflores de la Sierra,2020/04/17 07:00:00,31.0,561.8,Miraflores de la Sierra,22.005,5890.0,Renta Media-Media
-105,Paracuellos de Jarama,2020/04/17 07:00:00,62.0,269.46,Paracuellos de Jarama,28.272,21718.0,Renta Media-Alta
-107,Collado Villalba,2020/04/17 07:00:00,337.0,486.47,Collado Villalba,21.276,62587.0,Renta Media-Media
-108,Colmenarejo,2020/04/17 07:00:00,30.0,370.87,Colmenarejo,23.395,8934.0,Renta Media-Media
-110,Sevilla la Nueva,2020/04/17 07:00:00,67.0,673.43,Sevilla la Nueva,21.335,8858.0,Renta Media-Media
-111,Colmenar de Oreja,2020/04/17 07:00:00,23.0,319.58,Colmenar de Oreja,16.418,8409.0,Renta Baja
-112,Brunete,2020/04/17 07:00:00,58.0,513.64,Brunete,23.574,10188.0,Renta Media-Media
-114,Villa del Prado,2020/04/17 07:00:00,80.0,1212.67,Villa del Prado,16.761,6506.0,Renta Baja
-116,Valdemoro,2020/04/17 07:00:00,582.0,761.8,Valdemoro,21.309,72265.0,Renta Media-Media
-117,Tres Cantos,2020/04/17 07:00:00,276.0,574.4,Tres Cantos,30.728,42546.0,Renta Media-Alta
-121,Arroyomolinos,2020/04/17 07:00:00,136.0,521.29,Arroyomolinos,22.896,25374.0,Renta Media-Media
-122,Moralzarzal,2020/04/17 07:00:00,59.0,453.08,Moralzarzal,25.058000000000003,12321.0,Renta Media-Media
-123,Villarejo de Salvanés,2020/04/17 07:00:00,33.0,433.01,Villarejo de Salvanés,17.114,7301.0,Renta Baja
-124,Serranillos del Valle,2020/04/17 07:00:00,27.0,710.71,Serranillos del Valle,20.634,3957.0,Renta Media-Baja
-125,Villaviciosa de Odón,2020/04/17 07:00:00,159.0,573.18,Villaviciosa de Odón,29.414,26911.0,Renta Media-Alta
-126,Camarma de Esteruelas,2020/04/17 07:00:00,38.0,533.93,Camarma de Esteruelas,20.953000000000003,7048.0,Renta Media-Baja
-129,Majadahonda,2020/04/17 07:00:00,384.0,492.5,Majadahonda,35.254,70359.0,Renta Alta
-131,Alcobendas,2020/04/17 07:00:00,557.0,459.52,Alcobendas,34.037,112188.0,Renta Alta
-132,Alcalá de Henares,2020/04/17 07:00:00,2107.0,1007.91,Alcalá de Henares,21.379,200768.0,Renta Media-Media
-133,Colmenar Viejo,2020/04/17 07:00:00,285.0,565.44,Colmenar Viejo,23.982,47445.0,Renta Media-Media
-134,San Fernando de Henares,2020/04/17 07:00:00,348.0,828.04,San Fernando de Henares,19.78,40781.0,Renta Media-Baja
-135,Villalbilla,2020/04/17 07:00:00,84.0,751.68,Villalbilla,24.35,11916.0,Renta Media-Media
-137,Torrejón de Ardoz,2020/04/17 07:00:00,854.0,617.55,Torrejón de Ardoz,19.585,126878.0,Renta Media-Baja
-139,Torres de la Alameda,2020/04/17 07:00:00,67.0,813.11,Torres de la Alameda,19.135,7939.0,Renta Media-Baja
-140,Alpedrete,2020/04/17 07:00:00,88.0,609.71,Alpedrete,24.855999999999998,14005.0,Renta Media-Media
-142,Getafe,2020/04/17 07:00:00,979.0,511.5,Getafe,21.031999999999996,173057.0,Renta Media-Baja
-145,Madrid-Retiro,2020/04/16 07:00:00,1156.0,1039.81,Madrid-Retiro,51.79,119379.0,Renta Alta
-146,Madrid-Salamanca,2020/04/16 07:00:00,1232.0,783.01,Madrid-Salamanca,53.972,146148.0,Renta Alta
-147,Madrid-Centro,2020/04/16 07:00:00,863.0,606.77,Madrid-Centro,31.378,134881.0,Renta Media-Alta
-148,Madrid-Arganzuela,2020/04/16 07:00:00,1241.0,695.62,Madrid-Arganzuela,40.201,153830.0,Renta Alta
-149,Madrid-Chamartín,2020/04/16 07:00:00,1206.0,821.05,Madrid-Chamartín,60.948,145865.0,Renta Alta
-150,Madrid-Tetuán,2020/04/16 07:00:00,1679.0,1027.05,Madrid-Tetuán,34.7,157937.0,Renta Alta
-151,Madrid-Chamberí,2020/04/16 07:00:00,1109.0,746.89,Madrid-Chamberí,48.989,139448.0,Renta Alta
-154,Madrid-Latina,2020/04/16 07:00:00,2122.0,850.26,Madrid-Latina,30.156,238154.0,Renta Media-Alta
-155,Madrid-Carabanchel,2020/04/16 07:00:00,2051.0,832.33,Madrid-Carabanchel,27.936,253040.0,Renta Media-Alta
-156,Madrid-Usera,2020/04/16 07:00:00,1130.0,761.19,Madrid-Usera,25.569000000000003,139501.0,Renta Media-Media
-157,Madrid-Puente de Vallecas,2020/04/16 07:00:00,2516.0,983.83,Madrid-Puente de Vallecas,24.688000000000002,234770.0,Renta Media-Media
-158,Madrid-San Blas - Canillejas,2020/04/16 07:00:00,1172.0,843.92,Madrid-San Blas - Canillejas,34.494,158166.0,Renta Alta
-159,Madrid-Barajas,2020/04/16 07:00:00,357.0,677.66,Madrid-Barajas,46.347,48972.0,Renta Alta
-160,Madrid-Moratalaz,2020/04/16 07:00:00,1088.0,1117.32,Madrid-Moratalaz,34.753,94609.0,Renta Alta
-161,Madrid-Ciudad Lineal,2020/04/16 07:00:00,1740.0,657.46,Madrid-Ciudad Lineal,36.833,216270.0,Renta Alta
-162,Madrid-Hortaleza,2020/04/16 07:00:00,1439.0,681.1,Madrid-Hortaleza,47.11,188267.0,Renta Alta
-163,Madrid-Villaverde,2020/04/16 07:00:00,1140.0,716.79,Madrid-Villaverde,26.599,148883.0,Renta Media-Alta
-164,Madrid-Villa de Vallecas,2020/04/16 07:00:00,1055.0,989.41,Madrid-Villa de Vallecas,30.17,110436.0,Renta Media-Alta
-165,Madrid-Vicálvaro,2020/04/16 07:00:00,663.0,922.27,Madrid-Vicálvaro,31.465999999999998,72126.0,Renta Media-Alta
-166,Pozuelo de Alarcón,2020/04/16 07:00:00,507.0,574.18,Pozuelo de Alarcón,44.043,84360.0,Renta Alta
-167,Alcorcón,2020/04/16 07:00:00,1340.0,766.41,Alcorcón,20.995,170336.0,Renta Media-Baja
-168,Navalcarnero,2020/04/16 07:00:00,125.0,442.81,Navalcarnero,20.189,26364.0,Renta Media-Baja
-169,San Agustín del Guadalix,2020/04/16 07:00:00,43.0,295.27,San Agustín del Guadalix,30.633000000000003,12953.0,Renta Media-Alta
-173,Valdemorillo,2020/04/16 07:00:00,30.0,247.5,Valdemorillo,24.861,12058.0,Renta Media-Media
-174,Velilla de San Antonio,2020/04/16 07:00:00,55.0,440.25,Velilla de San Antonio,20.5,12334.0,Renta Media-Baja
-175,Villanueva de la Cañada,2020/04/16 07:00:00,79.0,323.98,Villanueva de la Cañada,32.688,18827.0,Renta Alta
-176,Villanueva del Pardillo,2020/04/16 07:00:00,66.0,390.79,Villanueva del Pardillo,27.166999999999998,16730.0,Renta Media-Alta
-177,Nuevo Baztán,2020/04/16 07:00:00,24.0,361.07,Nuevo Baztán,23.03,5959.0,Renta Media-Media
-182,Aranjuez,2020/04/16 07:00:00,374.0,589.62,Aranjuez,20.976,57792.0,Renta Media-Baja
-183,Cercedilla,2020/04/16 07:00:00,78.0,1041.81,Cercedilla,20.721999999999998,6831.0,Renta Media-Baja
-185,Coslada,2020/04/16 07:00:00,700.0,791.83,Coslada,20.386,88847.0,Renta Media-Baja
-186,Morata de Tajuña,2020/04/16 07:00:00,83.0,1068.62,Morata de Tajuña,17.993,7452.0,Renta Baja
-189,Navas del Rey,2020/04/16 07:00:00,43.0,1460.6,Navas del Rey,17.605999999999998,2640.0,Renta Baja
-190,Becerril de la Sierra,2020/04/16 07:00:00,21.0,363.83,Becerril de la Sierra,23.642,5351.0,Renta Media-Media
-191,Fuenlabrada,2020/04/16 07:00:00,1260.0,617.6,Fuenlabrada,17.832,195864.0,Renta Baja
-192,Pinto,2020/04/16 07:00:00,183.0,344.3,Pinto,20.927,47594.0,Renta Media-Baja
-196,Galapagar,2020/04/16 07:00:00,151.0,455.23,Galapagar,25.579,32380.0,Renta Media-Media
-197,Griñón,2020/04/16 07:00:00,70.0,606.27,Griñón,22.293000000000003,9928.0,Renta Media-Media
-198,Aldea del Fresno,2020/04/16 07:00:00,35.0,1160.48,Aldea del Fresno,17.879,2528.0,Renta Baja
-200,Talamanca de Jarama,2020/04/16 07:00:00,21.0,670.5,Talamanca de Jarama,19.675,3267.0,Renta Media-Baja
-202,Ciempozuelos,2020/04/16 07:00:00,147.0,572.74,Ciempozuelos,18.608,23739.0,Renta Media-Baja
-204,San Lorenzo de El Escorial,2020/04/16 07:00:00,81.0,457.24,San Lorenzo de El Escorial,24.318,18241.0,Renta Media-Media
-205,San Martín de la Vega,2020/04/16 07:00:00,63.0,309.35,San Martín de la Vega,18.410999999999998,19092.0,Renta Media-Baja
-206,Móstoles,2020/04/16 07:00:00,1596.0,730.28,Móstoles,19.06,205712.0,Renta Media-Baja
-207,Leganés,2020/04/16 07:00:00,2529.0,1284.36,Leganés,19.548,186696.0,Renta Media-Baja
-209,Algete,2020/04/16 07:00:00,88.0,396.31,Algete,27.386,20102.0,Renta Media-Alta
-210,Mejorada del Campo,2020/04/16 07:00:00,156.0,636.58,Mejorada del Campo,18.533,22763.0,Renta Media-Baja
-211,Loeches,2020/04/16 07:00:00,48.0,692.54,Loeches,19.984,8159.0,Renta Media-Baja
-212,Parla,2020/04/16 07:00:00,608.0,444.75,Parla,17.772000000000002,125323.0,Renta Baja
-218,Soto del Real,2020/04/16 07:00:00,54.0,551.25,Soto del Real,26.491999999999997,8482.0,Renta Media-Media
-220,Fuente el Saz de Jarama,2020/04/16 07:00:00,21.0,245.9,Fuente el Saz de Jarama,21.414,6409.0,Renta Media-Media
-222,Campo Real,2020/04/16 07:00:00,22.0,365.21,Campo Real,19.386,5775.0,Renta Media-Baja
-224,Cobeña,2020/04/16 07:00:00,51.0,683.92,Cobeña,28.180999999999997,6921.0,Renta Media-Alta
-227,Guadarrama,2020/04/16 07:00:00,99.0,626.66,Guadarrama,22.3,15547.0,Renta Media-Media
-228,San Martín de Valdeiglesias,2020/04/16 07:00:00,59.0,691.76,San Martín de Valdeiglesias,17.371,8516.0,Renta Baja
-229,Torrelodones,2020/04/16 07:00:00,114.0,439.58,Torrelodones,33.721,22838.0,Renta Alta
-230,Boadilla del Monte,2020/04/16 07:00:00,223.0,422.05,Boadilla del Monte,36.065,47852.0,Renta Alta
-232,Tielmes,2020/04/16 07:00:00,29.0,1287.17,Tielmes,16.039,2617.0,Renta Baja
-233,San Sebastián de los Reyes,2020/04/16 07:00:00,385.0,419.66,San Sebastián de los Reyes,24.82,83329.0,Renta Media-Media
-234,Guadalix de la Sierra,2020/04/16 07:00:00,28.0,469.4,Guadalix de la Sierra,21.118000000000002,6057.0,Renta Media-Baja
-235,Humanes de Madrid,2020/04/16 07:00:00,88.0,427.02,Humanes de Madrid,17.593,19404.0,Renta Baja
-236,Chinchón,2020/04/16 07:00:00,23.0,445.65,Chinchón,16.925,5447.0,Renta Baja
-238,Hoyo de Manzanares,2020/04/16 07:00:00,21.0,274.12,Hoyo de Manzanares,27.424,7834.0,Renta Media-Alta
-239,Torrejón de la Calzada,2020/04/16 07:00:00,28.0,324.79,Torrejón de la Calzada,20.897,7739.0,Renta Media-Baja
-242,Meco,2020/04/16 07:00:00,117.0,836.79,Meco,21.186,13133.0,Renta Media-Baja
-243,Arganda del Rey,2020/04/16 07:00:00,285.0,491.85,Arganda del Rey,19.113,55307.0,Renta Media-Baja
-245,Daganzo de Arriba,2020/04/16 07:00:00,37.0,341.52,Daganzo de Arriba,23.326,9841.0,Renta Media-Media
-249,Miraflores de la Sierra,2020/04/16 07:00:00,31.0,561.8,Miraflores de la Sierra,22.005,5890.0,Renta Media-Media
-250,Paracuellos de Jarama,2020/04/16 07:00:00,62.0,269.46,Paracuellos de Jarama,28.272,21718.0,Renta Media-Alta
-252,Collado Villalba,2020/04/16 07:00:00,307.0,443.16,Collado Villalba,21.276,62587.0,Renta Media-Media
-253,Colmenarejo,2020/04/16 07:00:00,29.0,358.51,Colmenarejo,23.395,8934.0,Renta Media-Media
-255,Sevilla la Nueva,2020/04/16 07:00:00,48.0,482.46,Sevilla la Nueva,21.335,8858.0,Renta Media-Media
-256,Colmenar de Oreja,2020/04/16 07:00:00,22.0,305.68,Colmenar de Oreja,16.418,8409.0,Renta Baja
-257,Brunete,2020/04/16 07:00:00,56.0,495.93,Brunete,23.574,10188.0,Renta Media-Media
-258,Villa del Prado,2020/04/16 07:00:00,80.0,1212.67,Villa del Prado,16.761,6506.0,Renta Baja
-260,Valdemoro,2020/04/16 07:00:00,571.0,747.4,Valdemoro,21.309,72265.0,Renta Media-Media
-261,Tres Cantos,2020/04/16 07:00:00,270.0,561.91,Tres Cantos,30.728,42546.0,Renta Media-Alta
-265,Arroyomolinos,2020/04/16 07:00:00,134.0,513.63,Arroyomolinos,22.896,25374.0,Renta Media-Media
-266,Moralzarzal,2020/04/16 07:00:00,55.0,422.36,Moralzarzal,25.058000000000003,12321.0,Renta Media-Media
-267,Villarejo de Salvanés,2020/04/16 07:00:00,33.0,433.01,Villarejo de Salvanés,17.114,7301.0,Renta Baja
-268,Serranillos del Valle,2020/04/16 07:00:00,27.0,710.71,Serranillos del Valle,20.634,3957.0,Renta Media-Baja
-269,Villaviciosa de Odón,2020/04/16 07:00:00,155.0,558.76,Villaviciosa de Odón,29.414,26911.0,Renta Media-Alta
-270,Camarma de Esteruelas,2020/04/16 07:00:00,36.0,505.83,Camarma de Esteruelas,20.953000000000003,7048.0,Renta Media-Baja
-273,Majadahonda,2020/04/16 07:00:00,372.0,477.11,Majadahonda,35.254,70359.0,Renta Alta
-275,Alcobendas,2020/04/16 07:00:00,541.0,446.32,Alcobendas,34.037,112188.0,Renta Alta
-276,Alcalá de Henares,2020/04/16 07:00:00,2087.0,998.34,Alcalá de Henares,21.379,200768.0,Renta Media-Media
-277,Colmenar Viejo,2020/04/16 07:00:00,279.0,553.54,Colmenar Viejo,23.982,47445.0,Renta Media-Media
-278,San Fernando de Henares,2020/04/16 07:00:00,345.0,820.9,San Fernando de Henares,19.78,40781.0,Renta Media-Baja
-279,Villalbilla,2020/04/16 07:00:00,84.0,751.68,Villalbilla,24.35,11916.0,Renta Media-Media
-281,Torrejón de Ardoz,2020/04/16 07:00:00,845.0,611.04,Torrejón de Ardoz,19.585,126878.0,Renta Media-Baja
-283,Torres de la Alameda,2020/04/16 07:00:00,65.0,788.83,Torres de la Alameda,19.135,7939.0,Renta Media-Baja
-284,Alpedrete,2020/04/16 07:00:00,81.0,561.21,Alpedrete,24.855999999999998,14005.0,Renta Media-Media
-286,Getafe,2020/04/16 07:00:00,951.0,496.87,Getafe,21.031999999999996,173057.0,Renta Media-Baja
-289,Madrid-Retiro,2020/04/15 07:00:00,1137.0,1022.72,Madrid-Retiro,51.79,119379.0,Renta Alta
-290,Madrid-Salamanca,2020/04/15 07:00:00,1208.0,767.76,Madrid-Salamanca,53.972,146148.0,Renta Alta
-291,Madrid-Centro,2020/04/15 07:00:00,847.0,595.52,Madrid-Centro,31.378,134881.0,Renta Media-Alta
-292,Madrid-Arganzuela,2020/04/15 07:00:00,1219.0,683.29,Madrid-Arganzuela,40.201,153830.0,Renta Alta
-293,Madrid-Chamartín,2020/04/15 07:00:00,1190.0,810.16,Madrid-Chamartín,60.948,145865.0,Renta Alta
-294,Madrid-Tetuán,2020/04/15 07:00:00,1655.0,1012.37,Madrid-Tetuán,34.7,157937.0,Renta Alta
-295,Madrid-Chamberí,2020/04/15 07:00:00,1080.0,727.36,Madrid-Chamberí,48.989,139448.0,Renta Alta
-298,Madrid-Latina,2020/04/15 07:00:00,2007.0,804.18,Madrid-Latina,30.156,238154.0,Renta Media-Alta
-299,Madrid-Carabanchel,2020/04/15 07:00:00,1929.0,782.82,Madrid-Carabanchel,27.936,253040.0,Renta Media-Alta
-300,Madrid-Usera,2020/04/15 07:00:00,1110.0,747.72,Madrid-Usera,25.569000000000003,139501.0,Renta Media-Media
-301,Madrid-Puente de Vallecas,2020/04/15 07:00:00,2481.0,970.14,Madrid-Puente de Vallecas,24.688000000000002,234770.0,Renta Media-Media
-302,Madrid-San Blas - Canillejas,2020/04/15 07:00:00,1135.0,817.28,Madrid-San Blas - Canillejas,34.494,158166.0,Renta Alta
-303,Madrid-Barajas,2020/04/15 07:00:00,349.0,662.48,Madrid-Barajas,46.347,48972.0,Renta Alta
-304,Madrid-Moratalaz,2020/04/15 07:00:00,1075.0,1103.97,Madrid-Moratalaz,34.753,94609.0,Renta Alta
-305,Madrid-Ciudad Lineal,2020/04/15 07:00:00,1689.0,638.19,Madrid-Ciudad Lineal,36.833,216270.0,Renta Alta
-306,Madrid-Hortaleza,2020/04/15 07:00:00,1396.0,660.75,Madrid-Hortaleza,47.11,188267.0,Renta Alta
-307,Madrid-Villaverde,2020/04/15 07:00:00,1117.0,702.33,Madrid-Villaverde,26.599,148883.0,Renta Media-Alta
-308,Madrid-Villa de Vallecas,2020/04/15 07:00:00,1045.0,980.03,Madrid-Villa de Vallecas,30.17,110436.0,Renta Media-Alta
-309,Madrid-Vicálvaro,2020/04/15 07:00:00,656.0,912.53,Madrid-Vicálvaro,31.465999999999998,72126.0,Renta Media-Alta
-310,Pozuelo de Alarcón,2020/04/15 07:00:00,495.0,560.59,Pozuelo de Alarcón,44.043,84360.0,Renta Alta
-311,Alcorcón,2020/04/15 07:00:00,1310.0,749.25,Alcorcón,20.995,170336.0,Renta Media-Baja
-312,Navalcarnero,2020/04/15 07:00:00,121.0,428.64,Navalcarnero,20.189,26364.0,Renta Media-Baja
-313,San Agustín del Guadalix,2020/04/15 07:00:00,42.0,288.4,San Agustín del Guadalix,30.633000000000003,12953.0,Renta Media-Alta
-317,Valdemorillo,2020/04/15 07:00:00,30.0,247.5,Valdemorillo,24.861,12058.0,Renta Media-Media
-318,Velilla de San Antonio,2020/04/15 07:00:00,55.0,440.25,Velilla de San Antonio,20.5,12334.0,Renta Media-Baja
-319,Villanueva de la Cañada,2020/04/15 07:00:00,78.0,319.88,Villanueva de la Cañada,32.688,18827.0,Renta Alta
-320,Villanueva del Pardillo,2020/04/15 07:00:00,65.0,384.87,Villanueva del Pardillo,27.166999999999998,16730.0,Renta Media-Alta
-321,Nuevo Baztán,2020/04/15 07:00:00,24.0,361.07,Nuevo Baztán,23.03,5959.0,Renta Media-Media
-326,Aranjuez,2020/04/15 07:00:00,369.0,581.73,Aranjuez,20.976,57792.0,Renta Media-Baja
-327,Cercedilla,2020/04/15 07:00:00,78.0,1041.81,Cercedilla,20.721999999999998,6831.0,Renta Media-Baja
-329,Coslada,2020/04/15 07:00:00,691.0,781.65,Coslada,20.386,88847.0,Renta Media-Baja
-330,Morata de Tajuña,2020/04/15 07:00:00,83.0,1068.62,Morata de Tajuña,17.993,7452.0,Renta Baja
-333,Navas del Rey,2020/04/15 07:00:00,43.0,1460.6,Navas del Rey,17.605999999999998,2640.0,Renta Baja
-334,Becerril de la Sierra,2020/04/15 07:00:00,21.0,363.83,Becerril de la Sierra,23.642,5351.0,Renta Media-Media
-335,Fuenlabrada,2020/04/15 07:00:00,1239.0,607.31,Fuenlabrada,17.832,195864.0,Renta Baja
-336,Pinto,2020/04/15 07:00:00,177.0,333.01,Pinto,20.927,47594.0,Renta Media-Baja
-340,Galapagar,2020/04/15 07:00:00,147.0,443.17,Galapagar,25.579,32380.0,Renta Media-Media
-341,Griñón,2020/04/15 07:00:00,68.0,588.95,Griñón,22.293000000000003,9928.0,Renta Media-Media
-342,Aldea del Fresno,2020/04/15 07:00:00,35.0,1160.48,Aldea del Fresno,17.879,2528.0,Renta Baja
-344,Talamanca de Jarama,2020/04/15 07:00:00,21.0,670.5,Talamanca de Jarama,19.675,3267.0,Renta Media-Baja
-346,Ciempozuelos,2020/04/15 07:00:00,146.0,568.85,Ciempozuelos,18.608,23739.0,Renta Media-Baja
-348,San Lorenzo de El Escorial,2020/04/15 07:00:00,77.0,434.66,San Lorenzo de El Escorial,24.318,18241.0,Renta Media-Media
-349,San Martín de la Vega,2020/04/15 07:00:00,63.0,309.35,San Martín de la Vega,18.410999999999998,19092.0,Renta Media-Baja
-350,Móstoles,2020/04/15 07:00:00,1552.0,710.14,Móstoles,19.06,205712.0,Renta Media-Baja
-351,Leganés,2020/04/15 07:00:00,2492.0,1265.57,Leganés,19.548,186696.0,Renta Media-Baja
-353,Algete,2020/04/15 07:00:00,85.0,382.8,Algete,27.386,20102.0,Renta Media-Alta
-354,Mejorada del Campo,2020/04/15 07:00:00,156.0,636.58,Mejorada del Campo,18.533,22763.0,Renta Media-Baja
-355,Loeches,2020/04/15 07:00:00,49.0,706.97,Loeches,19.984,8159.0,Renta Media-Baja
-356,Parla,2020/04/15 07:00:00,598.0,437.44,Parla,17.772000000000002,125323.0,Renta Baja
-362,Soto del Real,2020/04/15 07:00:00,54.0,551.25,Soto del Real,26.491999999999997,8482.0,Renta Media-Media
-364,Fuente el Saz de Jarama,2020/04/15 07:00:00,21.0,245.9,Fuente el Saz de Jarama,21.414,6409.0,Renta Media-Media
-366,Campo Real,2020/04/15 07:00:00,22.0,365.21,Campo Real,19.386,5775.0,Renta Media-Baja
-368,Cobeña,2020/04/15 07:00:00,51.0,683.92,Cobeña,28.180999999999997,6921.0,Renta Media-Alta
-371,Guadarrama,2020/04/15 07:00:00,96.0,607.67,Guadarrama,22.3,15547.0,Renta Media-Media
-372,San Martín de Valdeiglesias,2020/04/15 07:00:00,52.0,609.68,San Martín de Valdeiglesias,17.371,8516.0,Renta Baja
-373,Torrelodones,2020/04/15 07:00:00,111.0,428.01,Torrelodones,33.721,22838.0,Renta Alta
-374,Boadilla del Monte,2020/04/15 07:00:00,217.0,410.7,Boadilla del Monte,36.065,47852.0,Renta Alta
-376,Tielmes,2020/04/15 07:00:00,29.0,1287.17,Tielmes,16.039,2617.0,Renta Baja
-377,San Sebastián de los Reyes,2020/04/15 07:00:00,378.0,412.03,San Sebastián de los Reyes,24.82,83329.0,Renta Media-Media
-378,Guadalix de la Sierra,2020/04/15 07:00:00,28.0,469.4,Guadalix de la Sierra,21.118000000000002,6057.0,Renta Media-Baja
-379,Humanes de Madrid,2020/04/15 07:00:00,88.0,427.02,Humanes de Madrid,17.593,19404.0,Renta Baja
-380,Chinchón,2020/04/15 07:00:00,23.0,445.65,Chinchón,16.925,5447.0,Renta Baja
-383,Torrejón de la Calzada,2020/04/15 07:00:00,27.0,313.19,Torrejón de la Calzada,20.897,7739.0,Renta Media-Baja
-386,Meco,2020/04/15 07:00:00,117.0,836.79,Meco,21.186,13133.0,Renta Media-Baja
-387,Arganda del Rey,2020/04/15 07:00:00,278.0,479.77,Arganda del Rey,19.113,55307.0,Renta Media-Baja
-389,Daganzo de Arriba,2020/04/15 07:00:00,36.0,332.29,Daganzo de Arriba,23.326,9841.0,Renta Media-Media
-393,Miraflores de la Sierra,2020/04/15 07:00:00,31.0,561.8,Miraflores de la Sierra,22.005,5890.0,Renta Media-Media
-394,Paracuellos de Jarama,2020/04/15 07:00:00,62.0,269.46,Paracuellos de Jarama,28.272,21718.0,Renta Media-Alta
-396,Collado Villalba,2020/04/15 07:00:00,301.0,434.5,Collado Villalba,21.276,62587.0,Renta Media-Media
-397,Colmenarejo,2020/04/15 07:00:00,27.0,333.79,Colmenarejo,23.395,8934.0,Renta Media-Media
-399,Sevilla la Nueva,2020/04/15 07:00:00,43.0,432.2,Sevilla la Nueva,21.335,8858.0,Renta Media-Media
-400,Colmenar de Oreja,2020/04/15 07:00:00,21.0,291.79,Colmenar de Oreja,16.418,8409.0,Renta Baja
-401,Brunete,2020/04/15 07:00:00,56.0,495.93,Brunete,23.574,10188.0,Renta Media-Media
-402,Villa del Prado,2020/04/15 07:00:00,76.0,1152.04,Villa del Prado,16.761,6506.0,Renta Baja
-404,Valdemoro,2020/04/15 07:00:00,568.0,743.47,Valdemoro,21.309,72265.0,Renta Media-Media
-405,Tres Cantos,2020/04/15 07:00:00,266.0,553.59,Tres Cantos,30.728,42546.0,Renta Media-Alta
-409,Arroyomolinos,2020/04/15 07:00:00,133.0,509.79,Arroyomolinos,22.896,25374.0,Renta Media-Media
-410,Moralzarzal,2020/04/15 07:00:00,54.0,414.68,Moralzarzal,25.058000000000003,12321.0,Renta Media-Media
-411,Villarejo de Salvanés,2020/04/15 07:00:00,33.0,433.01,Villarejo de Salvanés,17.114,7301.0,Renta Baja
-412,Serranillos del Valle,2020/04/15 07:00:00,26.0,684.39,Serranillos del Valle,20.634,3957.0,Renta Media-Baja
-413,Villaviciosa de Odón,2020/04/15 07:00:00,151.0,544.34,Villaviciosa de Odón,29.414,26911.0,Renta Media-Alta
-414,Camarma de Esteruelas,2020/04/15 07:00:00,35.0,491.78,Camarma de Esteruelas,20.953000000000003,7048.0,Renta Media-Baja
-417,Majadahonda,2020/04/15 07:00:00,367.0,470.7,Majadahonda,35.254,70359.0,Renta Alta
-419,Alcobendas,2020/04/15 07:00:00,523.0,431.47,Alcobendas,34.037,112188.0,Renta Alta
-420,Alcalá de Henares,2020/04/15 07:00:00,2077.0,993.56,Alcalá de Henares,21.379,200768.0,Renta Media-Media
-421,Colmenar Viejo,2020/04/15 07:00:00,269.0,533.7,Colmenar Viejo,23.982,47445.0,Renta Media-Media
-422,San Fernando de Henares,2020/04/15 07:00:00,329.0,782.83,San Fernando de Henares,19.78,40781.0,Renta Media-Baja
-423,Villalbilla,2020/04/15 07:00:00,83.0,742.73,Villalbilla,24.35,11916.0,Renta Media-Media
-425,Torrejón de Ardoz,2020/04/15 07:00:00,843.0,609.59,Torrejón de Ardoz,19.585,126878.0,Renta Media-Baja
-427,Torres de la Alameda,2020/04/15 07:00:00,63.0,764.56,Torres de la Alameda,19.135,7939.0,Renta Media-Baja
-428,Alpedrete,2020/04/15 07:00:00,76.0,526.57,Alpedrete,24.855999999999998,14005.0,Renta Media-Media
-430,Getafe,2020/04/15 07:00:00,921.0,481.2,Getafe,21.031999999999996,173057.0,Renta Media-Baja
-433,Madrid-Retiro,2020/04/14 07:00:00,1124.0,1011.03,Madrid-Retiro,51.79,119379.0,Renta Alta
-434,Madrid-Salamanca,2020/04/14 07:00:00,1186.0,753.78,Madrid-Salamanca,53.972,146148.0,Renta Alta
-435,Madrid-Centro,2020/04/14 07:00:00,814.0,572.32,Madrid-Centro,31.378,134881.0,Renta Media-Alta
-436,Madrid-Arganzuela,2020/04/14 07:00:00,1178.0,660.31,Madrid-Arganzuela,40.201,153830.0,Renta Alta
-437,Madrid-Chamartín,2020/04/14 07:00:00,1154.0,785.65,Madrid-Chamartín,60.948,145865.0,Renta Alta
-438,Madrid-Tetuán,2020/04/14 07:00:00,1617.0,989.12,Madrid-Tetuán,34.7,157937.0,Renta Alta
-439,Madrid-Chamberí,2020/04/14 07:00:00,1040.0,700.42,Madrid-Chamberí,48.989,139448.0,Renta Alta
-442,Madrid-Latina,2020/04/14 07:00:00,1940.0,777.33,Madrid-Latina,30.156,238154.0,Renta Media-Alta
-443,Madrid-Carabanchel,2020/04/14 07:00:00,1869.0,758.47,Madrid-Carabanchel,27.936,253040.0,Renta Media-Alta
-444,Madrid-Usera,2020/04/14 07:00:00,1094.0,736.94,Madrid-Usera,25.569000000000003,139501.0,Renta Media-Media
-445,Madrid-Puente de Vallecas,2020/04/14 07:00:00,2410.0,942.38,Madrid-Puente de Vallecas,24.688000000000002,234770.0,Renta Media-Media
-446,Madrid-San Blas - Canillejas,2020/04/14 07:00:00,1104.0,794.96,Madrid-San Blas - Canillejas,34.494,158166.0,Renta Alta
-447,Madrid-Barajas,2020/04/14 07:00:00,339.0,643.5,Madrid-Barajas,46.347,48972.0,Renta Alta
-448,Madrid-Moratalaz,2020/04/14 07:00:00,1053.0,1081.38,Madrid-Moratalaz,34.753,94609.0,Renta Alta
-449,Madrid-Ciudad Lineal,2020/04/14 07:00:00,1656.0,625.72,Madrid-Ciudad Lineal,36.833,216270.0,Renta Alta
-450,Madrid-Hortaleza,2020/04/14 07:00:00,1367.0,647.02,Madrid-Hortaleza,47.11,188267.0,Renta Alta
-451,Madrid-Villaverde,2020/04/14 07:00:00,1093.0,687.24,Madrid-Villaverde,26.599,148883.0,Renta Media-Alta
-452,Madrid-Villa de Vallecas,2020/04/14 07:00:00,1018.0,954.71,Madrid-Villa de Vallecas,30.17,110436.0,Renta Media-Alta
-453,Madrid-Vicálvaro,2020/04/14 07:00:00,644.0,895.84,Madrid-Vicálvaro,31.465999999999998,72126.0,Renta Media-Alta
-454,Pozuelo de Alarcón,2020/04/14 07:00:00,468.0,530.01,Pozuelo de Alarcón,44.043,84360.0,Renta Alta
-455,Alcorcón,2020/04/14 07:00:00,1280.0,732.09,Alcorcón,20.995,170336.0,Renta Media-Baja
-456,Navalcarnero,2020/04/14 07:00:00,118.0,418.01,Navalcarnero,20.189,26364.0,Renta Media-Baja
-457,San Agustín del Guadalix,2020/04/14 07:00:00,42.0,288.4,San Agustín del Guadalix,30.633000000000003,12953.0,Renta Media-Alta
-461,Valdemorillo,2020/04/14 07:00:00,27.0,222.75,Valdemorillo,24.861,12058.0,Renta Media-Media
-462,Velilla de San Antonio,2020/04/14 07:00:00,53.0,424.24,Velilla de San Antonio,20.5,12334.0,Renta Media-Baja
-463,Villanueva de la Cañada,2020/04/14 07:00:00,76.0,311.68,Villanueva de la Cañada,32.688,18827.0,Renta Alta
-464,Villanueva del Pardillo,2020/04/14 07:00:00,62.0,367.1,Villanueva del Pardillo,27.166999999999998,16730.0,Renta Media-Alta
-465,Nuevo Baztán,2020/04/14 07:00:00,24.0,361.07,Nuevo Baztán,23.03,5959.0,Renta Media-Media
-470,Aranjuez,2020/04/14 07:00:00,363.0,572.28,Aranjuez,20.976,57792.0,Renta Media-Baja
-471,Cercedilla,2020/04/14 07:00:00,75.0,1001.74,Cercedilla,20.721999999999998,6831.0,Renta Media-Baja
-473,Coslada,2020/04/14 07:00:00,650.0,735.27,Coslada,20.386,88847.0,Renta Media-Baja
-474,Morata de Tajuña,2020/04/14 07:00:00,83.0,1068.62,Morata de Tajuña,17.993,7452.0,Renta Baja
-477,Navas del Rey,2020/04/14 07:00:00,42.0,1426.63,Navas del Rey,17.605999999999998,2640.0,Renta Baja
-479,Fuenlabrada,2020/04/14 07:00:00,1220.0,598.0,Fuenlabrada,17.832,195864.0,Renta Baja
-480,Pinto,2020/04/14 07:00:00,174.0,327.36,Pinto,20.927,47594.0,Renta Media-Baja
-484,Galapagar,2020/04/14 07:00:00,136.0,410.01,Galapagar,25.579,32380.0,Renta Media-Media
-485,Griñón,2020/04/14 07:00:00,67.0,580.29,Griñón,22.293000000000003,9928.0,Renta Media-Media
-486,Aldea del Fresno,2020/04/14 07:00:00,31.0,1027.85,Aldea del Fresno,17.879,2528.0,Renta Baja
-488,Talamanca de Jarama,2020/04/14 07:00:00,21.0,670.5,Talamanca de Jarama,19.675,3267.0,Renta Media-Baja
-490,Ciempozuelos,2020/04/14 07:00:00,142.0,553.26,Ciempozuelos,18.608,23739.0,Renta Media-Baja
-492,San Lorenzo de El Escorial,2020/04/14 07:00:00,67.0,378.21,San Lorenzo de El Escorial,24.318,18241.0,Renta Media-Media
-493,San Martín de la Vega,2020/04/14 07:00:00,63.0,309.35,San Martín de la Vega,18.410999999999998,19092.0,Renta Media-Baja
-494,Móstoles,2020/04/14 07:00:00,1507.0,689.55,Móstoles,19.06,205712.0,Renta Media-Baja
-495,Leganés,2020/04/14 07:00:00,2450.0,1244.24,Leganés,19.548,186696.0,Renta Media-Baja
-497,Algete,2020/04/14 07:00:00,84.0,378.29,Algete,27.386,20102.0,Renta Media-Alta
-498,Mejorada del Campo,2020/04/14 07:00:00,152.0,620.26,Mejorada del Campo,18.533,22763.0,Renta Media-Baja
-499,Loeches,2020/04/14 07:00:00,48.0,692.54,Loeches,19.984,8159.0,Renta Media-Baja
-500,Parla,2020/04/14 07:00:00,594.0,434.51,Parla,17.772000000000002,125323.0,Renta Baja
-506,Soto del Real,2020/04/14 07:00:00,49.0,500.2,Soto del Real,26.491999999999997,8482.0,Renta Media-Media
-510,Campo Real,2020/04/14 07:00:00,21.0,348.61,Campo Real,19.386,5775.0,Renta Media-Baja
-512,Cobeña,2020/04/14 07:00:00,36.0,482.77,Cobeña,28.180999999999997,6921.0,Renta Media-Alta
-515,Guadarrama,2020/04/14 07:00:00,90.0,569.69,Guadarrama,22.3,15547.0,Renta Media-Media
-516,San Martín de Valdeiglesias,2020/04/14 07:00:00,51.0,597.96,San Martín de Valdeiglesias,17.371,8516.0,Renta Baja
-517,Torrelodones,2020/04/14 07:00:00,106.0,408.73,Torrelodones,33.721,22838.0,Renta Alta
-518,Boadilla del Monte,2020/04/14 07:00:00,208.0,393.66,Boadilla del Monte,36.065,47852.0,Renta Alta
-520,Tielmes,2020/04/14 07:00:00,29.0,1287.17,Tielmes,16.039,2617.0,Renta Baja
-521,San Sebastián de los Reyes,2020/04/14 07:00:00,362.0,394.59,San Sebastián de los Reyes,24.82,83329.0,Renta Media-Media
-522,Guadalix de la Sierra,2020/04/14 07:00:00,28.0,469.4,Guadalix de la Sierra,21.118000000000002,6057.0,Renta Media-Baja
-523,Humanes de Madrid,2020/04/14 07:00:00,86.0,417.31,Humanes de Madrid,17.593,19404.0,Renta Baja
-524,Chinchón,2020/04/14 07:00:00,23.0,445.65,Chinchón,16.925,5447.0,Renta Baja
-527,Torrejón de la Calzada,2020/04/14 07:00:00,21.0,243.59,Torrejón de la Calzada,20.897,7739.0,Renta Media-Baja
-530,Meco,2020/04/14 07:00:00,116.0,829.64,Meco,21.186,13133.0,Renta Media-Baja
-531,Arganda del Rey,2020/04/14 07:00:00,275.0,474.6,Arganda del Rey,19.113,55307.0,Renta Media-Baja
-533,Daganzo de Arriba,2020/04/14 07:00:00,35.0,323.06,Daganzo de Arriba,23.326,9841.0,Renta Media-Media
-537,Miraflores de la Sierra,2020/04/14 07:00:00,30.0,543.68,Miraflores de la Sierra,22.005,5890.0,Renta Media-Media
-538,Paracuellos de Jarama,2020/04/14 07:00:00,61.0,265.11,Paracuellos de Jarama,28.272,21718.0,Renta Media-Alta
-540,Collado Villalba,2020/04/14 07:00:00,274.0,395.53,Collado Villalba,21.276,62587.0,Renta Media-Media
-541,Colmenarejo,2020/04/14 07:00:00,26.0,321.42,Colmenarejo,23.395,8934.0,Renta Media-Media
-543,Sevilla la Nueva,2020/04/14 07:00:00,43.0,432.2,Sevilla la Nueva,21.335,8858.0,Renta Media-Media
-544,Colmenar de Oreja,2020/04/14 07:00:00,21.0,291.79,Colmenar de Oreja,16.418,8409.0,Renta Baja
-545,Brunete,2020/04/14 07:00:00,51.0,451.65,Brunete,23.574,10188.0,Renta Media-Media
-546,Villa del Prado,2020/04/14 07:00:00,54.0,818.55,Villa del Prado,16.761,6506.0,Renta Baja
-548,Valdemoro,2020/04/14 07:00:00,564.0,738.24,Valdemoro,21.309,72265.0,Renta Media-Media
-549,Tres Cantos,2020/04/14 07:00:00,262.0,545.27,Tres Cantos,30.728,42546.0,Renta Media-Alta
-553,Arroyomolinos,2020/04/14 07:00:00,130.0,498.29,Arroyomolinos,22.896,25374.0,Renta Media-Media
-554,Moralzarzal,2020/04/14 07:00:00,52.0,399.32,Moralzarzal,25.058000000000003,12321.0,Renta Media-Media
-555,Villarejo de Salvanés,2020/04/14 07:00:00,33.0,433.01,Villarejo de Salvanés,17.114,7301.0,Renta Baja
-556,Serranillos del Valle,2020/04/14 07:00:00,25.0,658.07,Serranillos del Valle,20.634,3957.0,Renta Media-Baja
-557,Villaviciosa de Odón,2020/04/14 07:00:00,148.0,533.53,Villaviciosa de Odón,29.414,26911.0,Renta Media-Alta
-558,Camarma de Esteruelas,2020/04/14 07:00:00,35.0,491.78,Camarma de Esteruelas,20.953000000000003,7048.0,Renta Media-Baja
-561,Majadahonda,2020/04/14 07:00:00,351.0,450.18,Majadahonda,35.254,70359.0,Renta Alta
-563,Alcobendas,2020/04/14 07:00:00,509.0,419.92,Alcobendas,34.037,112188.0,Renta Alta
-564,Alcalá de Henares,2020/04/14 07:00:00,2049.0,980.17,Alcalá de Henares,21.379,200768.0,Renta Media-Media
-565,Colmenar Viejo,2020/04/14 07:00:00,264.0,523.78,Colmenar Viejo,23.982,47445.0,Renta Media-Media
-566,San Fernando de Henares,2020/04/14 07:00:00,308.0,732.86,San Fernando de Henares,19.78,40781.0,Renta Media-Baja
-567,Villalbilla,2020/04/14 07:00:00,81.0,724.83,Villalbilla,24.35,11916.0,Renta Media-Media
-569,Torrejón de Ardoz,2020/04/14 07:00:00,823.0,595.13,Torrejón de Ardoz,19.585,126878.0,Renta Media-Baja
-571,Torres de la Alameda,2020/04/14 07:00:00,60.0,728.16,Torres de la Alameda,19.135,7939.0,Renta Media-Baja
-572,Alpedrete,2020/04/14 07:00:00,73.0,505.79,Alpedrete,24.855999999999998,14005.0,Renta Media-Media
-574,Getafe,2020/04/14 07:00:00,895.0,467.61,Getafe,21.031999999999996,173057.0,Renta Media-Baja
-577,Madrid-Retiro,2020/04/13 07:00:00,1098.0,987.64,Madrid-Retiro,51.79,119379.0,Renta Alta
-578,Madrid-Salamanca,2020/04/13 07:00:00,1143.0,726.45,Madrid-Salamanca,53.972,146148.0,Renta Alta
-579,Madrid-Centro,2020/04/13 07:00:00,792.0,556.85,Madrid-Centro,31.378,134881.0,Renta Media-Alta
-580,Madrid-Arganzuela,2020/04/13 07:00:00,1146.0,642.37,Madrid-Arganzuela,40.201,153830.0,Renta Alta
-581,Madrid-Chamartín,2020/04/13 07:00:00,1125.0,765.91,Madrid-Chamartín,60.948,145865.0,Renta Alta
-582,Madrid-Tetuán,2020/04/13 07:00:00,1574.0,962.82,Madrid-Tetuán,34.7,157937.0,Renta Alta
-583,Madrid-Chamberí,2020/04/13 07:00:00,1016.0,684.26,Madrid-Chamberí,48.989,139448.0,Renta Alta
-586,Madrid-Latina,2020/04/13 07:00:00,1902.0,762.11,Madrid-Latina,30.156,238154.0,Renta Media-Alta
-587,Madrid-Carabanchel,2020/04/13 07:00:00,1832.0,743.45,Madrid-Carabanchel,27.936,253040.0,Renta Media-Alta
-588,Madrid-Usera,2020/04/13 07:00:00,1071.0,721.45,Madrid-Usera,25.569000000000003,139501.0,Renta Media-Media
-589,Madrid-Puente de Vallecas,2020/04/13 07:00:00,2358.0,922.05,Madrid-Puente de Vallecas,24.688000000000002,234770.0,Renta Media-Media
-590,Madrid-San Blas - Canillejas,2020/04/13 07:00:00,1077.0,775.52,Madrid-San Blas - Canillejas,34.494,158166.0,Renta Alta
-591,Madrid-Barajas,2020/04/13 07:00:00,333.0,632.11,Madrid-Barajas,46.347,48972.0,Renta Alta
-592,Madrid-Moratalaz,2020/04/13 07:00:00,1035.0,1062.89,Madrid-Moratalaz,34.753,94609.0,Renta Alta
-593,Madrid-Ciudad Lineal,2020/04/13 07:00:00,1612.0,609.09,Madrid-Ciudad Lineal,36.833,216270.0,Renta Alta
-594,Madrid-Hortaleza,2020/04/13 07:00:00,1329.0,629.04,Madrid-Hortaleza,47.11,188267.0,Renta Alta
-595,Madrid-Villaverde,2020/04/13 07:00:00,1077.0,677.18,Madrid-Villaverde,26.599,148883.0,Renta Media-Alta
-596,Madrid-Villa de Vallecas,2020/04/13 07:00:00,995.0,933.14,Madrid-Villa de Vallecas,30.17,110436.0,Renta Media-Alta
-597,Madrid-Vicálvaro,2020/04/13 07:00:00,635.0,883.32,Madrid-Vicálvaro,31.465999999999998,72126.0,Renta Media-Alta
-598,Pozuelo de Alarcón,2020/04/13 07:00:00,444.0,502.83,Pozuelo de Alarcón,44.043,84360.0,Renta Alta
-599,Alcorcón,2020/04/13 07:00:00,1245.0,712.08,Alcorcón,20.995,170336.0,Renta Media-Baja
-600,Navalcarnero,2020/04/13 07:00:00,117.0,414.47,Navalcarnero,20.189,26364.0,Renta Media-Baja
-601,San Agustín del Guadalix,2020/04/13 07:00:00,42.0,288.4,San Agustín del Guadalix,30.633000000000003,12953.0,Renta Media-Alta
-605,Valdemorillo,2020/04/13 07:00:00,26.0,214.5,Valdemorillo,24.861,12058.0,Renta Media-Media
-606,Velilla de San Antonio,2020/04/13 07:00:00,52.0,416.23,Velilla de San Antonio,20.5,12334.0,Renta Media-Baja
-607,Villanueva de la Cañada,2020/04/13 07:00:00,68.0,278.87,Villanueva de la Cañada,32.688,18827.0,Renta Alta
-608,Villanueva del Pardillo,2020/04/13 07:00:00,59.0,349.34,Villanueva del Pardillo,27.166999999999998,16730.0,Renta Media-Alta
-609,Nuevo Baztán,2020/04/13 07:00:00,24.0,361.07,Nuevo Baztán,23.03,5959.0,Renta Media-Media
-614,Aranjuez,2020/04/13 07:00:00,359.0,565.97,Aranjuez,20.976,57792.0,Renta Media-Baja
-615,Cercedilla,2020/04/13 07:00:00,69.0,921.6,Cercedilla,20.721999999999998,6831.0,Renta Media-Baja
-617,Coslada,2020/04/13 07:00:00,622.0,703.6,Coslada,20.386,88847.0,Renta Media-Baja
-618,Morata de Tajuña,2020/04/13 07:00:00,81.0,1042.87,Morata de Tajuña,17.993,7452.0,Renta Baja
-621,Navas del Rey,2020/04/13 07:00:00,42.0,1426.63,Navas del Rey,17.605999999999998,2640.0,Renta Baja
-623,Fuenlabrada,2020/04/13 07:00:00,1200.0,588.19,Fuenlabrada,17.832,195864.0,Renta Baja
-624,Pinto,2020/04/13 07:00:00,174.0,327.36,Pinto,20.927,47594.0,Renta Media-Baja
-628,Galapagar,2020/04/13 07:00:00,129.0,388.91,Galapagar,25.579,32380.0,Renta Media-Media
-629,Griñón,2020/04/13 07:00:00,59.0,511.0,Griñón,22.293000000000003,9928.0,Renta Media-Media
-630,Aldea del Fresno,2020/04/13 07:00:00,30.0,994.69,Aldea del Fresno,17.879,2528.0,Renta Baja
-634,Ciempozuelos,2020/04/13 07:00:00,139.0,541.57,Ciempozuelos,18.608,23739.0,Renta Media-Baja
-636,San Lorenzo de El Escorial,2020/04/13 07:00:00,63.0,355.63,San Lorenzo de El Escorial,24.318,18241.0,Renta Media-Media
-637,San Martín de la Vega,2020/04/13 07:00:00,61.0,299.53,San Martín de la Vega,18.410999999999998,19092.0,Renta Media-Baja
-638,Móstoles,2020/04/13 07:00:00,1446.0,661.64,Móstoles,19.06,205712.0,Renta Media-Baja
-639,Leganés,2020/04/13 07:00:00,2417.0,1227.48,Leganés,19.548,186696.0,Renta Media-Baja
-641,Algete,2020/04/13 07:00:00,81.0,364.78,Algete,27.386,20102.0,Renta Media-Alta
-642,Mejorada del Campo,2020/04/13 07:00:00,149.0,608.01,Mejorada del Campo,18.533,22763.0,Renta Media-Baja
-643,Loeches,2020/04/13 07:00:00,47.0,678.11,Loeches,19.984,8159.0,Renta Media-Baja
-644,Parla,2020/04/13 07:00:00,587.0,429.39,Parla,17.772000000000002,125323.0,Renta Baja
-650,Soto del Real,2020/04/13 07:00:00,49.0,500.2,Soto del Real,26.491999999999997,8482.0,Renta Media-Media
-654,Campo Real,2020/04/13 07:00:00,21.0,348.61,Campo Real,19.386,5775.0,Renta Media-Baja
-656,Cobeña,2020/04/13 07:00:00,29.0,388.9,Cobeña,28.180999999999997,6921.0,Renta Media-Alta
-659,Guadarrama,2020/04/13 07:00:00,85.0,538.04,Guadarrama,22.3,15547.0,Renta Media-Media
-660,San Martín de Valdeiglesias,2020/04/13 07:00:00,51.0,597.96,San Martín de Valdeiglesias,17.371,8516.0,Renta Baja
-661,Torrelodones,2020/04/13 07:00:00,103.0,397.16,Torrelodones,33.721,22838.0,Renta Alta
-662,Boadilla del Monte,2020/04/13 07:00:00,200.0,378.52,Boadilla del Monte,36.065,47852.0,Renta Alta
-664,Tielmes,2020/04/13 07:00:00,28.0,1242.79,Tielmes,16.039,2617.0,Renta Baja
-665,San Sebastián de los Reyes,2020/04/13 07:00:00,357.0,389.14,San Sebastián de los Reyes,24.82,83329.0,Renta Media-Media
-666,Guadalix de la Sierra,2020/04/13 07:00:00,27.0,452.64,Guadalix de la Sierra,21.118000000000002,6057.0,Renta Media-Baja
-667,Humanes de Madrid,2020/04/13 07:00:00,85.0,412.46,Humanes de Madrid,17.593,19404.0,Renta Baja
-668,Chinchón,2020/04/13 07:00:00,23.0,445.65,Chinchón,16.925,5447.0,Renta Baja
-670,Torrejón de la Calzada,2020/04/13 07:00:00,21.0,243.59,Torrejón de la Calzada,20.897,7739.0,Renta Media-Baja
-672,Meco,2020/04/13 07:00:00,114.0,815.33,Meco,21.186,13133.0,Renta Media-Baja
-673,Arganda del Rey,2020/04/13 07:00:00,272.0,469.42,Arganda del Rey,19.113,55307.0,Renta Media-Baja
-675,Daganzo de Arriba,2020/04/13 07:00:00,36.0,332.29,Daganzo de Arriba,23.326,9841.0,Renta Media-Media
-679,Miraflores de la Sierra,2020/04/13 07:00:00,29.0,525.55,Miraflores de la Sierra,22.005,5890.0,Renta Media-Media
-680,Paracuellos de Jarama,2020/04/13 07:00:00,61.0,265.11,Paracuellos de Jarama,28.272,21718.0,Renta Media-Alta
-682,Collado Villalba,2020/04/13 07:00:00,260.0,375.32,Collado Villalba,21.276,62587.0,Renta Media-Media
-683,Colmenarejo,2020/04/13 07:00:00,23.0,284.34,Colmenarejo,23.395,8934.0,Renta Media-Media
-685,Sevilla la Nueva,2020/04/13 07:00:00,34.0,341.74,Sevilla la Nueva,21.335,8858.0,Renta Media-Media
-686,Colmenar de Oreja,2020/04/13 07:00:00,21.0,291.79,Colmenar de Oreja,16.418,8409.0,Renta Baja
-687,Brunete,2020/04/13 07:00:00,50.0,442.79,Brunete,23.574,10188.0,Renta Media-Media
-688,Villa del Prado,2020/04/13 07:00:00,53.0,803.4,Villa del Prado,16.761,6506.0,Renta Baja
-690,Valdemoro,2020/04/13 07:00:00,558.0,730.39,Valdemoro,21.309,72265.0,Renta Media-Media
-691,Tres Cantos,2020/04/13 07:00:00,254.0,528.62,Tres Cantos,30.728,42546.0,Renta Media-Alta
-695,Arroyomolinos,2020/04/13 07:00:00,126.0,482.96,Arroyomolinos,22.896,25374.0,Renta Media-Media
-696,Moralzarzal,2020/04/13 07:00:00,52.0,399.32,Moralzarzal,25.058000000000003,12321.0,Renta Media-Media
-697,Villarejo de Salvanés,2020/04/13 07:00:00,33.0,433.01,Villarejo de Salvanés,17.114,7301.0,Renta Baja
-698,Serranillos del Valle,2020/04/13 07:00:00,25.0,658.07,Serranillos del Valle,20.634,3957.0,Renta Media-Baja
-699,Villaviciosa de Odón,2020/04/13 07:00:00,148.0,533.53,Villaviciosa de Odón,29.414,26911.0,Renta Media-Alta
-700,Camarma de Esteruelas,2020/04/13 07:00:00,35.0,491.78,Camarma de Esteruelas,20.953000000000003,7048.0,Renta Media-Baja
-703,Majadahonda,2020/04/13 07:00:00,337.0,432.22,Majadahonda,35.254,70359.0,Renta Alta
-705,Alcobendas,2020/04/13 07:00:00,494.0,407.54,Alcobendas,34.037,112188.0,Renta Alta
-706,Alcalá de Henares,2020/04/13 07:00:00,2026.0,969.16,Alcalá de Henares,21.379,200768.0,Renta Media-Media
-707,Colmenar Viejo,2020/04/13 07:00:00,251.0,497.99,Colmenar Viejo,23.982,47445.0,Renta Media-Media
-708,San Fernando de Henares,2020/04/13 07:00:00,301.0,716.21,San Fernando de Henares,19.78,40781.0,Renta Media-Baja
-709,Villalbilla,2020/04/13 07:00:00,81.0,724.83,Villalbilla,24.35,11916.0,Renta Media-Media
-711,Torrejón de Ardoz,2020/04/13 07:00:00,808.0,584.28,Torrejón de Ardoz,19.585,126878.0,Renta Media-Baja
-713,Torres de la Alameda,2020/04/13 07:00:00,57.0,691.75,Torres de la Alameda,19.135,7939.0,Renta Media-Baja
-714,Alpedrete,2020/04/13 07:00:00,72.0,498.86,Alpedrete,24.855999999999998,14005.0,Renta Media-Media
-716,Getafe,2020/04/13 07:00:00,873.0,456.12,Getafe,21.031999999999996,173057.0,Renta Media-Baja
-719,Madrid-Retiro,2020/04/12 07:00:00,1090.0,980.45,Madrid-Retiro,51.79,119379.0,Renta Alta
-720,Madrid-Salamanca,2020/04/12 07:00:00,1137.0,722.63,Madrid-Salamanca,53.972,146148.0,Renta Alta
-721,Madrid-Centro,2020/04/12 07:00:00,784.0,551.22,Madrid-Centro,31.378,134881.0,Renta Media-Alta
-722,Madrid-Arganzuela,2020/04/12 07:00:00,1138.0,637.89,Madrid-Arganzuela,40.201,153830.0,Renta Alta
-723,Madrid-Chamartín,2020/04/12 07:00:00,1118.0,761.14,Madrid-Chamartín,60.948,145865.0,Renta Alta
-724,Madrid-Tetuán,2020/04/12 07:00:00,1553.0,949.97,Madrid-Tetuán,34.7,157937.0,Renta Alta
-725,Madrid-Chamberí,2020/04/12 07:00:00,1005.0,676.85,Madrid-Chamberí,48.989,139448.0,Renta Alta
-728,Madrid-Latina,2020/04/12 07:00:00,1880.0,753.29,Madrid-Latina,30.156,238154.0,Renta Media-Alta
-729,Madrid-Carabanchel,2020/04/12 07:00:00,1809.0,734.12,Madrid-Carabanchel,27.936,253040.0,Renta Media-Alta
-730,Madrid-Usera,2020/04/12 07:00:00,1064.0,716.73,Madrid-Usera,25.569000000000003,139501.0,Renta Media-Media
-731,Madrid-Puente de Vallecas,2020/04/12 07:00:00,2334.0,912.66,Madrid-Puente de Vallecas,24.688000000000002,234770.0,Renta Media-Media
-732,Madrid-San Blas - Canillejas,2020/04/12 07:00:00,1067.0,768.32,Madrid-San Blas - Canillejas,34.494,158166.0,Renta Alta
-733,Madrid-Barajas,2020/04/12 07:00:00,332.0,630.21,Madrid-Barajas,46.347,48972.0,Renta Alta
-734,Madrid-Moratalaz,2020/04/12 07:00:00,1020.0,1047.49,Madrid-Moratalaz,34.753,94609.0,Renta Alta
-735,Madrid-Ciudad Lineal,2020/04/12 07:00:00,1596.0,603.05,Madrid-Ciudad Lineal,36.833,216270.0,Renta Alta
-736,Madrid-Hortaleza,2020/04/12 07:00:00,1310.0,620.04,Madrid-Hortaleza,47.11,188267.0,Renta Alta
-737,Madrid-Villaverde,2020/04/12 07:00:00,1069.0,672.15,Madrid-Villaverde,26.599,148883.0,Renta Media-Alta
-738,Madrid-Villa de Vallecas,2020/04/12 07:00:00,989.0,927.52,Madrid-Villa de Vallecas,30.17,110436.0,Renta Media-Alta
-739,Madrid-Vicálvaro,2020/04/12 07:00:00,626.0,870.8,Madrid-Vicálvaro,31.465999999999998,72126.0,Renta Media-Alta
-740,Pozuelo de Alarcón,2020/04/12 07:00:00,442.0,500.57,Pozuelo de Alarcón,44.043,84360.0,Renta Alta
-741,Alcorcón,2020/04/12 07:00:00,1232.0,704.64,Alcorcón,20.995,170336.0,Renta Media-Baja
-742,Navalcarnero,2020/04/12 07:00:00,117.0,414.47,Navalcarnero,20.189,26364.0,Renta Media-Baja
-743,San Agustín del Guadalix,2020/04/12 07:00:00,39.0,267.8,San Agustín del Guadalix,30.633000000000003,12953.0,Renta Media-Alta
-747,Valdemorillo,2020/04/12 07:00:00,26.0,214.5,Valdemorillo,24.861,12058.0,Renta Media-Media
-748,Velilla de San Antonio,2020/04/12 07:00:00,52.0,416.23,Velilla de San Antonio,20.5,12334.0,Renta Media-Baja
-749,Villanueva de la Cañada,2020/04/12 07:00:00,68.0,278.87,Villanueva de la Cañada,32.688,18827.0,Renta Alta
-750,Villanueva del Pardillo,2020/04/12 07:00:00,59.0,349.34,Villanueva del Pardillo,27.166999999999998,16730.0,Renta Media-Alta
-751,Nuevo Baztán,2020/04/12 07:00:00,24.0,361.07,Nuevo Baztán,23.03,5959.0,Renta Media-Media
-756,Aranjuez,2020/04/12 07:00:00,354.0,558.09,Aranjuez,20.976,57792.0,Renta Media-Baja
-757,Cercedilla,2020/04/12 07:00:00,69.0,921.6,Cercedilla,20.721999999999998,6831.0,Renta Media-Baja
-759,Coslada,2020/04/12 07:00:00,620.0,701.33,Coslada,20.386,88847.0,Renta Media-Baja
-760,Morata de Tajuña,2020/04/12 07:00:00,81.0,1042.87,Morata de Tajuña,17.993,7452.0,Renta Baja
-763,Navas del Rey,2020/04/12 07:00:00,42.0,1426.63,Navas del Rey,17.605999999999998,2640.0,Renta Baja
-765,Fuenlabrada,2020/04/12 07:00:00,1186.0,581.33,Fuenlabrada,17.832,195864.0,Renta Baja
-766,Pinto,2020/04/12 07:00:00,174.0,327.36,Pinto,20.927,47594.0,Renta Media-Baja
-770,Galapagar,2020/04/12 07:00:00,129.0,388.91,Galapagar,25.579,32380.0,Renta Media-Media
-771,Griñón,2020/04/12 07:00:00,59.0,511.0,Griñón,22.293000000000003,9928.0,Renta Media-Media
-772,Aldea del Fresno,2020/04/12 07:00:00,28.0,928.38,Aldea del Fresno,17.879,2528.0,Renta Baja
-776,Ciempozuelos,2020/04/12 07:00:00,139.0,541.57,Ciempozuelos,18.608,23739.0,Renta Media-Baja
-778,San Lorenzo de El Escorial,2020/04/12 07:00:00,63.0,355.63,San Lorenzo de El Escorial,24.318,18241.0,Renta Media-Media
-779,San Martín de la Vega,2020/04/12 07:00:00,61.0,299.53,San Martín de la Vega,18.410999999999998,19092.0,Renta Media-Baja
-780,Móstoles,2020/04/12 07:00:00,1428.0,653.41,Móstoles,19.06,205712.0,Renta Media-Baja
-781,Leganés,2020/04/12 07:00:00,2394.0,1215.8,Leganés,19.548,186696.0,Renta Media-Baja
-783,Algete,2020/04/12 07:00:00,80.0,360.28,Algete,27.386,20102.0,Renta Media-Alta
-784,Mejorada del Campo,2020/04/12 07:00:00,147.0,599.85,Mejorada del Campo,18.533,22763.0,Renta Media-Baja
-785,Loeches,2020/04/12 07:00:00,47.0,678.11,Loeches,19.984,8159.0,Renta Media-Baja
-786,Parla,2020/04/12 07:00:00,585.0,427.93,Parla,17.772000000000002,125323.0,Renta Baja
-792,Soto del Real,2020/04/12 07:00:00,49.0,500.2,Soto del Real,26.491999999999997,8482.0,Renta Media-Media
-796,Campo Real,2020/04/12 07:00:00,21.0,348.61,Campo Real,19.386,5775.0,Renta Media-Baja
-798,Cobeña,2020/04/12 07:00:00,29.0,388.9,Cobeña,28.180999999999997,6921.0,Renta Media-Alta
-801,Guadarrama,2020/04/12 07:00:00,84.0,531.71,Guadarrama,22.3,15547.0,Renta Media-Media
-802,San Martín de Valdeiglesias,2020/04/12 07:00:00,50.0,586.24,San Martín de Valdeiglesias,17.371,8516.0,Renta Baja
-803,Torrelodones,2020/04/12 07:00:00,101.0,389.45,Torrelodones,33.721,22838.0,Renta Alta
-804,Boadilla del Monte,2020/04/12 07:00:00,199.0,376.63,Boadilla del Monte,36.065,47852.0,Renta Alta
-806,Tielmes,2020/04/12 07:00:00,28.0,1242.79,Tielmes,16.039,2617.0,Renta Baja
-807,San Sebastián de los Reyes,2020/04/12 07:00:00,343.0,373.88,San Sebastián de los Reyes,24.82,83329.0,Renta Media-Media
-808,Guadalix de la Sierra,2020/04/12 07:00:00,26.0,435.88,Guadalix de la Sierra,21.118000000000002,6057.0,Renta Media-Baja
-809,Humanes de Madrid,2020/04/12 07:00:00,81.0,393.05,Humanes de Madrid,17.593,19404.0,Renta Baja
-810,Chinchón,2020/04/12 07:00:00,23.0,445.65,Chinchón,16.925,5447.0,Renta Baja
-812,Torrejón de la Calzada,2020/04/12 07:00:00,21.0,243.59,Torrejón de la Calzada,20.897,7739.0,Renta Media-Baja
-814,Meco,2020/04/12 07:00:00,114.0,815.33,Meco,21.186,13133.0,Renta Media-Baja
-815,Arganda del Rey,2020/04/12 07:00:00,269.0,464.24,Arganda del Rey,19.113,55307.0,Renta Media-Baja
-817,Daganzo de Arriba,2020/04/12 07:00:00,36.0,332.29,Daganzo de Arriba,23.326,9841.0,Renta Media-Media
-821,Miraflores de la Sierra,2020/04/12 07:00:00,28.0,507.43,Miraflores de la Sierra,22.005,5890.0,Renta Media-Media
-822,Paracuellos de Jarama,2020/04/12 07:00:00,60.0,260.77,Paracuellos de Jarama,28.272,21718.0,Renta Media-Alta
-824,Collado Villalba,2020/04/12 07:00:00,260.0,375.32,Collado Villalba,21.276,62587.0,Renta Media-Media
-825,Colmenarejo,2020/04/12 07:00:00,23.0,284.34,Colmenarejo,23.395,8934.0,Renta Media-Media
-827,Sevilla la Nueva,2020/04/12 07:00:00,34.0,341.74,Sevilla la Nueva,21.335,8858.0,Renta Media-Media
-829,Brunete,2020/04/12 07:00:00,49.0,433.94,Brunete,23.574,10188.0,Renta Media-Media
-830,Villa del Prado,2020/04/12 07:00:00,52.0,788.24,Villa del Prado,16.761,6506.0,Renta Baja
-832,Valdemoro,2020/04/12 07:00:00,553.0,723.84,Valdemoro,21.309,72265.0,Renta Media-Media
-833,Tres Cantos,2020/04/12 07:00:00,248.0,516.13,Tres Cantos,30.728,42546.0,Renta Media-Alta
-837,Arroyomolinos,2020/04/12 07:00:00,126.0,482.96,Arroyomolinos,22.896,25374.0,Renta Media-Media
-838,Moralzarzal,2020/04/12 07:00:00,52.0,399.32,Moralzarzal,25.058000000000003,12321.0,Renta Media-Media
-839,Villarejo de Salvanés,2020/04/12 07:00:00,32.0,419.89,Villarejo de Salvanés,17.114,7301.0,Renta Baja
-840,Serranillos del Valle,2020/04/12 07:00:00,23.0,605.42,Serranillos del Valle,20.634,3957.0,Renta Media-Baja
-841,Villaviciosa de Odón,2020/04/12 07:00:00,147.0,529.92,Villaviciosa de Odón,29.414,26911.0,Renta Media-Alta
-842,Camarma de Esteruelas,2020/04/12 07:00:00,35.0,491.78,Camarma de Esteruelas,20.953000000000003,7048.0,Renta Media-Baja
-845,Majadahonda,2020/04/12 07:00:00,336.0,430.94,Majadahonda,35.254,70359.0,Renta Alta
-847,Alcobendas,2020/04/12 07:00:00,481.0,396.82,Alcobendas,34.037,112188.0,Renta Alta
-848,Alcalá de Henares,2020/04/12 07:00:00,2020.0,966.29,Alcalá de Henares,21.379,200768.0,Renta Media-Media
-849,Colmenar Viejo,2020/04/12 07:00:00,242.0,480.13,Colmenar Viejo,23.982,47445.0,Renta Media-Media
-850,San Fernando de Henares,2020/04/12 07:00:00,298.0,709.07,San Fernando de Henares,19.78,40781.0,Renta Media-Baja
-851,Villalbilla,2020/04/12 07:00:00,81.0,724.83,Villalbilla,24.35,11916.0,Renta Media-Media
-853,Torrejón de Ardoz,2020/04/12 07:00:00,807.0,583.56,Torrejón de Ardoz,19.585,126878.0,Renta Media-Baja
-855,Torres de la Alameda,2020/04/12 07:00:00,57.0,691.75,Torres de la Alameda,19.135,7939.0,Renta Media-Baja
-856,Alpedrete,2020/04/12 07:00:00,72.0,498.86,Alpedrete,24.855999999999998,14005.0,Renta Media-Media
-858,Getafe,2020/04/12 07:00:00,860.0,449.33,Getafe,21.031999999999996,173057.0,Renta Media-Baja
-861,Madrid-Retiro,2020/04/11 07:00:00,1079.0,970.55,Madrid-Retiro,51.79,119379.0,Renta Alta
-862,Madrid-Salamanca,2020/04/11 07:00:00,1130.0,718.19,Madrid-Salamanca,53.972,146148.0,Renta Alta
-863,Madrid-Centro,2020/04/11 07:00:00,779.0,547.71,Madrid-Centro,31.378,134881.0,Renta Media-Alta
-864,Madrid-Arganzuela,2020/04/11 07:00:00,1132.0,634.52,Madrid-Arganzuela,40.201,153830.0,Renta Alta
-865,Madrid-Chamartín,2020/04/11 07:00:00,1111.0,756.37,Madrid-Chamartín,60.948,145865.0,Renta Alta
-866,Madrid-Tetuán,2020/04/11 07:00:00,1542.0,943.25,Madrid-Tetuán,34.7,157937.0,Renta Alta
-867,Madrid-Chamberí,2020/04/11 07:00:00,996.0,670.79,Madrid-Chamberí,48.989,139448.0,Renta Alta
-870,Madrid-Latina,2020/04/11 07:00:00,1855.0,743.28,Madrid-Latina,30.156,238154.0,Renta Media-Alta
-871,Madrid-Carabanchel,2020/04/11 07:00:00,1794.0,728.03,Madrid-Carabanchel,27.936,253040.0,Renta Media-Alta
-872,Madrid-Usera,2020/04/11 07:00:00,1059.0,713.36,Madrid-Usera,25.569000000000003,139501.0,Renta Media-Media
-873,Madrid-Puente de Vallecas,2020/04/11 07:00:00,2320.0,907.19,Madrid-Puente de Vallecas,24.688000000000002,234770.0,Renta Media-Media
-874,Madrid-San Blas - Canillejas,2020/04/11 07:00:00,1039.0,748.15,Madrid-San Blas - Canillejas,34.494,158166.0,Renta Alta
-875,Madrid-Barajas,2020/04/11 07:00:00,325.0,616.92,Madrid-Barajas,46.347,48972.0,Renta Alta
-876,Madrid-Moratalaz,2020/04/11 07:00:00,1009.0,1036.19,Madrid-Moratalaz,34.753,94609.0,Renta Alta
-877,Madrid-Ciudad Lineal,2020/04/11 07:00:00,1571.0,593.6,Madrid-Ciudad Lineal,36.833,216270.0,Renta Alta
-878,Madrid-Hortaleza,2020/04/11 07:00:00,1287.0,609.16,Madrid-Hortaleza,47.11,188267.0,Renta Alta
-879,Madrid-Villaverde,2020/04/11 07:00:00,1059.0,665.86,Madrid-Villaverde,26.599,148883.0,Renta Media-Alta
-880,Madrid-Villa de Vallecas,2020/04/11 07:00:00,984.0,922.83,Madrid-Villa de Vallecas,30.17,110436.0,Renta Media-Alta
-881,Madrid-Vicálvaro,2020/04/11 07:00:00,625.0,869.41,Madrid-Vicálvaro,31.465999999999998,72126.0,Renta Media-Alta
-882,Pozuelo de Alarcón,2020/04/11 07:00:00,436.0,493.77,Pozuelo de Alarcón,44.043,84360.0,Renta Alta
-883,Alcorcón,2020/04/11 07:00:00,1219.0,697.2,Alcorcón,20.995,170336.0,Renta Media-Baja
-884,Navalcarnero,2020/04/11 07:00:00,114.0,403.84,Navalcarnero,20.189,26364.0,Renta Media-Baja
-885,San Agustín del Guadalix,2020/04/11 07:00:00,34.0,233.47,San Agustín del Guadalix,30.633000000000003,12953.0,Renta Media-Alta
-889,Valdemorillo,2020/04/11 07:00:00,26.0,214.5,Valdemorillo,24.861,12058.0,Renta Media-Media
-890,Velilla de San Antonio,2020/04/11 07:00:00,52.0,416.23,Velilla de San Antonio,20.5,12334.0,Renta Media-Baja
-891,Villanueva de la Cañada,2020/04/11 07:00:00,68.0,278.87,Villanueva de la Cañada,32.688,18827.0,Renta Alta
-892,Villanueva del Pardillo,2020/04/11 07:00:00,59.0,349.34,Villanueva del Pardillo,27.166999999999998,16730.0,Renta Media-Alta
-893,Nuevo Baztán,2020/04/11 07:00:00,24.0,361.07,Nuevo Baztán,23.03,5959.0,Renta Media-Media
-898,Aranjuez,2020/04/11 07:00:00,350.0,551.78,Aranjuez,20.976,57792.0,Renta Media-Baja
-899,Cercedilla,2020/04/11 07:00:00,68.0,908.24,Cercedilla,20.721999999999998,6831.0,Renta Media-Baja
-901,Coslada,2020/04/11 07:00:00,614.0,694.55,Coslada,20.386,88847.0,Renta Media-Baja
-902,Morata de Tajuña,2020/04/11 07:00:00,80.0,1030.0,Morata de Tajuña,17.993,7452.0,Renta Baja
-905,Navas del Rey,2020/04/11 07:00:00,42.0,1426.63,Navas del Rey,17.605999999999998,2640.0,Renta Baja
-907,Fuenlabrada,2020/04/11 07:00:00,1176.0,576.43,Fuenlabrada,17.832,195864.0,Renta Baja
-908,Pinto,2020/04/11 07:00:00,173.0,325.48,Pinto,20.927,47594.0,Renta Media-Baja
-912,Galapagar,2020/04/11 07:00:00,128.0,385.89,Galapagar,25.579,32380.0,Renta Media-Media
-913,Griñón,2020/04/11 07:00:00,58.0,502.34,Griñón,22.293000000000003,9928.0,Renta Media-Media
-914,Aldea del Fresno,2020/04/11 07:00:00,28.0,928.38,Aldea del Fresno,17.879,2528.0,Renta Baja
-918,Ciempozuelos,2020/04/11 07:00:00,139.0,541.57,Ciempozuelos,18.608,23739.0,Renta Media-Baja
-920,San Lorenzo de El Escorial,2020/04/11 07:00:00,62.0,349.99,San Lorenzo de El Escorial,24.318,18241.0,Renta Media-Media
-921,San Martín de la Vega,2020/04/11 07:00:00,59.0,289.71,San Martín de la Vega,18.410999999999998,19092.0,Renta Media-Baja
-922,Móstoles,2020/04/11 07:00:00,1412.0,646.09,Móstoles,19.06,205712.0,Renta Media-Baja
-923,Leganés,2020/04/11 07:00:00,2388.0,1212.75,Leganés,19.548,186696.0,Renta Media-Baja
-925,Algete,2020/04/11 07:00:00,78.0,351.27,Algete,27.386,20102.0,Renta Media-Alta
-926,Mejorada del Campo,2020/04/11 07:00:00,146.0,595.77,Mejorada del Campo,18.533,22763.0,Renta Media-Baja
-927,Loeches,2020/04/11 07:00:00,46.0,663.68,Loeches,19.984,8159.0,Renta Media-Baja
-928,Parla,2020/04/11 07:00:00,581.0,425.0,Parla,17.772000000000002,125323.0,Renta Baja
-934,Soto del Real,2020/04/11 07:00:00,49.0,500.2,Soto del Real,26.491999999999997,8482.0,Renta Media-Media
-940,Cobeña,2020/04/11 07:00:00,29.0,388.9,Cobeña,28.180999999999997,6921.0,Renta Media-Alta
-943,Guadarrama,2020/04/11 07:00:00,83.0,525.38,Guadarrama,22.3,15547.0,Renta Media-Media
-944,San Martín de Valdeiglesias,2020/04/11 07:00:00,48.0,562.79,San Martín de Valdeiglesias,17.371,8516.0,Renta Baja
-945,Torrelodones,2020/04/11 07:00:00,101.0,389.45,Torrelodones,33.721,22838.0,Renta Alta
-946,Boadilla del Monte,2020/04/11 07:00:00,193.0,365.27,Boadilla del Monte,36.065,47852.0,Renta Alta
-948,Tielmes,2020/04/11 07:00:00,28.0,1242.79,Tielmes,16.039,2617.0,Renta Baja
-949,San Sebastián de los Reyes,2020/04/11 07:00:00,329.0,358.62,San Sebastián de los Reyes,24.82,83329.0,Renta Media-Media
-950,Guadalix de la Sierra,2020/04/11 07:00:00,26.0,435.88,Guadalix de la Sierra,21.118000000000002,6057.0,Renta Media-Baja
-951,Humanes de Madrid,2020/04/11 07:00:00,80.0,388.2,Humanes de Madrid,17.593,19404.0,Renta Baja
-952,Chinchón,2020/04/11 07:00:00,23.0,445.65,Chinchón,16.925,5447.0,Renta Baja
-956,Meco,2020/04/11 07:00:00,114.0,815.33,Meco,21.186,13133.0,Renta Media-Baja
-957,Arganda del Rey,2020/04/11 07:00:00,266.0,459.06,Arganda del Rey,19.113,55307.0,Renta Media-Baja
-959,Daganzo de Arriba,2020/04/11 07:00:00,36.0,332.29,Daganzo de Arriba,23.326,9841.0,Renta Media-Media
-963,Miraflores de la Sierra,2020/04/11 07:00:00,28.0,507.43,Miraflores de la Sierra,22.005,5890.0,Renta Media-Media
-964,Paracuellos de Jarama,2020/04/11 07:00:00,60.0,260.77,Paracuellos de Jarama,28.272,21718.0,Renta Media-Alta
-966,Collado Villalba,2020/04/11 07:00:00,254.0,366.65,Collado Villalba,21.276,62587.0,Renta Media-Media
-967,Colmenarejo,2020/04/11 07:00:00,22.0,271.97,Colmenarejo,23.395,8934.0,Renta Media-Media
-969,Sevilla la Nueva,2020/04/11 07:00:00,28.0,281.44,Sevilla la Nueva,21.335,8858.0,Renta Media-Media
-971,Brunete,2020/04/11 07:00:00,48.0,425.08,Brunete,23.574,10188.0,Renta Media-Media
-972,Villa del Prado,2020/04/11 07:00:00,47.0,712.45,Villa del Prado,16.761,6506.0,Renta Baja
-974,Valdemoro,2020/04/11 07:00:00,552.0,722.53,Valdemoro,21.309,72265.0,Renta Media-Media
-975,Tres Cantos,2020/04/11 07:00:00,244.0,507.8,Tres Cantos,30.728,42546.0,Renta Media-Alta
-979,Arroyomolinos,2020/04/11 07:00:00,122.0,467.63,Arroyomolinos,22.896,25374.0,Renta Media-Media
-980,Moralzarzal,2020/04/11 07:00:00,51.0,391.64,Moralzarzal,25.058000000000003,12321.0,Renta Media-Media
-981,Villarejo de Salvanés,2020/04/11 07:00:00,32.0,419.89,Villarejo de Salvanés,17.114,7301.0,Renta Baja
-982,Serranillos del Valle,2020/04/11 07:00:00,22.0,579.1,Serranillos del Valle,20.634,3957.0,Renta Media-Baja
-983,Villaviciosa de Odón,2020/04/11 07:00:00,144.0,519.11,Villaviciosa de Odón,29.414,26911.0,Renta Media-Alta
-984,Camarma de Esteruelas,2020/04/11 07:00:00,35.0,491.78,Camarma de Esteruelas,20.953000000000003,7048.0,Renta Media-Baja
-987,Majadahonda,2020/04/11 07:00:00,334.0,428.38,Majadahonda,35.254,70359.0,Renta Alta
-989,Alcobendas,2020/04/11 07:00:00,465.0,383.62,Alcobendas,34.037,112188.0,Renta Alta
-990,Alcalá de Henares,2020/04/11 07:00:00,2012.0,962.47,Alcalá de Henares,21.379,200768.0,Renta Media-Media
-991,Colmenar Viejo,2020/04/11 07:00:00,240.0,476.16,Colmenar Viejo,23.982,47445.0,Renta Media-Media
-992,San Fernando de Henares,2020/04/11 07:00:00,297.0,706.69,San Fernando de Henares,19.78,40781.0,Renta Media-Baja
-993,Villalbilla,2020/04/11 07:00:00,81.0,724.83,Villalbilla,24.35,11916.0,Renta Media-Media
-995,Torrejón de Ardoz,2020/04/11 07:00:00,804.0,581.39,Torrejón de Ardoz,19.585,126878.0,Renta Media-Baja
-997,Torres de la Alameda,2020/04/11 07:00:00,57.0,691.75,Torres de la Alameda,19.135,7939.0,Renta Media-Baja
-998,Alpedrete,2020/04/11 07:00:00,72.0,498.86,Alpedrete,24.855999999999998,14005.0,Renta Media-Media
-1000,Getafe,2020/04/11 07:00:00,849.0,443.58,Getafe,21.031999999999996,173057.0,Renta Media-Baja
-1003,Madrid-Retiro,2020/04/10 07:00:00,1053.0,947.16,Madrid-Retiro,51.79,119379.0,Renta Alta
-1004,Madrid-Salamanca,2020/04/10 07:00:00,1110.0,705.47,Madrid-Salamanca,53.972,146148.0,Renta Alta
-1005,Madrid-Centro,2020/04/10 07:00:00,757.0,532.24,Madrid-Centro,31.378,134881.0,Renta Media-Alta
-1006,Madrid-Arganzuela,2020/04/10 07:00:00,1118.0,626.67,Madrid-Arganzuela,40.201,153830.0,Renta Alta
-1007,Madrid-Chamartín,2020/04/10 07:00:00,1091.0,742.76,Madrid-Chamartín,60.948,145865.0,Renta Alta
-1008,Madrid-Tetuán,2020/04/10 07:00:00,1504.0,920.0,Madrid-Tetuán,34.7,157937.0,Renta Alta
-1009,Madrid-Chamberí,2020/04/10 07:00:00,955.0,643.18,Madrid-Chamberí,48.989,139448.0,Renta Alta
-1012,Madrid-Latina,2020/04/10 07:00:00,1778.0,712.42,Madrid-Latina,30.156,238154.0,Renta Media-Alta
-1013,Madrid-Carabanchel,2020/04/10 07:00:00,1726.0,700.44,Madrid-Carabanchel,27.936,253040.0,Renta Media-Alta
-1014,Madrid-Usera,2020/04/10 07:00:00,1016.0,684.4,Madrid-Usera,25.569000000000003,139501.0,Renta Media-Media
-1015,Madrid-Puente de Vallecas,2020/04/10 07:00:00,2271.0,888.03,Madrid-Puente de Vallecas,24.688000000000002,234770.0,Renta Media-Media
-1016,Madrid-San Blas - Canillejas,2020/04/10 07:00:00,1019.0,733.75,Madrid-San Blas - Canillejas,34.494,158166.0,Renta Alta
-1017,Madrid-Barajas,2020/04/10 07:00:00,319.0,605.53,Madrid-Barajas,46.347,48972.0,Renta Alta
-1018,Madrid-Moratalaz,2020/04/10 07:00:00,980.0,1006.41,Madrid-Moratalaz,34.753,94609.0,Renta Alta
-1019,Madrid-Ciudad Lineal,2020/04/10 07:00:00,1536.0,580.38,Madrid-Ciudad Lineal,36.833,216270.0,Renta Alta
-1020,Madrid-Hortaleza,2020/04/10 07:00:00,1259.0,595.91,Madrid-Hortaleza,47.11,188267.0,Renta Alta
-1021,Madrid-Villaverde,2020/04/10 07:00:00,1023.0,643.22,Madrid-Villaverde,26.599,148883.0,Renta Media-Alta
-1022,Madrid-Villa de Vallecas,2020/04/10 07:00:00,973.0,912.51,Madrid-Villa de Vallecas,30.17,110436.0,Renta Media-Alta
-1023,Madrid-Vicálvaro,2020/04/10 07:00:00,612.0,851.32,Madrid-Vicálvaro,31.465999999999998,72126.0,Renta Media-Alta
-1024,Pozuelo de Alarcón,2020/04/10 07:00:00,434.0,491.51,Pozuelo de Alarcón,44.043,84360.0,Renta Alta
-1025,Alcorcón,2020/04/10 07:00:00,1184.0,677.19,Alcorcón,20.995,170336.0,Renta Media-Baja
-1026,Navalcarnero,2020/04/10 07:00:00,112.0,396.76,Navalcarnero,20.189,26364.0,Renta Media-Baja
-1027,San Agustín del Guadalix,2020/04/10 07:00:00,32.0,219.73,San Agustín del Guadalix,30.633000000000003,12953.0,Renta Media-Alta
-1031,Valdemorillo,2020/04/10 07:00:00,25.0,206.25,Valdemorillo,24.861,12058.0,Renta Media-Media
-1032,Velilla de San Antonio,2020/04/10 07:00:00,51.0,408.23,Velilla de San Antonio,20.5,12334.0,Renta Media-Baja
-1033,Villanueva de la Cañada,2020/04/10 07:00:00,66.0,270.67,Villanueva de la Cañada,32.688,18827.0,Renta Alta
-1034,Villanueva del Pardillo,2020/04/10 07:00:00,58.0,343.42,Villanueva del Pardillo,27.166999999999998,16730.0,Renta Media-Alta
-1035,Nuevo Baztán,2020/04/10 07:00:00,23.0,346.02,Nuevo Baztán,23.03,5959.0,Renta Media-Media
-1040,Aranjuez,2020/04/10 07:00:00,343.0,540.75,Aranjuez,20.976,57792.0,Renta Media-Baja
-1041,Cercedilla,2020/04/10 07:00:00,68.0,908.24,Cercedilla,20.721999999999998,6831.0,Renta Media-Baja
-1043,Coslada,2020/04/10 07:00:00,608.0,687.76,Coslada,20.386,88847.0,Renta Media-Baja
-1044,Morata de Tajuña,2020/04/10 07:00:00,77.0,991.37,Morata de Tajuña,17.993,7452.0,Renta Baja
-1047,Navas del Rey,2020/04/10 07:00:00,42.0,1426.63,Navas del Rey,17.605999999999998,2640.0,Renta Baja
-1049,Fuenlabrada,2020/04/10 07:00:00,1147.0,562.21,Fuenlabrada,17.832,195864.0,Renta Baja
-1050,Pinto,2020/04/10 07:00:00,169.0,317.96,Pinto,20.927,47594.0,Renta Media-Baja
-1054,Galapagar,2020/04/10 07:00:00,125.0,376.85,Galapagar,25.579,32380.0,Renta Media-Media
-1055,Griñón,2020/04/10 07:00:00,57.0,493.68,Griñón,22.293000000000003,9928.0,Renta Media-Media
-1056,Aldea del Fresno,2020/04/10 07:00:00,28.0,928.38,Aldea del Fresno,17.879,2528.0,Renta Baja
-1060,Ciempozuelos,2020/04/10 07:00:00,139.0,541.57,Ciempozuelos,18.608,23739.0,Renta Media-Baja
-1062,San Lorenzo de El Escorial,2020/04/10 07:00:00,60.0,338.7,San Lorenzo de El Escorial,24.318,18241.0,Renta Media-Media
-1063,San Martín de la Vega,2020/04/10 07:00:00,56.0,274.98,San Martín de la Vega,18.410999999999998,19092.0,Renta Media-Baja
-1064,Móstoles,2020/04/10 07:00:00,1374.0,628.7,Móstoles,19.06,205712.0,Renta Media-Baja
-1065,Leganés,2020/04/10 07:00:00,2266.0,1150.79,Leganés,19.548,186696.0,Renta Media-Baja
-1067,Algete,2020/04/10 07:00:00,74.0,333.26,Algete,27.386,20102.0,Renta Media-Alta
-1068,Mejorada del Campo,2020/04/10 07:00:00,142.0,579.45,Mejorada del Campo,18.533,22763.0,Renta Media-Baja
-1069,Loeches,2020/04/10 07:00:00,45.0,649.26,Loeches,19.984,8159.0,Renta Media-Baja
-1070,Parla,2020/04/10 07:00:00,569.0,416.22,Parla,17.772000000000002,125323.0,Renta Baja
-1076,Soto del Real,2020/04/10 07:00:00,49.0,500.2,Soto del Real,26.491999999999997,8482.0,Renta Media-Media
-1082,Cobeña,2020/04/10 07:00:00,28.0,375.49,Cobeña,28.180999999999997,6921.0,Renta Media-Alta
-1085,Guadarrama,2020/04/10 07:00:00,82.0,519.05,Guadarrama,22.3,15547.0,Renta Media-Media
-1086,San Martín de Valdeiglesias,2020/04/10 07:00:00,47.0,551.06,San Martín de Valdeiglesias,17.371,8516.0,Renta Baja
-1087,Torrelodones,2020/04/10 07:00:00,101.0,389.45,Torrelodones,33.721,22838.0,Renta Alta
-1088,Boadilla del Monte,2020/04/10 07:00:00,186.0,352.03,Boadilla del Monte,36.065,47852.0,Renta Alta
-1090,Tielmes,2020/04/10 07:00:00,28.0,1242.79,Tielmes,16.039,2617.0,Renta Baja
-1091,San Sebastián de los Reyes,2020/04/10 07:00:00,309.0,336.82,San Sebastián de los Reyes,24.82,83329.0,Renta Media-Media
-1092,Guadalix de la Sierra,2020/04/10 07:00:00,25.0,419.11,Guadalix de la Sierra,21.118000000000002,6057.0,Renta Media-Baja
-1093,Humanes de Madrid,2020/04/10 07:00:00,77.0,373.64,Humanes de Madrid,17.593,19404.0,Renta Baja
-1094,Chinchón,2020/04/10 07:00:00,22.0,426.27,Chinchón,16.925,5447.0,Renta Baja
-1098,Meco,2020/04/10 07:00:00,112.0,801.03,Meco,21.186,13133.0,Renta Media-Baja
-1099,Arganda del Rey,2020/04/10 07:00:00,262.0,452.16,Arganda del Rey,19.113,55307.0,Renta Media-Baja
-1101,Daganzo de Arriba,2020/04/10 07:00:00,36.0,332.29,Daganzo de Arriba,23.326,9841.0,Renta Media-Media
-1105,Miraflores de la Sierra,2020/04/10 07:00:00,27.0,489.31,Miraflores de la Sierra,22.005,5890.0,Renta Media-Media
-1106,Paracuellos de Jarama,2020/04/10 07:00:00,59.0,256.42,Paracuellos de Jarama,28.272,21718.0,Renta Media-Alta
-1108,Collado Villalba,2020/04/10 07:00:00,251.0,362.32,Collado Villalba,21.276,62587.0,Renta Media-Media
-1109,Colmenarejo,2020/04/10 07:00:00,21.0,259.61,Colmenarejo,23.395,8934.0,Renta Media-Media
-1111,Sevilla la Nueva,2020/04/10 07:00:00,28.0,281.44,Sevilla la Nueva,21.335,8858.0,Renta Media-Media
-1113,Brunete,2020/04/10 07:00:00,48.0,425.08,Brunete,23.574,10188.0,Renta Media-Media
-1114,Villa del Prado,2020/04/10 07:00:00,43.0,651.81,Villa del Prado,16.761,6506.0,Renta Baja
-1116,Valdemoro,2020/04/10 07:00:00,539.0,705.52,Valdemoro,21.309,72265.0,Renta Media-Media
-1117,Tres Cantos,2020/04/10 07:00:00,240.0,499.48,Tres Cantos,30.728,42546.0,Renta Media-Alta
-1121,Arroyomolinos,2020/04/10 07:00:00,120.0,459.96,Arroyomolinos,22.896,25374.0,Renta Media-Media
-1122,Moralzarzal,2020/04/10 07:00:00,51.0,391.64,Moralzarzal,25.058000000000003,12321.0,Renta Media-Media
-1123,Villarejo de Salvanés,2020/04/10 07:00:00,32.0,419.89,Villarejo de Salvanés,17.114,7301.0,Renta Baja
-1124,Serranillos del Valle,2020/04/10 07:00:00,21.0,552.78,Serranillos del Valle,20.634,3957.0,Renta Media-Baja
-1125,Villaviciosa de Odón,2020/04/10 07:00:00,141.0,508.29,Villaviciosa de Odón,29.414,26911.0,Renta Media-Alta
-1126,Camarma de Esteruelas,2020/04/10 07:00:00,35.0,491.78,Camarma de Esteruelas,20.953000000000003,7048.0,Renta Media-Baja
-1129,Majadahonda,2020/04/10 07:00:00,330.0,423.25,Majadahonda,35.254,70359.0,Renta Alta
-1131,Alcobendas,2020/04/10 07:00:00,448.0,369.59,Alcobendas,34.037,112188.0,Renta Alta
-1132,Alcalá de Henares,2020/04/10 07:00:00,1987.0,950.51,Alcalá de Henares,21.379,200768.0,Renta Media-Media
-1133,Colmenar Viejo,2020/04/10 07:00:00,228.0,452.35,Colmenar Viejo,23.982,47445.0,Renta Media-Media
-1134,San Fernando de Henares,2020/04/10 07:00:00,287.0,682.89,San Fernando de Henares,19.78,40781.0,Renta Media-Baja
-1135,Villalbilla,2020/04/10 07:00:00,78.0,697.99,Villalbilla,24.35,11916.0,Renta Media-Media
-1137,Torrejón de Ardoz,2020/04/10 07:00:00,792.0,572.71,Torrejón de Ardoz,19.585,126878.0,Renta Media-Baja
-1139,Torres de la Alameda,2020/04/10 07:00:00,56.0,679.61,Torres de la Alameda,19.135,7939.0,Renta Media-Baja
-1140,Alpedrete,2020/04/10 07:00:00,71.0,491.93,Alpedrete,24.855999999999998,14005.0,Renta Media-Media
-1142,Getafe,2020/04/10 07:00:00,821.0,428.95,Getafe,21.031999999999996,173057.0,Renta Media-Baja
-1145,Madrid-Retiro,2020/04/09 07:00:00,1033.0,929.17,Madrid-Retiro,51.79,119379.0,Renta Alta
-1146,Madrid-Salamanca,2020/04/09 07:00:00,1103.0,701.03,Madrid-Salamanca,53.972,146148.0,Renta Alta
-1147,Madrid-Centro,2020/04/09 07:00:00,740.0,520.29,Madrid-Centro,31.378,134881.0,Renta Media-Alta
-1148,Madrid-Arganzuela,2020/04/09 07:00:00,1092.0,612.1,Madrid-Arganzuela,40.201,153830.0,Renta Alta
-1149,Madrid-Chamartín,2020/04/09 07:00:00,1079.0,734.59,Madrid-Chamartín,60.948,145865.0,Renta Alta
-1150,Madrid-Tetuán,2020/04/09 07:00:00,1490.0,911.44,Madrid-Tetuán,34.7,157937.0,Renta Alta
-1151,Madrid-Chamberí,2020/04/09 07:00:00,927.0,624.32,Madrid-Chamberí,48.989,139448.0,Renta Alta
-1154,Madrid-Latina,2020/04/09 07:00:00,1745.0,699.2,Madrid-Latina,30.156,238154.0,Renta Media-Alta
-1155,Madrid-Carabanchel,2020/04/09 07:00:00,1690.0,685.83,Madrid-Carabanchel,27.936,253040.0,Renta Media-Alta
-1156,Madrid-Usera,2020/04/09 07:00:00,973.0,655.43,Madrid-Usera,25.569000000000003,139501.0,Renta Media-Media
-1157,Madrid-Puente de Vallecas,2020/04/09 07:00:00,2243.0,877.08,Madrid-Puente de Vallecas,24.688000000000002,234770.0,Renta Media-Media
-1158,Madrid-San Blas - Canillejas,2020/04/09 07:00:00,1004.0,722.95,Madrid-San Blas - Canillejas,34.494,158166.0,Renta Alta
-1159,Madrid-Barajas,2020/04/09 07:00:00,305.0,578.96,Madrid-Barajas,46.347,48972.0,Renta Alta
-1160,Madrid-Moratalaz,2020/04/09 07:00:00,958.0,983.82,Madrid-Moratalaz,34.753,94609.0,Renta Alta
-1161,Madrid-Ciudad Lineal,2020/04/09 07:00:00,1507.0,569.42,Madrid-Ciudad Lineal,36.833,216270.0,Renta Alta
-1162,Madrid-Hortaleza,2020/04/09 07:00:00,1241.0,587.39,Madrid-Hortaleza,47.11,188267.0,Renta Alta
-1163,Madrid-Villaverde,2020/04/09 07:00:00,992.0,623.73,Madrid-Villaverde,26.599,148883.0,Renta Media-Alta
-1164,Madrid-Villa de Vallecas,2020/04/09 07:00:00,964.0,904.07,Madrid-Villa de Vallecas,30.17,110436.0,Renta Media-Alta
-1165,Madrid-Vicálvaro,2020/04/09 07:00:00,595.0,827.68,Madrid-Vicálvaro,31.465999999999998,72126.0,Renta Media-Alta
-1166,Pozuelo de Alarcón,2020/04/09 07:00:00,428.0,484.71,Pozuelo de Alarcón,44.043,84360.0,Renta Alta
-1167,Alcorcón,2020/04/09 07:00:00,1146.0,655.45,Alcorcón,20.995,170336.0,Renta Media-Baja
-1168,Navalcarnero,2020/04/09 07:00:00,109.0,386.13,Navalcarnero,20.189,26364.0,Renta Media-Baja
-1169,San Agustín del Guadalix,2020/04/09 07:00:00,32.0,219.73,San Agustín del Guadalix,30.633000000000003,12953.0,Renta Media-Alta
-1173,Valdemorillo,2020/04/09 07:00:00,24.0,198.0,Valdemorillo,24.861,12058.0,Renta Media-Media
-1174,Velilla de San Antonio,2020/04/09 07:00:00,50.0,400.22,Velilla de San Antonio,20.5,12334.0,Renta Media-Baja
-1175,Villanueva de la Cañada,2020/04/09 07:00:00,65.0,266.57,Villanueva de la Cañada,32.688,18827.0,Renta Alta
-1176,Villanueva del Pardillo,2020/04/09 07:00:00,58.0,343.42,Villanueva del Pardillo,27.166999999999998,16730.0,Renta Media-Alta
-1177,Nuevo Baztán,2020/04/09 07:00:00,22.0,330.98,Nuevo Baztán,23.03,5959.0,Renta Media-Media
-1182,Aranjuez,2020/04/09 07:00:00,336.0,529.71,Aranjuez,20.976,57792.0,Renta Media-Baja
-1183,Cercedilla,2020/04/09 07:00:00,58.0,774.68,Cercedilla,20.721999999999998,6831.0,Renta Media-Baja
-1185,Coslada,2020/04/09 07:00:00,607.0,686.63,Coslada,20.386,88847.0,Renta Media-Baja
-1186,Morata de Tajuña,2020/04/09 07:00:00,76.0,978.5,Morata de Tajuña,17.993,7452.0,Renta Baja
-1189,Navas del Rey,2020/04/09 07:00:00,41.0,1392.66,Navas del Rey,17.605999999999998,2640.0,Renta Baja
-1191,Fuenlabrada,2020/04/09 07:00:00,1095.0,536.73,Fuenlabrada,17.832,195864.0,Renta Baja
-1192,Pinto,2020/04/09 07:00:00,157.0,295.38,Pinto,20.927,47594.0,Renta Media-Baja
-1196,Galapagar,2020/04/09 07:00:00,122.0,367.8,Galapagar,25.579,32380.0,Renta Media-Media
-1197,Griñón,2020/04/09 07:00:00,56.0,485.02,Griñón,22.293000000000003,9928.0,Renta Media-Media
-1198,Aldea del Fresno,2020/04/09 07:00:00,28.0,928.38,Aldea del Fresno,17.879,2528.0,Renta Baja
-1202,Ciempozuelos,2020/04/09 07:00:00,137.0,533.78,Ciempozuelos,18.608,23739.0,Renta Media-Baja
-1204,San Lorenzo de El Escorial,2020/04/09 07:00:00,59.0,333.05,San Lorenzo de El Escorial,24.318,18241.0,Renta Media-Media
-1205,San Martín de la Vega,2020/04/09 07:00:00,56.0,274.98,San Martín de la Vega,18.410999999999998,19092.0,Renta Media-Baja
-1206,Móstoles,2020/04/09 07:00:00,1313.0,600.79,Móstoles,19.06,205712.0,Renta Media-Baja
-1207,Leganés,2020/04/09 07:00:00,2236.0,1135.56,Leganés,19.548,186696.0,Renta Media-Baja
-1209,Algete,2020/04/09 07:00:00,73.0,328.75,Algete,27.386,20102.0,Renta Media-Alta
-1210,Mejorada del Campo,2020/04/09 07:00:00,140.0,571.29,Mejorada del Campo,18.533,22763.0,Renta Media-Baja
-1211,Loeches,2020/04/09 07:00:00,45.0,649.26,Loeches,19.984,8159.0,Renta Media-Baja
-1212,Parla,2020/04/09 07:00:00,560.0,409.64,Parla,17.772000000000002,125323.0,Renta Baja
-1217,Soto del Real,2020/04/09 07:00:00,49.0,500.2,Soto del Real,26.491999999999997,8482.0,Renta Media-Media
-1223,Cobeña,2020/04/09 07:00:00,28.0,375.49,Cobeña,28.180999999999997,6921.0,Renta Media-Alta
-1226,Guadarrama,2020/04/09 07:00:00,76.0,481.07,Guadarrama,22.3,15547.0,Renta Media-Media
-1227,San Martín de Valdeiglesias,2020/04/09 07:00:00,46.0,539.34,San Martín de Valdeiglesias,17.371,8516.0,Renta Baja
-1228,Torrelodones,2020/04/09 07:00:00,100.0,385.59,Torrelodones,33.721,22838.0,Renta Alta
-1229,Boadilla del Monte,2020/04/09 07:00:00,185.0,350.13,Boadilla del Monte,36.065,47852.0,Renta Alta
-1231,Tielmes,2020/04/09 07:00:00,28.0,1242.79,Tielmes,16.039,2617.0,Renta Baja
-1232,San Sebastián de los Reyes,2020/04/09 07:00:00,303.0,330.28,San Sebastián de los Reyes,24.82,83329.0,Renta Media-Media
-1233,Guadalix de la Sierra,2020/04/09 07:00:00,25.0,419.11,Guadalix de la Sierra,21.118000000000002,6057.0,Renta Media-Baja
-1234,Humanes de Madrid,2020/04/09 07:00:00,74.0,359.08,Humanes de Madrid,17.593,19404.0,Renta Baja
-1239,Meco,2020/04/09 07:00:00,111.0,793.88,Meco,21.186,13133.0,Renta Media-Baja
-1240,Arganda del Rey,2020/04/09 07:00:00,260.0,448.71,Arganda del Rey,19.113,55307.0,Renta Media-Baja
-1242,Daganzo de Arriba,2020/04/09 07:00:00,35.0,323.06,Daganzo de Arriba,23.326,9841.0,Renta Media-Media
-1246,Miraflores de la Sierra,2020/04/09 07:00:00,25.0,453.06,Miraflores de la Sierra,22.005,5890.0,Renta Media-Media
-1247,Paracuellos de Jarama,2020/04/09 07:00:00,59.0,256.42,Paracuellos de Jarama,28.272,21718.0,Renta Media-Alta
-1249,Collado Villalba,2020/04/09 07:00:00,235.0,339.23,Collado Villalba,21.276,62587.0,Renta Media-Media
-1252,Sevilla la Nueva,2020/04/09 07:00:00,25.0,251.28,Sevilla la Nueva,21.335,8858.0,Renta Media-Media
-1254,Brunete,2020/04/09 07:00:00,46.0,407.37,Brunete,23.574,10188.0,Renta Media-Media
-1255,Villa del Prado,2020/04/09 07:00:00,42.0,636.65,Villa del Prado,16.761,6506.0,Renta Baja
-1257,Valdemoro,2020/04/09 07:00:00,528.0,691.12,Valdemoro,21.309,72265.0,Renta Media-Media
-1258,Tres Cantos,2020/04/09 07:00:00,235.0,489.07,Tres Cantos,30.728,42546.0,Renta Media-Alta
-1262,Arroyomolinos,2020/04/09 07:00:00,110.0,421.63,Arroyomolinos,22.896,25374.0,Renta Media-Media
-1263,Moralzarzal,2020/04/09 07:00:00,48.0,368.61,Moralzarzal,25.058000000000003,12321.0,Renta Media-Media
-1264,Villarejo de Salvanés,2020/04/09 07:00:00,31.0,406.77,Villarejo de Salvanés,17.114,7301.0,Renta Baja
-1265,Serranillos del Valle,2020/04/09 07:00:00,21.0,552.78,Serranillos del Valle,20.634,3957.0,Renta Media-Baja
-1266,Villaviciosa de Odón,2020/04/09 07:00:00,134.0,483.06,Villaviciosa de Odón,29.414,26911.0,Renta Media-Alta
-1267,Camarma de Esteruelas,2020/04/09 07:00:00,35.0,491.78,Camarma de Esteruelas,20.953000000000003,7048.0,Renta Media-Baja
-1270,Majadahonda,2020/04/09 07:00:00,331.0,424.53,Majadahonda,35.254,70359.0,Renta Alta
-1272,Alcobendas,2020/04/09 07:00:00,438.0,361.34,Alcobendas,34.037,112188.0,Renta Alta
-1273,Alcalá de Henares,2020/04/09 07:00:00,1966.0,940.46,Alcalá de Henares,21.379,200768.0,Renta Media-Media
-1274,Colmenar Viejo,2020/04/09 07:00:00,223.0,442.43,Colmenar Viejo,23.982,47445.0,Renta Media-Media
-1275,San Fernando de Henares,2020/04/09 07:00:00,284.0,675.76,San Fernando de Henares,19.78,40781.0,Renta Media-Baja
-1276,Villalbilla,2020/04/09 07:00:00,76.0,680.09,Villalbilla,24.35,11916.0,Renta Media-Media
-1278,Torrejón de Ardoz,2020/04/09 07:00:00,775.0,560.42,Torrejón de Ardoz,19.585,126878.0,Renta Media-Baja
-1280,Torres de la Alameda,2020/04/09 07:00:00,56.0,679.61,Torres de la Alameda,19.135,7939.0,Renta Media-Baja
-1281,Alpedrete,2020/04/09 07:00:00,71.0,491.93,Alpedrete,24.855999999999998,14005.0,Renta Media-Media
-1283,Getafe,2020/04/09 07:00:00,778.0,406.48,Getafe,21.031999999999996,173057.0,Renta Media-Baja
-1286,Madrid-Retiro,2020/04/08 07:00:00,983.0,884.2,Madrid-Retiro,51.79,119379.0,Renta Alta
-1287,Madrid-Salamanca,2020/04/08 07:00:00,1076.0,683.86,Madrid-Salamanca,53.972,146148.0,Renta Alta
-1288,Madrid-Centro,2020/04/08 07:00:00,708.0,497.79,Madrid-Centro,31.378,134881.0,Renta Media-Alta
-1289,Madrid-Arganzuela,2020/04/08 07:00:00,1066.0,597.53,Madrid-Arganzuela,40.201,153830.0,Renta Alta
-1290,Madrid-Chamartín,2020/04/08 07:00:00,1058.0,720.29,Madrid-Chamartín,60.948,145865.0,Renta Alta
-1291,Madrid-Tetuán,2020/04/08 07:00:00,1450.0,886.97,Madrid-Tetuán,34.7,157937.0,Renta Alta
-1292,Madrid-Chamberí,2020/04/08 07:00:00,902.0,607.48,Madrid-Chamberí,48.989,139448.0,Renta Alta
-1295,Madrid-Latina,2020/04/08 07:00:00,1685.0,675.16,Madrid-Latina,30.156,238154.0,Renta Media-Alta
-1296,Madrid-Carabanchel,2020/04/08 07:00:00,1635.0,663.51,Madrid-Carabanchel,27.936,253040.0,Renta Media-Alta
-1297,Madrid-Usera,2020/04/08 07:00:00,954.0,642.63,Madrid-Usera,25.569000000000003,139501.0,Renta Media-Media
-1298,Madrid-Puente de Vallecas,2020/04/08 07:00:00,2175.0,850.49,Madrid-Puente de Vallecas,24.688000000000002,234770.0,Renta Media-Media
-1299,Madrid-San Blas - Canillejas,2020/04/08 07:00:00,988.0,711.43,Madrid-San Blas - Canillejas,34.494,158166.0,Renta Alta
-1300,Madrid-Barajas,2020/04/08 07:00:00,303.0,575.16,Madrid-Barajas,46.347,48972.0,Renta Alta
-1301,Madrid-Moratalaz,2020/04/08 07:00:00,930.0,955.06,Madrid-Moratalaz,34.753,94609.0,Renta Alta
-1302,Madrid-Ciudad Lineal,2020/04/08 07:00:00,1454.0,549.39,Madrid-Ciudad Lineal,36.833,216270.0,Renta Alta
-1303,Madrid-Hortaleza,2020/04/08 07:00:00,1203.0,569.4,Madrid-Hortaleza,47.11,188267.0,Renta Alta
-1304,Madrid-Villaverde,2020/04/08 07:00:00,963.0,605.5,Madrid-Villaverde,26.599,148883.0,Renta Media-Alta
-1305,Madrid-Villa de Vallecas,2020/04/08 07:00:00,955.0,895.63,Madrid-Villa de Vallecas,30.17,110436.0,Renta Media-Alta
-1306,Madrid-Vicálvaro,2020/04/08 07:00:00,579.0,805.42,Madrid-Vicálvaro,31.465999999999998,72126.0,Renta Media-Alta
-1307,Pozuelo de Alarcón,2020/04/08 07:00:00,414.0,468.86,Pozuelo de Alarcón,44.043,84360.0,Renta Alta
-1308,Alcorcón,2020/04/08 07:00:00,1091.0,624.0,Alcorcón,20.995,170336.0,Renta Media-Baja
-1309,Navalcarnero,2020/04/08 07:00:00,107.0,379.04,Navalcarnero,20.189,26364.0,Renta Media-Baja
-1310,San Agustín del Guadalix,2020/04/08 07:00:00,30.0,206.0,San Agustín del Guadalix,30.633000000000003,12953.0,Renta Media-Alta
-1314,Valdemorillo,2020/04/08 07:00:00,22.0,181.5,Valdemorillo,24.861,12058.0,Renta Media-Media
-1315,Velilla de San Antonio,2020/04/08 07:00:00,45.0,360.2,Velilla de San Antonio,20.5,12334.0,Renta Media-Baja
-1316,Villanueva de la Cañada,2020/04/08 07:00:00,62.0,254.27,Villanueva de la Cañada,32.688,18827.0,Renta Alta
-1317,Villanueva del Pardillo,2020/04/08 07:00:00,55.0,325.66,Villanueva del Pardillo,27.166999999999998,16730.0,Renta Media-Alta
-1318,Nuevo Baztán,2020/04/08 07:00:00,22.0,330.98,Nuevo Baztán,23.03,5959.0,Renta Media-Media
-1322,Aranjuez,2020/04/08 07:00:00,329.0,518.67,Aranjuez,20.976,57792.0,Renta Media-Baja
-1323,Cercedilla,2020/04/08 07:00:00,47.0,627.75,Cercedilla,20.721999999999998,6831.0,Renta Media-Baja
-1325,Coslada,2020/04/08 07:00:00,575.0,650.43,Coslada,20.386,88847.0,Renta Media-Baja
-1326,Morata de Tajuña,2020/04/08 07:00:00,76.0,978.5,Morata de Tajuña,17.993,7452.0,Renta Baja
-1329,Navas del Rey,2020/04/08 07:00:00,41.0,1392.66,Navas del Rey,17.605999999999998,2640.0,Renta Baja
-1331,Fuenlabrada,2020/04/08 07:00:00,1067.0,523.0,Fuenlabrada,17.832,195864.0,Renta Baja
-1332,Pinto,2020/04/08 07:00:00,153.0,287.85,Pinto,20.927,47594.0,Renta Media-Baja
-1336,Galapagar,2020/04/08 07:00:00,115.0,346.7,Galapagar,25.579,32380.0,Renta Media-Media
-1337,Griñón,2020/04/08 07:00:00,53.0,459.03,Griñón,22.293000000000003,9928.0,Renta Media-Media
-1338,Aldea del Fresno,2020/04/08 07:00:00,27.0,895.23,Aldea del Fresno,17.879,2528.0,Renta Baja
-1342,Ciempozuelos,2020/04/08 07:00:00,138.0,537.68,Ciempozuelos,18.608,23739.0,Renta Media-Baja
-1344,San Lorenzo de El Escorial,2020/04/08 07:00:00,53.0,299.18,San Lorenzo de El Escorial,24.318,18241.0,Renta Media-Media
-1345,San Martín de la Vega,2020/04/08 07:00:00,56.0,274.98,San Martín de la Vega,18.410999999999998,19092.0,Renta Media-Baja
-1346,Móstoles,2020/04/08 07:00:00,1262.0,577.45,Móstoles,19.06,205712.0,Renta Media-Baja
-1347,Leganés,2020/04/08 07:00:00,2160.0,1096.96,Leganés,19.548,186696.0,Renta Media-Baja
-1349,Algete,2020/04/08 07:00:00,71.0,319.75,Algete,27.386,20102.0,Renta Media-Alta
-1350,Mejorada del Campo,2020/04/08 07:00:00,137.0,559.05,Mejorada del Campo,18.533,22763.0,Renta Media-Baja
-1351,Loeches,2020/04/08 07:00:00,44.0,634.83,Loeches,19.984,8159.0,Renta Media-Baja
-1352,Parla,2020/04/08 07:00:00,547.0,400.13,Parla,17.772000000000002,125323.0,Renta Baja
-1357,Soto del Real,2020/04/08 07:00:00,48.0,490.0,Soto del Real,26.491999999999997,8482.0,Renta Media-Media
-1363,Cobeña,2020/04/08 07:00:00,27.0,362.08,Cobeña,28.180999999999997,6921.0,Renta Media-Alta
-1366,Guadarrama,2020/04/08 07:00:00,70.0,443.09,Guadarrama,22.3,15547.0,Renta Media-Media
-1367,San Martín de Valdeiglesias,2020/04/08 07:00:00,46.0,539.34,San Martín de Valdeiglesias,17.371,8516.0,Renta Baja
-1368,Torrelodones,2020/04/08 07:00:00,97.0,374.03,Torrelodones,33.721,22838.0,Renta Alta
-1369,Boadilla del Monte,2020/04/08 07:00:00,168.0,317.96,Boadilla del Monte,36.065,47852.0,Renta Alta
-1371,Tielmes,2020/04/08 07:00:00,28.0,1242.79,Tielmes,16.039,2617.0,Renta Baja
-1372,San Sebastián de los Reyes,2020/04/08 07:00:00,288.0,313.93,San Sebastián de los Reyes,24.82,83329.0,Renta Media-Media
-1373,Guadalix de la Sierra,2020/04/08 07:00:00,23.0,385.58,Guadalix de la Sierra,21.118000000000002,6057.0,Renta Media-Baja
-1374,Humanes de Madrid,2020/04/08 07:00:00,73.0,354.23,Humanes de Madrid,17.593,19404.0,Renta Baja
-1379,Meco,2020/04/08 07:00:00,110.0,786.73,Meco,21.186,13133.0,Renta Media-Baja
-1380,Arganda del Rey,2020/04/08 07:00:00,254.0,438.35,Arganda del Rey,19.113,55307.0,Renta Media-Baja
-1382,Daganzo de Arriba,2020/04/08 07:00:00,34.0,313.83,Daganzo de Arriba,23.326,9841.0,Renta Media-Media
-1386,Miraflores de la Sierra,2020/04/08 07:00:00,23.0,416.82,Miraflores de la Sierra,22.005,5890.0,Renta Media-Media
-1387,Paracuellos de Jarama,2020/04/08 07:00:00,55.0,239.04,Paracuellos de Jarama,28.272,21718.0,Renta Media-Alta
-1389,Collado Villalba,2020/04/08 07:00:00,221.0,319.02,Collado Villalba,21.276,62587.0,Renta Media-Media
-1392,Sevilla la Nueva,2020/04/08 07:00:00,22.0,221.13,Sevilla la Nueva,21.335,8858.0,Renta Media-Media
-1394,Brunete,2020/04/08 07:00:00,46.0,407.37,Brunete,23.574,10188.0,Renta Media-Media
-1395,Villa del Prado,2020/04/08 07:00:00,37.0,560.86,Villa del Prado,16.761,6506.0,Renta Baja
-1397,Valdemoro,2020/04/08 07:00:00,523.0,684.57,Valdemoro,21.309,72265.0,Renta Media-Media
-1398,Tres Cantos,2020/04/08 07:00:00,222.0,462.02,Tres Cantos,30.728,42546.0,Renta Media-Alta
-1402,Arroyomolinos,2020/04/08 07:00:00,105.0,402.47,Arroyomolinos,22.896,25374.0,Renta Media-Media
-1403,Moralzarzal,2020/04/08 07:00:00,44.0,337.89,Moralzarzal,25.058000000000003,12321.0,Renta Media-Media
-1404,Villarejo de Salvanés,2020/04/08 07:00:00,31.0,406.77,Villarejo de Salvanés,17.114,7301.0,Renta Baja
-1406,Villaviciosa de Odón,2020/04/08 07:00:00,130.0,468.64,Villaviciosa de Odón,29.414,26911.0,Renta Media-Alta
-1407,Camarma de Esteruelas,2020/04/08 07:00:00,35.0,491.78,Camarma de Esteruelas,20.953000000000003,7048.0,Renta Media-Baja
-1410,Majadahonda,2020/04/08 07:00:00,321.0,411.7,Majadahonda,35.254,70359.0,Renta Alta
-1412,Alcobendas,2020/04/08 07:00:00,425.0,350.62,Alcobendas,34.037,112188.0,Renta Alta
-1413,Alcalá de Henares,2020/04/08 07:00:00,1950.0,932.81,Alcalá de Henares,21.379,200768.0,Renta Media-Media
-1414,Colmenar Viejo,2020/04/08 07:00:00,214.0,424.58,Colmenar Viejo,23.982,47445.0,Renta Media-Media
-1415,San Fernando de Henares,2020/04/08 07:00:00,266.0,632.93,San Fernando de Henares,19.78,40781.0,Renta Media-Baja
-1416,Villalbilla,2020/04/08 07:00:00,76.0,680.09,Villalbilla,24.35,11916.0,Renta Media-Media
-1418,Torrejón de Ardoz,2020/04/08 07:00:00,769.0,556.08,Torrejón de Ardoz,19.585,126878.0,Renta Media-Baja
-1420,Torres de la Alameda,2020/04/08 07:00:00,52.0,631.07,Torres de la Alameda,19.135,7939.0,Renta Media-Baja
-1421,Alpedrete,2020/04/08 07:00:00,69.0,478.07,Alpedrete,24.855999999999998,14005.0,Renta Media-Media
-1423,Getafe,2020/04/08 07:00:00,754.0,393.94,Getafe,21.031999999999996,173057.0,Renta Media-Baja
+0,Madrid-Retiro,2020/04/18 07:00:00,1213.0,1091.08,Madrid-Retiro,51.79,119379.0,Renta Alta
+1,Madrid-Salamanca,2020/04/18 07:00:00,1298.0,824.96,Madrid-Salamanca,53.972,146148.0,Renta Alta
+2,Madrid-Centro,2020/04/18 07:00:00,933.0,655.98,Madrid-Centro,31.378,134881.0,Renta Media-Alta
+3,Madrid-Arganzuela,2020/04/18 07:00:00,1319.0,739.34,Madrid-Arganzuela,40.201,153830.0,Renta Alta
+4,Madrid-Chamartín,2020/04/18 07:00:00,1263.0,859.86,Madrid-Chamartín,60.948,145865.0,Renta Alta
+5,Madrid-Tetuán,2020/04/18 07:00:00,1742.0,1065.59,Madrid-Tetuán,34.7,157937.0,Renta Alta
+6,Madrid-Chamberí,2020/04/18 07:00:00,1199.0,807.51,Madrid-Chamberí,48.989,139448.0,Renta Alta
+9,Madrid-Latina,2020/04/18 07:00:00,2249.0,901.15,Madrid-Latina,30.156,238154.0,Renta Media-Alta
+10,Madrid-Carabanchel,2020/04/18 07:00:00,2158.0,875.75,Madrid-Carabanchel,27.936,253040.0,Renta Media-Alta
+11,Madrid-Usera,2020/04/18 07:00:00,1173.0,790.15,Madrid-Usera,25.569000000000003,139501.0,Renta Media-Media
+12,Madrid-Puente de Vallecas,2020/04/18 07:00:00,2595.0,1014.72,Madrid-Puente de Vallecas,24.688000000000002,234770.0,Renta Media-Media
+13,Madrid-San Blas - Canillejas,2020/04/18 07:00:00,1217.0,876.33,Madrid-San Blas - Canillejas,34.494,158166.0,Renta Alta
+14,Madrid-Barajas,2020/04/18 07:00:00,366.0,694.75,Madrid-Barajas,46.347,48972.0,Renta Alta
+15,Madrid-Moratalaz,2020/04/18 07:00:00,1137.0,1167.64,Madrid-Moratalaz,34.753,94609.0,Renta Alta
+16,Madrid-Ciudad Lineal,2020/04/18 07:00:00,1830.0,691.46,Madrid-Ciudad Lineal,36.833,216270.0,Renta Alta
+17,Madrid-Hortaleza,2020/04/18 07:00:00,1485.0,702.88,Madrid-Hortaleza,47.11,188267.0,Renta Alta
+18,Madrid-Villaverde,2020/04/18 07:00:00,1198.0,753.26,Madrid-Villaverde,26.599,148883.0,Renta Media-Alta
+19,Madrid-Villa de Vallecas,2020/04/18 07:00:00,1082.0,1014.73,Madrid-Villa de Vallecas,30.17,110436.0,Renta Media-Alta
+20,Madrid-Vicálvaro,2020/04/18 07:00:00,689.0,958.44,Madrid-Vicálvaro,31.465999999999998,72126.0,Renta Media-Alta
+21,Pozuelo de Alarcón,2020/04/18 07:00:00,556.0,629.67,Pozuelo de Alarcón,44.043,84360.0,Renta Alta
+22,Alcorcón,2020/04/18 07:00:00,1436.0,821.32,Alcorcón,20.995,170336.0,Renta Media-Baja
+23,Navalcarnero,2020/04/18 07:00:00,135.0,478.23,Navalcarnero,20.189,26364.0,Renta Media-Baja
+24,San Agustín del Guadalix,2020/04/18 07:00:00,51.0,350.2,San Agustín del Guadalix,30.633000000000003,12953.0,Renta Media-Alta
+28,Valdemorillo,2020/04/18 07:00:00,37.0,305.26,Valdemorillo,24.861,12058.0,Renta Media-Media
+29,Velilla de San Antonio,2020/04/18 07:00:00,58.0,464.26,Velilla de San Antonio,20.5,12334.0,Renta Media-Baja
+30,Villanueva de la Cañada,2020/04/18 07:00:00,92.0,377.3,Villanueva de la Cañada,32.688,18827.0,Renta Alta
+31,Villanueva del Pardillo,2020/04/18 07:00:00,69.0,408.55,Villanueva del Pardillo,27.166999999999998,16730.0,Renta Media-Alta
+32,Nuevo Baztán,2020/04/18 07:00:00,26.0,391.15,Nuevo Baztán,23.03,5959.0,Renta Media-Media
+37,Aranjuez,2020/04/18 07:00:00,386.0,608.54,Aranjuez,20.976,57792.0,Renta Media-Baja
+38,Cercedilla,2020/04/18 07:00:00,85.0,1135.3,Cercedilla,20.721999999999998,6831.0,Renta Media-Baja
+40,Coslada,2020/04/18 07:00:00,716.0,809.93,Coslada,20.386,88847.0,Renta Media-Baja
+41,Morata de Tajuña,2020/04/18 07:00:00,84.0,1081.5,Morata de Tajuña,17.993,7452.0,Renta Baja
+44,Navas del Rey,2020/04/18 07:00:00,45.0,1528.53,Navas del Rey,17.605999999999998,2640.0,Renta Baja
+45,Becerril de la Sierra,2020/04/18 07:00:00,24.0,415.8,Becerril de la Sierra,23.642,5351.0,Renta Media-Media
+46,Fuenlabrada,2020/04/18 07:00:00,1299.0,636.72,Fuenlabrada,17.832,195864.0,Renta Baja
+47,Pinto,2020/04/18 07:00:00,191.0,359.35,Pinto,20.927,47594.0,Renta Media-Baja
+51,Galapagar,2020/04/18 07:00:00,167.0,503.47,Galapagar,25.579,32380.0,Renta Media-Media
+52,Griñón,2020/04/18 07:00:00,74.0,640.91,Griñón,22.293000000000003,9928.0,Renta Media-Media
+53,Aldea del Fresno,2020/04/18 07:00:00,35.0,1160.48,Aldea del Fresno,17.879,2528.0,Renta Baja
+55,Talamanca de Jarama,2020/04/18 07:00:00,23.0,734.36,Talamanca de Jarama,19.675,3267.0,Renta Media-Baja
+57,Ciempozuelos,2020/04/18 07:00:00,160.0,623.39,Ciempozuelos,18.608,23739.0,Renta Media-Baja
+59,San Lorenzo de El Escorial,2020/04/18 07:00:00,89.0,502.4,San Lorenzo de El Escorial,24.318,18241.0,Renta Media-Media
+60,San Martín de la Vega,2020/04/18 07:00:00,67.0,329.0,San Martín de la Vega,18.410999999999998,19092.0,Renta Media-Baja
+61,Móstoles,2020/04/18 07:00:00,1677.0,767.34,Móstoles,19.06,205712.0,Renta Media-Baja
+62,Leganés,2020/04/18 07:00:00,2599.0,1319.91,Leganés,19.548,186696.0,Renta Media-Baja
+64,Algete,2020/04/18 07:00:00,93.0,418.82,Algete,27.386,20102.0,Renta Media-Alta
+65,Mejorada del Campo,2020/04/18 07:00:00,159.0,648.82,Mejorada del Campo,18.533,22763.0,Renta Media-Baja
+66,Loeches,2020/04/18 07:00:00,48.0,692.54,Loeches,19.984,8159.0,Renta Media-Baja
+67,Parla,2020/04/18 07:00:00,633.0,463.04,Parla,17.772000000000002,125323.0,Renta Baja
+73,Soto del Real,2020/04/18 07:00:00,57.0,581.87,Soto del Real,26.491999999999997,8482.0,Renta Media-Media
+75,Fuente el Saz de Jarama,2020/04/18 07:00:00,24.0,281.03,Fuente el Saz de Jarama,21.414,6409.0,Renta Media-Media
+77,Campo Real,2020/04/18 07:00:00,22.0,365.21,Campo Real,19.386,5775.0,Renta Media-Baja
+79,Cobeña,2020/04/18 07:00:00,51.0,683.92,Cobeña,28.180999999999997,6921.0,Renta Media-Alta
+83,Guadarrama,2020/04/18 07:00:00,116.0,734.27,Guadarrama,22.3,15547.0,Renta Media-Media
+84,San Martín de Valdeiglesias,2020/04/18 07:00:00,64.0,750.38,San Martín de Valdeiglesias,17.371,8516.0,Renta Baja
+85,Torrelodones,2020/04/18 07:00:00,132.0,508.98,Torrelodones,33.721,22838.0,Renta Alta
+86,Boadilla del Monte,2020/04/18 07:00:00,239.0,452.33,Boadilla del Monte,36.065,47852.0,Renta Alta
+88,Tielmes,2020/04/18 07:00:00,30.0,1331.56,Tielmes,16.039,2617.0,Renta Baja
+89,San Sebastián de los Reyes,2020/04/18 07:00:00,405.0,441.46,San Sebastián de los Reyes,24.82,83329.0,Renta Media-Media
+90,Guadalix de la Sierra,2020/04/18 07:00:00,28.0,469.4,Guadalix de la Sierra,21.118000000000002,6057.0,Renta Media-Baja
+91,Humanes de Madrid,2020/04/18 07:00:00,90.0,436.72,Humanes de Madrid,17.593,19404.0,Renta Baja
+92,Chinchón,2020/04/18 07:00:00,23.0,445.65,Chinchón,16.925,5447.0,Renta Baja
+94,Hoyo de Manzanares,2020/04/18 07:00:00,24.0,313.28,Hoyo de Manzanares,27.424,7834.0,Renta Media-Alta
+95,Torrejón de la Calzada,2020/04/18 07:00:00,31.0,359.59,Torrejón de la Calzada,20.897,7739.0,Renta Media-Baja
+98,Meco,2020/04/18 07:00:00,120.0,858.25,Meco,21.186,13133.0,Renta Media-Baja
+99,Arganda del Rey,2020/04/18 07:00:00,295.0,509.11,Arganda del Rey,19.113,55307.0,Renta Media-Baja
+100,Collado Mediano,2020/04/18 07:00:00,23.0,349.92,Collado Mediano,25.078000000000003,6780.0,Renta Media-Media
+101,Daganzo de Arriba,2020/04/18 07:00:00,38.0,350.75,Daganzo de Arriba,23.326,9841.0,Renta Media-Media
+105,Miraflores de la Sierra,2020/04/18 07:00:00,31.0,561.8,Miraflores de la Sierra,22.005,5890.0,Renta Media-Media
+106,Paracuellos de Jarama,2020/04/18 07:00:00,63.0,273.81,Paracuellos de Jarama,28.272,21718.0,Renta Media-Alta
+108,Collado Villalba,2020/04/18 07:00:00,350.0,505.23,Collado Villalba,21.276,62587.0,Renta Media-Media
+109,Colmenarejo,2020/04/18 07:00:00,31.0,383.24,Colmenarejo,23.395,8934.0,Renta Media-Media
+111,Sevilla la Nueva,2020/04/18 07:00:00,70.0,703.59,Sevilla la Nueva,21.335,8858.0,Renta Media-Media
+112,Colmenar de Oreja,2020/04/18 07:00:00,23.0,319.58,Colmenar de Oreja,16.418,8409.0,Renta Baja
+113,Brunete,2020/04/18 07:00:00,61.0,540.21,Brunete,23.574,10188.0,Renta Media-Media
+115,Villa del Prado,2020/04/18 07:00:00,86.0,1303.62,Villa del Prado,16.761,6506.0,Renta Baja
+117,Valdemoro,2020/04/18 07:00:00,589.0,770.96,Valdemoro,21.309,72265.0,Renta Media-Media
+118,Tres Cantos,2020/04/18 07:00:00,283.0,588.97,Tres Cantos,30.728,42546.0,Renta Media-Alta
+121,Pedrezuela,2020/04/18 07:00:00,21.0,379.47,Pedrezuela,22.807,5119.0,Renta Media-Media
+122,Arroyomolinos,2020/04/18 07:00:00,138.0,528.96,Arroyomolinos,22.896,25374.0,Renta Media-Media
+123,Moralzarzal,2020/04/18 07:00:00,59.0,453.08,Moralzarzal,25.058000000000003,12321.0,Renta Media-Media
+124,Villarejo de Salvanés,2020/04/18 07:00:00,33.0,433.01,Villarejo de Salvanés,17.114,7301.0,Renta Baja
+125,Serranillos del Valle,2020/04/18 07:00:00,27.0,710.71,Serranillos del Valle,20.634,3957.0,Renta Media-Baja
+126,Villaviciosa de Odón,2020/04/18 07:00:00,160.0,576.78,Villaviciosa de Odón,29.414,26911.0,Renta Media-Alta
+127,Camarma de Esteruelas,2020/04/18 07:00:00,40.0,562.03,Camarma de Esteruelas,20.953000000000003,7048.0,Renta Media-Baja
+131,Majadahonda,2020/04/18 07:00:00,416.0,533.55,Majadahonda,35.254,70359.0,Renta Alta
+133,Alcobendas,2020/04/18 07:00:00,570.0,470.24,Alcobendas,34.037,112188.0,Renta Alta
+134,Alcalá de Henares,2020/04/18 07:00:00,2125.0,1016.52,Alcalá de Henares,21.379,200768.0,Renta Media-Media
+135,Colmenar Viejo,2020/04/18 07:00:00,296.0,587.27,Colmenar Viejo,23.982,47445.0,Renta Media-Media
+136,San Fernando de Henares,2020/04/18 07:00:00,354.0,842.32,San Fernando de Henares,19.78,40781.0,Renta Media-Baja
+137,Villalbilla,2020/04/18 07:00:00,86.0,769.57,Villalbilla,24.35,11916.0,Renta Media-Media
+139,Torrejón de Ardoz,2020/04/18 07:00:00,872.0,630.56,Torrejón de Ardoz,19.585,126878.0,Renta Media-Baja
+141,Torres de la Alameda,2020/04/18 07:00:00,69.0,837.38,Torres de la Alameda,19.135,7939.0,Renta Media-Baja
+142,Alpedrete,2020/04/18 07:00:00,93.0,644.36,Alpedrete,24.855999999999998,14005.0,Renta Media-Media
+144,Getafe,2020/04/18 07:00:00,1021.0,533.44,Getafe,21.031999999999996,173057.0,Renta Media-Baja
+147,Madrid-Retiro,2020/04/17 07:00:00,1186.0,1066.8,Madrid-Retiro,51.79,119379.0,Renta Alta
+148,Madrid-Salamanca,2020/04/17 07:00:00,1260.0,800.81,Madrid-Salamanca,53.972,146148.0,Renta Alta
+149,Madrid-Centro,2020/04/17 07:00:00,904.0,635.59,Madrid-Centro,31.378,134881.0,Renta Media-Alta
+150,Madrid-Arganzuela,2020/04/17 07:00:00,1287.0,721.4,Madrid-Arganzuela,40.201,153830.0,Renta Alta
+151,Madrid-Chamartín,2020/04/17 07:00:00,1232.0,838.75,Madrid-Chamartín,60.948,145865.0,Renta Alta
+152,Madrid-Tetuán,2020/04/17 07:00:00,1720.0,1052.13,Madrid-Tetuán,34.7,157937.0,Renta Alta
+153,Madrid-Chamberí,2020/04/17 07:00:00,1156.0,778.55,Madrid-Chamberí,48.989,139448.0,Renta Alta
+156,Madrid-Latina,2020/04/17 07:00:00,2190.0,877.51,Madrid-Latina,30.156,238154.0,Renta Media-Alta
+157,Madrid-Carabanchel,2020/04/17 07:00:00,2113.0,857.49,Madrid-Carabanchel,27.936,253040.0,Renta Media-Alta
+158,Madrid-Usera,2020/04/17 07:00:00,1142.0,769.27,Madrid-Usera,25.569000000000003,139501.0,Renta Media-Media
+159,Madrid-Puente de Vallecas,2020/04/17 07:00:00,2543.0,994.39,Madrid-Puente de Vallecas,24.688000000000002,234770.0,Renta Media-Media
+160,Madrid-San Blas - Canillejas,2020/04/17 07:00:00,1200.0,864.09,Madrid-San Blas - Canillejas,34.494,158166.0,Renta Alta
+161,Madrid-Barajas,2020/04/17 07:00:00,360.0,683.36,Madrid-Barajas,46.347,48972.0,Renta Alta
+162,Madrid-Moratalaz,2020/04/17 07:00:00,1116.0,1146.07,Madrid-Moratalaz,34.753,94609.0,Renta Alta
+163,Madrid-Ciudad Lineal,2020/04/17 07:00:00,1790.0,676.35,Madrid-Ciudad Lineal,36.833,216270.0,Renta Alta
+164,Madrid-Hortaleza,2020/04/17 07:00:00,1462.0,691.99,Madrid-Hortaleza,47.11,188267.0,Renta Alta
+165,Madrid-Villaverde,2020/04/17 07:00:00,1172.0,736.91,Madrid-Villaverde,26.599,148883.0,Renta Media-Alta
+166,Madrid-Villa de Vallecas,2020/04/17 07:00:00,1063.0,996.91,Madrid-Villa de Vallecas,30.17,110436.0,Renta Media-Alta
+167,Madrid-Vicálvaro,2020/04/17 07:00:00,675.0,938.96,Madrid-Vicálvaro,31.465999999999998,72126.0,Renta Media-Alta
+168,Pozuelo de Alarcón,2020/04/17 07:00:00,526.0,595.7,Pozuelo de Alarcón,44.043,84360.0,Renta Alta
+169,Alcorcón,2020/04/17 07:00:00,1386.0,792.72,Alcorcón,20.995,170336.0,Renta Media-Baja
+170,Navalcarnero,2020/04/17 07:00:00,134.0,474.69,Navalcarnero,20.189,26364.0,Renta Media-Baja
+171,San Agustín del Guadalix,2020/04/17 07:00:00,49.0,336.47,San Agustín del Guadalix,30.633000000000003,12953.0,Renta Media-Alta
+175,Valdemorillo,2020/04/17 07:00:00,33.0,272.25,Valdemorillo,24.861,12058.0,Renta Media-Media
+176,Velilla de San Antonio,2020/04/17 07:00:00,56.0,448.25,Velilla de San Antonio,20.5,12334.0,Renta Media-Baja
+177,Villanueva de la Cañada,2020/04/17 07:00:00,83.0,340.39,Villanueva de la Cañada,32.688,18827.0,Renta Alta
+178,Villanueva del Pardillo,2020/04/17 07:00:00,67.0,396.71,Villanueva del Pardillo,27.166999999999998,16730.0,Renta Media-Alta
+179,Nuevo Baztán,2020/04/17 07:00:00,24.0,361.07,Nuevo Baztán,23.03,5959.0,Renta Media-Media
+184,Aranjuez,2020/04/17 07:00:00,380.0,599.08,Aranjuez,20.976,57792.0,Renta Media-Baja
+185,Cercedilla,2020/04/17 07:00:00,84.0,1121.94,Cercedilla,20.721999999999998,6831.0,Renta Media-Baja
+187,Coslada,2020/04/17 07:00:00,709.0,802.01,Coslada,20.386,88847.0,Renta Media-Baja
+188,Morata de Tajuña,2020/04/17 07:00:00,83.0,1068.62,Morata de Tajuña,17.993,7452.0,Renta Baja
+191,Navas del Rey,2020/04/17 07:00:00,45.0,1528.53,Navas del Rey,17.605999999999998,2640.0,Renta Baja
+192,Becerril de la Sierra,2020/04/17 07:00:00,22.0,381.15,Becerril de la Sierra,23.642,5351.0,Renta Media-Media
+193,Fuenlabrada,2020/04/17 07:00:00,1279.0,626.91,Fuenlabrada,17.832,195864.0,Renta Baja
+194,Pinto,2020/04/17 07:00:00,186.0,349.94,Pinto,20.927,47594.0,Renta Media-Baja
+198,Galapagar,2020/04/17 07:00:00,162.0,488.39,Galapagar,25.579,32380.0,Renta Media-Media
+199,Griñón,2020/04/17 07:00:00,71.0,614.93,Griñón,22.293000000000003,9928.0,Renta Media-Media
+200,Aldea del Fresno,2020/04/17 07:00:00,35.0,1160.48,Aldea del Fresno,17.879,2528.0,Renta Baja
+202,Talamanca de Jarama,2020/04/17 07:00:00,21.0,670.5,Talamanca de Jarama,19.675,3267.0,Renta Media-Baja
+204,Ciempozuelos,2020/04/17 07:00:00,151.0,588.33,Ciempozuelos,18.608,23739.0,Renta Media-Baja
+206,San Lorenzo de El Escorial,2020/04/17 07:00:00,86.0,485.46,San Lorenzo de El Escorial,24.318,18241.0,Renta Media-Media
+207,San Martín de la Vega,2020/04/17 07:00:00,65.0,319.18,San Martín de la Vega,18.410999999999998,19092.0,Renta Media-Baja
+208,Móstoles,2020/04/17 07:00:00,1640.0,750.41,Móstoles,19.06,205712.0,Renta Media-Baja
+209,Leganés,2020/04/17 07:00:00,2560.0,1300.1,Leganés,19.548,186696.0,Renta Media-Baja
+211,Algete,2020/04/17 07:00:00,89.0,400.81,Algete,27.386,20102.0,Renta Media-Alta
+212,Mejorada del Campo,2020/04/17 07:00:00,159.0,648.82,Mejorada del Campo,18.533,22763.0,Renta Media-Baja
+213,Loeches,2020/04/17 07:00:00,48.0,692.54,Loeches,19.984,8159.0,Renta Media-Baja
+214,Parla,2020/04/17 07:00:00,621.0,454.26,Parla,17.772000000000002,125323.0,Renta Baja
+220,Soto del Real,2020/04/17 07:00:00,54.0,551.25,Soto del Real,26.491999999999997,8482.0,Renta Media-Media
+222,Fuente el Saz de Jarama,2020/04/17 07:00:00,22.0,257.61,Fuente el Saz de Jarama,21.414,6409.0,Renta Media-Media
+224,Campo Real,2020/04/17 07:00:00,22.0,365.21,Campo Real,19.386,5775.0,Renta Media-Baja
+226,Cobeña,2020/04/17 07:00:00,51.0,683.92,Cobeña,28.180999999999997,6921.0,Renta Media-Alta
+229,Guadarrama,2020/04/17 07:00:00,112.0,708.95,Guadarrama,22.3,15547.0,Renta Media-Media
+230,San Martín de Valdeiglesias,2020/04/17 07:00:00,63.0,738.66,San Martín de Valdeiglesias,17.371,8516.0,Renta Baja
+231,Torrelodones,2020/04/17 07:00:00,125.0,481.99,Torrelodones,33.721,22838.0,Renta Alta
+232,Boadilla del Monte,2020/04/17 07:00:00,230.0,435.3,Boadilla del Monte,36.065,47852.0,Renta Alta
+234,Tielmes,2020/04/17 07:00:00,29.0,1287.17,Tielmes,16.039,2617.0,Renta Baja
+235,San Sebastián de los Reyes,2020/04/17 07:00:00,394.0,429.47,San Sebastián de los Reyes,24.82,83329.0,Renta Media-Media
+236,Guadalix de la Sierra,2020/04/17 07:00:00,28.0,469.4,Guadalix de la Sierra,21.118000000000002,6057.0,Renta Media-Baja
+237,Humanes de Madrid,2020/04/17 07:00:00,90.0,436.72,Humanes de Madrid,17.593,19404.0,Renta Baja
+238,Chinchón,2020/04/17 07:00:00,23.0,445.65,Chinchón,16.925,5447.0,Renta Baja
+240,Hoyo de Manzanares,2020/04/17 07:00:00,23.0,300.22,Hoyo de Manzanares,27.424,7834.0,Renta Media-Alta
+241,Torrejón de la Calzada,2020/04/17 07:00:00,30.0,347.99,Torrejón de la Calzada,20.897,7739.0,Renta Media-Baja
+244,Meco,2020/04/17 07:00:00,119.0,851.09,Meco,21.186,13133.0,Renta Media-Baja
+245,Arganda del Rey,2020/04/17 07:00:00,287.0,495.31,Arganda del Rey,19.113,55307.0,Renta Media-Baja
+246,Collado Mediano,2020/04/17 07:00:00,21.0,319.49,Collado Mediano,25.078000000000003,6780.0,Renta Media-Media
+247,Daganzo de Arriba,2020/04/17 07:00:00,37.0,341.52,Daganzo de Arriba,23.326,9841.0,Renta Media-Media
+251,Miraflores de la Sierra,2020/04/17 07:00:00,31.0,561.8,Miraflores de la Sierra,22.005,5890.0,Renta Media-Media
+252,Paracuellos de Jarama,2020/04/17 07:00:00,62.0,269.46,Paracuellos de Jarama,28.272,21718.0,Renta Media-Alta
+254,Collado Villalba,2020/04/17 07:00:00,337.0,486.47,Collado Villalba,21.276,62587.0,Renta Media-Media
+255,Colmenarejo,2020/04/17 07:00:00,30.0,370.87,Colmenarejo,23.395,8934.0,Renta Media-Media
+257,Sevilla la Nueva,2020/04/17 07:00:00,67.0,673.43,Sevilla la Nueva,21.335,8858.0,Renta Media-Media
+258,Colmenar de Oreja,2020/04/17 07:00:00,23.0,319.58,Colmenar de Oreja,16.418,8409.0,Renta Baja
+259,Brunete,2020/04/17 07:00:00,58.0,513.64,Brunete,23.574,10188.0,Renta Media-Media
+261,Villa del Prado,2020/04/17 07:00:00,80.0,1212.67,Villa del Prado,16.761,6506.0,Renta Baja
+263,Valdemoro,2020/04/17 07:00:00,582.0,761.8,Valdemoro,21.309,72265.0,Renta Media-Media
+264,Tres Cantos,2020/04/17 07:00:00,276.0,574.4,Tres Cantos,30.728,42546.0,Renta Media-Alta
+268,Arroyomolinos,2020/04/17 07:00:00,136.0,521.29,Arroyomolinos,22.896,25374.0,Renta Media-Media
+269,Moralzarzal,2020/04/17 07:00:00,59.0,453.08,Moralzarzal,25.058000000000003,12321.0,Renta Media-Media
+270,Villarejo de Salvanés,2020/04/17 07:00:00,33.0,433.01,Villarejo de Salvanés,17.114,7301.0,Renta Baja
+271,Serranillos del Valle,2020/04/17 07:00:00,27.0,710.71,Serranillos del Valle,20.634,3957.0,Renta Media-Baja
+272,Villaviciosa de Odón,2020/04/17 07:00:00,159.0,573.18,Villaviciosa de Odón,29.414,26911.0,Renta Media-Alta
+273,Camarma de Esteruelas,2020/04/17 07:00:00,38.0,533.93,Camarma de Esteruelas,20.953000000000003,7048.0,Renta Media-Baja
+276,Majadahonda,2020/04/17 07:00:00,384.0,492.5,Majadahonda,35.254,70359.0,Renta Alta
+278,Alcobendas,2020/04/17 07:00:00,557.0,459.52,Alcobendas,34.037,112188.0,Renta Alta
+279,Alcalá de Henares,2020/04/17 07:00:00,2107.0,1007.91,Alcalá de Henares,21.379,200768.0,Renta Media-Media
+280,Colmenar Viejo,2020/04/17 07:00:00,285.0,565.44,Colmenar Viejo,23.982,47445.0,Renta Media-Media
+281,San Fernando de Henares,2020/04/17 07:00:00,348.0,828.04,San Fernando de Henares,19.78,40781.0,Renta Media-Baja
+282,Villalbilla,2020/04/17 07:00:00,84.0,751.68,Villalbilla,24.35,11916.0,Renta Media-Media
+284,Torrejón de Ardoz,2020/04/17 07:00:00,854.0,617.55,Torrejón de Ardoz,19.585,126878.0,Renta Media-Baja
+286,Torres de la Alameda,2020/04/17 07:00:00,67.0,813.11,Torres de la Alameda,19.135,7939.0,Renta Media-Baja
+287,Alpedrete,2020/04/17 07:00:00,88.0,609.71,Alpedrete,24.855999999999998,14005.0,Renta Media-Media
+289,Getafe,2020/04/17 07:00:00,979.0,511.5,Getafe,21.031999999999996,173057.0,Renta Media-Baja
+292,Madrid-Retiro,2020/04/16 07:00:00,1156.0,1039.81,Madrid-Retiro,51.79,119379.0,Renta Alta
+293,Madrid-Salamanca,2020/04/16 07:00:00,1232.0,783.01,Madrid-Salamanca,53.972,146148.0,Renta Alta
+294,Madrid-Centro,2020/04/16 07:00:00,863.0,606.77,Madrid-Centro,31.378,134881.0,Renta Media-Alta
+295,Madrid-Arganzuela,2020/04/16 07:00:00,1241.0,695.62,Madrid-Arganzuela,40.201,153830.0,Renta Alta
+296,Madrid-Chamartín,2020/04/16 07:00:00,1206.0,821.05,Madrid-Chamartín,60.948,145865.0,Renta Alta
+297,Madrid-Tetuán,2020/04/16 07:00:00,1679.0,1027.05,Madrid-Tetuán,34.7,157937.0,Renta Alta
+298,Madrid-Chamberí,2020/04/16 07:00:00,1109.0,746.89,Madrid-Chamberí,48.989,139448.0,Renta Alta
+301,Madrid-Latina,2020/04/16 07:00:00,2122.0,850.26,Madrid-Latina,30.156,238154.0,Renta Media-Alta
+302,Madrid-Carabanchel,2020/04/16 07:00:00,2051.0,832.33,Madrid-Carabanchel,27.936,253040.0,Renta Media-Alta
+303,Madrid-Usera,2020/04/16 07:00:00,1130.0,761.19,Madrid-Usera,25.569000000000003,139501.0,Renta Media-Media
+304,Madrid-Puente de Vallecas,2020/04/16 07:00:00,2516.0,983.83,Madrid-Puente de Vallecas,24.688000000000002,234770.0,Renta Media-Media
+305,Madrid-San Blas - Canillejas,2020/04/16 07:00:00,1172.0,843.92,Madrid-San Blas - Canillejas,34.494,158166.0,Renta Alta
+306,Madrid-Barajas,2020/04/16 07:00:00,357.0,677.66,Madrid-Barajas,46.347,48972.0,Renta Alta
+307,Madrid-Moratalaz,2020/04/16 07:00:00,1088.0,1117.32,Madrid-Moratalaz,34.753,94609.0,Renta Alta
+308,Madrid-Ciudad Lineal,2020/04/16 07:00:00,1740.0,657.46,Madrid-Ciudad Lineal,36.833,216270.0,Renta Alta
+309,Madrid-Hortaleza,2020/04/16 07:00:00,1439.0,681.1,Madrid-Hortaleza,47.11,188267.0,Renta Alta
+310,Madrid-Villaverde,2020/04/16 07:00:00,1140.0,716.79,Madrid-Villaverde,26.599,148883.0,Renta Media-Alta
+311,Madrid-Villa de Vallecas,2020/04/16 07:00:00,1055.0,989.41,Madrid-Villa de Vallecas,30.17,110436.0,Renta Media-Alta
+312,Madrid-Vicálvaro,2020/04/16 07:00:00,663.0,922.27,Madrid-Vicálvaro,31.465999999999998,72126.0,Renta Media-Alta
+313,Pozuelo de Alarcón,2020/04/16 07:00:00,507.0,574.18,Pozuelo de Alarcón,44.043,84360.0,Renta Alta
+314,Alcorcón,2020/04/16 07:00:00,1340.0,766.41,Alcorcón,20.995,170336.0,Renta Media-Baja
+315,Navalcarnero,2020/04/16 07:00:00,125.0,442.81,Navalcarnero,20.189,26364.0,Renta Media-Baja
+316,San Agustín del Guadalix,2020/04/16 07:00:00,43.0,295.27,San Agustín del Guadalix,30.633000000000003,12953.0,Renta Media-Alta
+320,Valdemorillo,2020/04/16 07:00:00,30.0,247.5,Valdemorillo,24.861,12058.0,Renta Media-Media
+321,Velilla de San Antonio,2020/04/16 07:00:00,55.0,440.25,Velilla de San Antonio,20.5,12334.0,Renta Media-Baja
+322,Villanueva de la Cañada,2020/04/16 07:00:00,79.0,323.98,Villanueva de la Cañada,32.688,18827.0,Renta Alta
+323,Villanueva del Pardillo,2020/04/16 07:00:00,66.0,390.79,Villanueva del Pardillo,27.166999999999998,16730.0,Renta Media-Alta
+324,Nuevo Baztán,2020/04/16 07:00:00,24.0,361.07,Nuevo Baztán,23.03,5959.0,Renta Media-Media
+329,Aranjuez,2020/04/16 07:00:00,374.0,589.62,Aranjuez,20.976,57792.0,Renta Media-Baja
+330,Cercedilla,2020/04/16 07:00:00,78.0,1041.81,Cercedilla,20.721999999999998,6831.0,Renta Media-Baja
+332,Coslada,2020/04/16 07:00:00,700.0,791.83,Coslada,20.386,88847.0,Renta Media-Baja
+333,Morata de Tajuña,2020/04/16 07:00:00,83.0,1068.62,Morata de Tajuña,17.993,7452.0,Renta Baja
+336,Navas del Rey,2020/04/16 07:00:00,43.0,1460.6,Navas del Rey,17.605999999999998,2640.0,Renta Baja
+337,Becerril de la Sierra,2020/04/16 07:00:00,21.0,363.83,Becerril de la Sierra,23.642,5351.0,Renta Media-Media
+338,Fuenlabrada,2020/04/16 07:00:00,1260.0,617.6,Fuenlabrada,17.832,195864.0,Renta Baja
+339,Pinto,2020/04/16 07:00:00,183.0,344.3,Pinto,20.927,47594.0,Renta Media-Baja
+343,Galapagar,2020/04/16 07:00:00,151.0,455.23,Galapagar,25.579,32380.0,Renta Media-Media
+344,Griñón,2020/04/16 07:00:00,70.0,606.27,Griñón,22.293000000000003,9928.0,Renta Media-Media
+345,Aldea del Fresno,2020/04/16 07:00:00,35.0,1160.48,Aldea del Fresno,17.879,2528.0,Renta Baja
+347,Talamanca de Jarama,2020/04/16 07:00:00,21.0,670.5,Talamanca de Jarama,19.675,3267.0,Renta Media-Baja
+349,Ciempozuelos,2020/04/16 07:00:00,147.0,572.74,Ciempozuelos,18.608,23739.0,Renta Media-Baja
+351,San Lorenzo de El Escorial,2020/04/16 07:00:00,81.0,457.24,San Lorenzo de El Escorial,24.318,18241.0,Renta Media-Media
+352,San Martín de la Vega,2020/04/16 07:00:00,63.0,309.35,San Martín de la Vega,18.410999999999998,19092.0,Renta Media-Baja
+353,Móstoles,2020/04/16 07:00:00,1596.0,730.28,Móstoles,19.06,205712.0,Renta Media-Baja
+354,Leganés,2020/04/16 07:00:00,2529.0,1284.36,Leganés,19.548,186696.0,Renta Media-Baja
+356,Algete,2020/04/16 07:00:00,88.0,396.31,Algete,27.386,20102.0,Renta Media-Alta
+357,Mejorada del Campo,2020/04/16 07:00:00,156.0,636.58,Mejorada del Campo,18.533,22763.0,Renta Media-Baja
+358,Loeches,2020/04/16 07:00:00,48.0,692.54,Loeches,19.984,8159.0,Renta Media-Baja
+359,Parla,2020/04/16 07:00:00,608.0,444.75,Parla,17.772000000000002,125323.0,Renta Baja
+365,Soto del Real,2020/04/16 07:00:00,54.0,551.25,Soto del Real,26.491999999999997,8482.0,Renta Media-Media
+367,Fuente el Saz de Jarama,2020/04/16 07:00:00,21.0,245.9,Fuente el Saz de Jarama,21.414,6409.0,Renta Media-Media
+369,Campo Real,2020/04/16 07:00:00,22.0,365.21,Campo Real,19.386,5775.0,Renta Media-Baja
+371,Cobeña,2020/04/16 07:00:00,51.0,683.92,Cobeña,28.180999999999997,6921.0,Renta Media-Alta
+374,Guadarrama,2020/04/16 07:00:00,99.0,626.66,Guadarrama,22.3,15547.0,Renta Media-Media
+375,San Martín de Valdeiglesias,2020/04/16 07:00:00,59.0,691.76,San Martín de Valdeiglesias,17.371,8516.0,Renta Baja
+376,Torrelodones,2020/04/16 07:00:00,114.0,439.58,Torrelodones,33.721,22838.0,Renta Alta
+377,Boadilla del Monte,2020/04/16 07:00:00,223.0,422.05,Boadilla del Monte,36.065,47852.0,Renta Alta
+379,Tielmes,2020/04/16 07:00:00,29.0,1287.17,Tielmes,16.039,2617.0,Renta Baja
+380,San Sebastián de los Reyes,2020/04/16 07:00:00,385.0,419.66,San Sebastián de los Reyes,24.82,83329.0,Renta Media-Media
+381,Guadalix de la Sierra,2020/04/16 07:00:00,28.0,469.4,Guadalix de la Sierra,21.118000000000002,6057.0,Renta Media-Baja
+382,Humanes de Madrid,2020/04/16 07:00:00,88.0,427.02,Humanes de Madrid,17.593,19404.0,Renta Baja
+383,Chinchón,2020/04/16 07:00:00,23.0,445.65,Chinchón,16.925,5447.0,Renta Baja
+385,Hoyo de Manzanares,2020/04/16 07:00:00,21.0,274.12,Hoyo de Manzanares,27.424,7834.0,Renta Media-Alta
+386,Torrejón de la Calzada,2020/04/16 07:00:00,28.0,324.79,Torrejón de la Calzada,20.897,7739.0,Renta Media-Baja
+389,Meco,2020/04/16 07:00:00,117.0,836.79,Meco,21.186,13133.0,Renta Media-Baja
+390,Arganda del Rey,2020/04/16 07:00:00,285.0,491.85,Arganda del Rey,19.113,55307.0,Renta Media-Baja
+392,Daganzo de Arriba,2020/04/16 07:00:00,37.0,341.52,Daganzo de Arriba,23.326,9841.0,Renta Media-Media
+396,Miraflores de la Sierra,2020/04/16 07:00:00,31.0,561.8,Miraflores de la Sierra,22.005,5890.0,Renta Media-Media
+397,Paracuellos de Jarama,2020/04/16 07:00:00,62.0,269.46,Paracuellos de Jarama,28.272,21718.0,Renta Media-Alta
+399,Collado Villalba,2020/04/16 07:00:00,307.0,443.16,Collado Villalba,21.276,62587.0,Renta Media-Media
+400,Colmenarejo,2020/04/16 07:00:00,29.0,358.51,Colmenarejo,23.395,8934.0,Renta Media-Media
+402,Sevilla la Nueva,2020/04/16 07:00:00,48.0,482.46,Sevilla la Nueva,21.335,8858.0,Renta Media-Media
+403,Colmenar de Oreja,2020/04/16 07:00:00,22.0,305.68,Colmenar de Oreja,16.418,8409.0,Renta Baja
+404,Brunete,2020/04/16 07:00:00,56.0,495.93,Brunete,23.574,10188.0,Renta Media-Media
+405,Villa del Prado,2020/04/16 07:00:00,80.0,1212.67,Villa del Prado,16.761,6506.0,Renta Baja
+407,Valdemoro,2020/04/16 07:00:00,571.0,747.4,Valdemoro,21.309,72265.0,Renta Media-Media
+408,Tres Cantos,2020/04/16 07:00:00,270.0,561.91,Tres Cantos,30.728,42546.0,Renta Media-Alta
+412,Arroyomolinos,2020/04/16 07:00:00,134.0,513.63,Arroyomolinos,22.896,25374.0,Renta Media-Media
+413,Moralzarzal,2020/04/16 07:00:00,55.0,422.36,Moralzarzal,25.058000000000003,12321.0,Renta Media-Media
+414,Villarejo de Salvanés,2020/04/16 07:00:00,33.0,433.01,Villarejo de Salvanés,17.114,7301.0,Renta Baja
+415,Serranillos del Valle,2020/04/16 07:00:00,27.0,710.71,Serranillos del Valle,20.634,3957.0,Renta Media-Baja
+416,Villaviciosa de Odón,2020/04/16 07:00:00,155.0,558.76,Villaviciosa de Odón,29.414,26911.0,Renta Media-Alta
+417,Camarma de Esteruelas,2020/04/16 07:00:00,36.0,505.83,Camarma de Esteruelas,20.953000000000003,7048.0,Renta Media-Baja
+420,Majadahonda,2020/04/16 07:00:00,372.0,477.11,Majadahonda,35.254,70359.0,Renta Alta
+422,Alcobendas,2020/04/16 07:00:00,541.0,446.32,Alcobendas,34.037,112188.0,Renta Alta
+423,Alcalá de Henares,2020/04/16 07:00:00,2087.0,998.34,Alcalá de Henares,21.379,200768.0,Renta Media-Media
+424,Colmenar Viejo,2020/04/16 07:00:00,279.0,553.54,Colmenar Viejo,23.982,47445.0,Renta Media-Media
+425,San Fernando de Henares,2020/04/16 07:00:00,345.0,820.9,San Fernando de Henares,19.78,40781.0,Renta Media-Baja
+426,Villalbilla,2020/04/16 07:00:00,84.0,751.68,Villalbilla,24.35,11916.0,Renta Media-Media
+428,Torrejón de Ardoz,2020/04/16 07:00:00,845.0,611.04,Torrejón de Ardoz,19.585,126878.0,Renta Media-Baja
+430,Torres de la Alameda,2020/04/16 07:00:00,65.0,788.83,Torres de la Alameda,19.135,7939.0,Renta Media-Baja
+431,Alpedrete,2020/04/16 07:00:00,81.0,561.21,Alpedrete,24.855999999999998,14005.0,Renta Media-Media
+433,Getafe,2020/04/16 07:00:00,951.0,496.87,Getafe,21.031999999999996,173057.0,Renta Media-Baja
+436,Madrid-Retiro,2020/04/15 07:00:00,1137.0,1022.72,Madrid-Retiro,51.79,119379.0,Renta Alta
+437,Madrid-Salamanca,2020/04/15 07:00:00,1208.0,767.76,Madrid-Salamanca,53.972,146148.0,Renta Alta
+438,Madrid-Centro,2020/04/15 07:00:00,847.0,595.52,Madrid-Centro,31.378,134881.0,Renta Media-Alta
+439,Madrid-Arganzuela,2020/04/15 07:00:00,1219.0,683.29,Madrid-Arganzuela,40.201,153830.0,Renta Alta
+440,Madrid-Chamartín,2020/04/15 07:00:00,1190.0,810.16,Madrid-Chamartín,60.948,145865.0,Renta Alta
+441,Madrid-Tetuán,2020/04/15 07:00:00,1655.0,1012.37,Madrid-Tetuán,34.7,157937.0,Renta Alta
+442,Madrid-Chamberí,2020/04/15 07:00:00,1080.0,727.36,Madrid-Chamberí,48.989,139448.0,Renta Alta
+445,Madrid-Latina,2020/04/15 07:00:00,2007.0,804.18,Madrid-Latina,30.156,238154.0,Renta Media-Alta
+446,Madrid-Carabanchel,2020/04/15 07:00:00,1929.0,782.82,Madrid-Carabanchel,27.936,253040.0,Renta Media-Alta
+447,Madrid-Usera,2020/04/15 07:00:00,1110.0,747.72,Madrid-Usera,25.569000000000003,139501.0,Renta Media-Media
+448,Madrid-Puente de Vallecas,2020/04/15 07:00:00,2481.0,970.14,Madrid-Puente de Vallecas,24.688000000000002,234770.0,Renta Media-Media
+449,Madrid-San Blas - Canillejas,2020/04/15 07:00:00,1135.0,817.28,Madrid-San Blas - Canillejas,34.494,158166.0,Renta Alta
+450,Madrid-Barajas,2020/04/15 07:00:00,349.0,662.48,Madrid-Barajas,46.347,48972.0,Renta Alta
+451,Madrid-Moratalaz,2020/04/15 07:00:00,1075.0,1103.97,Madrid-Moratalaz,34.753,94609.0,Renta Alta
+452,Madrid-Ciudad Lineal,2020/04/15 07:00:00,1689.0,638.19,Madrid-Ciudad Lineal,36.833,216270.0,Renta Alta
+453,Madrid-Hortaleza,2020/04/15 07:00:00,1396.0,660.75,Madrid-Hortaleza,47.11,188267.0,Renta Alta
+454,Madrid-Villaverde,2020/04/15 07:00:00,1117.0,702.33,Madrid-Villaverde,26.599,148883.0,Renta Media-Alta
+455,Madrid-Villa de Vallecas,2020/04/15 07:00:00,1045.0,980.03,Madrid-Villa de Vallecas,30.17,110436.0,Renta Media-Alta
+456,Madrid-Vicálvaro,2020/04/15 07:00:00,656.0,912.53,Madrid-Vicálvaro,31.465999999999998,72126.0,Renta Media-Alta
+457,Pozuelo de Alarcón,2020/04/15 07:00:00,495.0,560.59,Pozuelo de Alarcón,44.043,84360.0,Renta Alta
+458,Alcorcón,2020/04/15 07:00:00,1310.0,749.25,Alcorcón,20.995,170336.0,Renta Media-Baja
+459,Navalcarnero,2020/04/15 07:00:00,121.0,428.64,Navalcarnero,20.189,26364.0,Renta Media-Baja
+460,San Agustín del Guadalix,2020/04/15 07:00:00,42.0,288.4,San Agustín del Guadalix,30.633000000000003,12953.0,Renta Media-Alta
+464,Valdemorillo,2020/04/15 07:00:00,30.0,247.5,Valdemorillo,24.861,12058.0,Renta Media-Media
+465,Velilla de San Antonio,2020/04/15 07:00:00,55.0,440.25,Velilla de San Antonio,20.5,12334.0,Renta Media-Baja
+466,Villanueva de la Cañada,2020/04/15 07:00:00,78.0,319.88,Villanueva de la Cañada,32.688,18827.0,Renta Alta
+467,Villanueva del Pardillo,2020/04/15 07:00:00,65.0,384.87,Villanueva del Pardillo,27.166999999999998,16730.0,Renta Media-Alta
+468,Nuevo Baztán,2020/04/15 07:00:00,24.0,361.07,Nuevo Baztán,23.03,5959.0,Renta Media-Media
+473,Aranjuez,2020/04/15 07:00:00,369.0,581.73,Aranjuez,20.976,57792.0,Renta Media-Baja
+474,Cercedilla,2020/04/15 07:00:00,78.0,1041.81,Cercedilla,20.721999999999998,6831.0,Renta Media-Baja
+476,Coslada,2020/04/15 07:00:00,691.0,781.65,Coslada,20.386,88847.0,Renta Media-Baja
+477,Morata de Tajuña,2020/04/15 07:00:00,83.0,1068.62,Morata de Tajuña,17.993,7452.0,Renta Baja
+480,Navas del Rey,2020/04/15 07:00:00,43.0,1460.6,Navas del Rey,17.605999999999998,2640.0,Renta Baja
+481,Becerril de la Sierra,2020/04/15 07:00:00,21.0,363.83,Becerril de la Sierra,23.642,5351.0,Renta Media-Media
+482,Fuenlabrada,2020/04/15 07:00:00,1239.0,607.31,Fuenlabrada,17.832,195864.0,Renta Baja
+483,Pinto,2020/04/15 07:00:00,177.0,333.01,Pinto,20.927,47594.0,Renta Media-Baja
+487,Galapagar,2020/04/15 07:00:00,147.0,443.17,Galapagar,25.579,32380.0,Renta Media-Media
+488,Griñón,2020/04/15 07:00:00,68.0,588.95,Griñón,22.293000000000003,9928.0,Renta Media-Media
+489,Aldea del Fresno,2020/04/15 07:00:00,35.0,1160.48,Aldea del Fresno,17.879,2528.0,Renta Baja
+491,Talamanca de Jarama,2020/04/15 07:00:00,21.0,670.5,Talamanca de Jarama,19.675,3267.0,Renta Media-Baja
+493,Ciempozuelos,2020/04/15 07:00:00,146.0,568.85,Ciempozuelos,18.608,23739.0,Renta Media-Baja
+495,San Lorenzo de El Escorial,2020/04/15 07:00:00,77.0,434.66,San Lorenzo de El Escorial,24.318,18241.0,Renta Media-Media
+496,San Martín de la Vega,2020/04/15 07:00:00,63.0,309.35,San Martín de la Vega,18.410999999999998,19092.0,Renta Media-Baja
+497,Móstoles,2020/04/15 07:00:00,1552.0,710.14,Móstoles,19.06,205712.0,Renta Media-Baja
+498,Leganés,2020/04/15 07:00:00,2492.0,1265.57,Leganés,19.548,186696.0,Renta Media-Baja
+500,Algete,2020/04/15 07:00:00,85.0,382.8,Algete,27.386,20102.0,Renta Media-Alta
+501,Mejorada del Campo,2020/04/15 07:00:00,156.0,636.58,Mejorada del Campo,18.533,22763.0,Renta Media-Baja
+502,Loeches,2020/04/15 07:00:00,49.0,706.97,Loeches,19.984,8159.0,Renta Media-Baja
+503,Parla,2020/04/15 07:00:00,598.0,437.44,Parla,17.772000000000002,125323.0,Renta Baja
+509,Soto del Real,2020/04/15 07:00:00,54.0,551.25,Soto del Real,26.491999999999997,8482.0,Renta Media-Media
+511,Fuente el Saz de Jarama,2020/04/15 07:00:00,21.0,245.9,Fuente el Saz de Jarama,21.414,6409.0,Renta Media-Media
+513,Campo Real,2020/04/15 07:00:00,22.0,365.21,Campo Real,19.386,5775.0,Renta Media-Baja
+515,Cobeña,2020/04/15 07:00:00,51.0,683.92,Cobeña,28.180999999999997,6921.0,Renta Media-Alta
+518,Guadarrama,2020/04/15 07:00:00,96.0,607.67,Guadarrama,22.3,15547.0,Renta Media-Media
+519,San Martín de Valdeiglesias,2020/04/15 07:00:00,52.0,609.68,San Martín de Valdeiglesias,17.371,8516.0,Renta Baja
+520,Torrelodones,2020/04/15 07:00:00,111.0,428.01,Torrelodones,33.721,22838.0,Renta Alta
+521,Boadilla del Monte,2020/04/15 07:00:00,217.0,410.7,Boadilla del Monte,36.065,47852.0,Renta Alta
+523,Tielmes,2020/04/15 07:00:00,29.0,1287.17,Tielmes,16.039,2617.0,Renta Baja
+524,San Sebastián de los Reyes,2020/04/15 07:00:00,378.0,412.03,San Sebastián de los Reyes,24.82,83329.0,Renta Media-Media
+525,Guadalix de la Sierra,2020/04/15 07:00:00,28.0,469.4,Guadalix de la Sierra,21.118000000000002,6057.0,Renta Media-Baja
+526,Humanes de Madrid,2020/04/15 07:00:00,88.0,427.02,Humanes de Madrid,17.593,19404.0,Renta Baja
+527,Chinchón,2020/04/15 07:00:00,23.0,445.65,Chinchón,16.925,5447.0,Renta Baja
+530,Torrejón de la Calzada,2020/04/15 07:00:00,27.0,313.19,Torrejón de la Calzada,20.897,7739.0,Renta Media-Baja
+533,Meco,2020/04/15 07:00:00,117.0,836.79,Meco,21.186,13133.0,Renta Media-Baja
+534,Arganda del Rey,2020/04/15 07:00:00,278.0,479.77,Arganda del Rey,19.113,55307.0,Renta Media-Baja
+536,Daganzo de Arriba,2020/04/15 07:00:00,36.0,332.29,Daganzo de Arriba,23.326,9841.0,Renta Media-Media
+540,Miraflores de la Sierra,2020/04/15 07:00:00,31.0,561.8,Miraflores de la Sierra,22.005,5890.0,Renta Media-Media
+541,Paracuellos de Jarama,2020/04/15 07:00:00,62.0,269.46,Paracuellos de Jarama,28.272,21718.0,Renta Media-Alta
+543,Collado Villalba,2020/04/15 07:00:00,301.0,434.5,Collado Villalba,21.276,62587.0,Renta Media-Media
+544,Colmenarejo,2020/04/15 07:00:00,27.0,333.79,Colmenarejo,23.395,8934.0,Renta Media-Media
+546,Sevilla la Nueva,2020/04/15 07:00:00,43.0,432.2,Sevilla la Nueva,21.335,8858.0,Renta Media-Media
+547,Colmenar de Oreja,2020/04/15 07:00:00,21.0,291.79,Colmenar de Oreja,16.418,8409.0,Renta Baja
+548,Brunete,2020/04/15 07:00:00,56.0,495.93,Brunete,23.574,10188.0,Renta Media-Media
+549,Villa del Prado,2020/04/15 07:00:00,76.0,1152.04,Villa del Prado,16.761,6506.0,Renta Baja
+551,Valdemoro,2020/04/15 07:00:00,568.0,743.47,Valdemoro,21.309,72265.0,Renta Media-Media
+552,Tres Cantos,2020/04/15 07:00:00,266.0,553.59,Tres Cantos,30.728,42546.0,Renta Media-Alta
+556,Arroyomolinos,2020/04/15 07:00:00,133.0,509.79,Arroyomolinos,22.896,25374.0,Renta Media-Media
+557,Moralzarzal,2020/04/15 07:00:00,54.0,414.68,Moralzarzal,25.058000000000003,12321.0,Renta Media-Media
+558,Villarejo de Salvanés,2020/04/15 07:00:00,33.0,433.01,Villarejo de Salvanés,17.114,7301.0,Renta Baja
+559,Serranillos del Valle,2020/04/15 07:00:00,26.0,684.39,Serranillos del Valle,20.634,3957.0,Renta Media-Baja
+560,Villaviciosa de Odón,2020/04/15 07:00:00,151.0,544.34,Villaviciosa de Odón,29.414,26911.0,Renta Media-Alta
+561,Camarma de Esteruelas,2020/04/15 07:00:00,35.0,491.78,Camarma de Esteruelas,20.953000000000003,7048.0,Renta Media-Baja
+564,Majadahonda,2020/04/15 07:00:00,367.0,470.7,Majadahonda,35.254,70359.0,Renta Alta
+566,Alcobendas,2020/04/15 07:00:00,523.0,431.47,Alcobendas,34.037,112188.0,Renta Alta
+567,Alcalá de Henares,2020/04/15 07:00:00,2077.0,993.56,Alcalá de Henares,21.379,200768.0,Renta Media-Media
+568,Colmenar Viejo,2020/04/15 07:00:00,269.0,533.7,Colmenar Viejo,23.982,47445.0,Renta Media-Media
+569,San Fernando de Henares,2020/04/15 07:00:00,329.0,782.83,San Fernando de Henares,19.78,40781.0,Renta Media-Baja
+570,Villalbilla,2020/04/15 07:00:00,83.0,742.73,Villalbilla,24.35,11916.0,Renta Media-Media
+572,Torrejón de Ardoz,2020/04/15 07:00:00,843.0,609.59,Torrejón de Ardoz,19.585,126878.0,Renta Media-Baja
+574,Torres de la Alameda,2020/04/15 07:00:00,63.0,764.56,Torres de la Alameda,19.135,7939.0,Renta Media-Baja
+575,Alpedrete,2020/04/15 07:00:00,76.0,526.57,Alpedrete,24.855999999999998,14005.0,Renta Media-Media
+577,Getafe,2020/04/15 07:00:00,921.0,481.2,Getafe,21.031999999999996,173057.0,Renta Media-Baja
+580,Madrid-Retiro,2020/04/14 07:00:00,1124.0,1011.03,Madrid-Retiro,51.79,119379.0,Renta Alta
+581,Madrid-Salamanca,2020/04/14 07:00:00,1186.0,753.78,Madrid-Salamanca,53.972,146148.0,Renta Alta
+582,Madrid-Centro,2020/04/14 07:00:00,814.0,572.32,Madrid-Centro,31.378,134881.0,Renta Media-Alta
+583,Madrid-Arganzuela,2020/04/14 07:00:00,1178.0,660.31,Madrid-Arganzuela,40.201,153830.0,Renta Alta
+584,Madrid-Chamartín,2020/04/14 07:00:00,1154.0,785.65,Madrid-Chamartín,60.948,145865.0,Renta Alta
+585,Madrid-Tetuán,2020/04/14 07:00:00,1617.0,989.12,Madrid-Tetuán,34.7,157937.0,Renta Alta
+586,Madrid-Chamberí,2020/04/14 07:00:00,1040.0,700.42,Madrid-Chamberí,48.989,139448.0,Renta Alta
+589,Madrid-Latina,2020/04/14 07:00:00,1940.0,777.33,Madrid-Latina,30.156,238154.0,Renta Media-Alta
+590,Madrid-Carabanchel,2020/04/14 07:00:00,1869.0,758.47,Madrid-Carabanchel,27.936,253040.0,Renta Media-Alta
+591,Madrid-Usera,2020/04/14 07:00:00,1094.0,736.94,Madrid-Usera,25.569000000000003,139501.0,Renta Media-Media
+592,Madrid-Puente de Vallecas,2020/04/14 07:00:00,2410.0,942.38,Madrid-Puente de Vallecas,24.688000000000002,234770.0,Renta Media-Media
+593,Madrid-San Blas - Canillejas,2020/04/14 07:00:00,1104.0,794.96,Madrid-San Blas - Canillejas,34.494,158166.0,Renta Alta
+594,Madrid-Barajas,2020/04/14 07:00:00,339.0,643.5,Madrid-Barajas,46.347,48972.0,Renta Alta
+595,Madrid-Moratalaz,2020/04/14 07:00:00,1053.0,1081.38,Madrid-Moratalaz,34.753,94609.0,Renta Alta
+596,Madrid-Ciudad Lineal,2020/04/14 07:00:00,1656.0,625.72,Madrid-Ciudad Lineal,36.833,216270.0,Renta Alta
+597,Madrid-Hortaleza,2020/04/14 07:00:00,1367.0,647.02,Madrid-Hortaleza,47.11,188267.0,Renta Alta
+598,Madrid-Villaverde,2020/04/14 07:00:00,1093.0,687.24,Madrid-Villaverde,26.599,148883.0,Renta Media-Alta
+599,Madrid-Villa de Vallecas,2020/04/14 07:00:00,1018.0,954.71,Madrid-Villa de Vallecas,30.17,110436.0,Renta Media-Alta
+600,Madrid-Vicálvaro,2020/04/14 07:00:00,644.0,895.84,Madrid-Vicálvaro,31.465999999999998,72126.0,Renta Media-Alta
+601,Pozuelo de Alarcón,2020/04/14 07:00:00,468.0,530.01,Pozuelo de Alarcón,44.043,84360.0,Renta Alta
+602,Alcorcón,2020/04/14 07:00:00,1280.0,732.09,Alcorcón,20.995,170336.0,Renta Media-Baja
+603,Navalcarnero,2020/04/14 07:00:00,118.0,418.01,Navalcarnero,20.189,26364.0,Renta Media-Baja
+604,San Agustín del Guadalix,2020/04/14 07:00:00,42.0,288.4,San Agustín del Guadalix,30.633000000000003,12953.0,Renta Media-Alta
+608,Valdemorillo,2020/04/14 07:00:00,27.0,222.75,Valdemorillo,24.861,12058.0,Renta Media-Media
+609,Velilla de San Antonio,2020/04/14 07:00:00,53.0,424.24,Velilla de San Antonio,20.5,12334.0,Renta Media-Baja
+610,Villanueva de la Cañada,2020/04/14 07:00:00,76.0,311.68,Villanueva de la Cañada,32.688,18827.0,Renta Alta
+611,Villanueva del Pardillo,2020/04/14 07:00:00,62.0,367.1,Villanueva del Pardillo,27.166999999999998,16730.0,Renta Media-Alta
+612,Nuevo Baztán,2020/04/14 07:00:00,24.0,361.07,Nuevo Baztán,23.03,5959.0,Renta Media-Media
+617,Aranjuez,2020/04/14 07:00:00,363.0,572.28,Aranjuez,20.976,57792.0,Renta Media-Baja
+618,Cercedilla,2020/04/14 07:00:00,75.0,1001.74,Cercedilla,20.721999999999998,6831.0,Renta Media-Baja
+620,Coslada,2020/04/14 07:00:00,650.0,735.27,Coslada,20.386,88847.0,Renta Media-Baja
+621,Morata de Tajuña,2020/04/14 07:00:00,83.0,1068.62,Morata de Tajuña,17.993,7452.0,Renta Baja
+624,Navas del Rey,2020/04/14 07:00:00,42.0,1426.63,Navas del Rey,17.605999999999998,2640.0,Renta Baja
+626,Fuenlabrada,2020/04/14 07:00:00,1220.0,598.0,Fuenlabrada,17.832,195864.0,Renta Baja
+627,Pinto,2020/04/14 07:00:00,174.0,327.36,Pinto,20.927,47594.0,Renta Media-Baja
+631,Galapagar,2020/04/14 07:00:00,136.0,410.01,Galapagar,25.579,32380.0,Renta Media-Media
+632,Griñón,2020/04/14 07:00:00,67.0,580.29,Griñón,22.293000000000003,9928.0,Renta Media-Media
+633,Aldea del Fresno,2020/04/14 07:00:00,31.0,1027.85,Aldea del Fresno,17.879,2528.0,Renta Baja
+635,Talamanca de Jarama,2020/04/14 07:00:00,21.0,670.5,Talamanca de Jarama,19.675,3267.0,Renta Media-Baja
+637,Ciempozuelos,2020/04/14 07:00:00,142.0,553.26,Ciempozuelos,18.608,23739.0,Renta Media-Baja
+639,San Lorenzo de El Escorial,2020/04/14 07:00:00,67.0,378.21,San Lorenzo de El Escorial,24.318,18241.0,Renta Media-Media
+640,San Martín de la Vega,2020/04/14 07:00:00,63.0,309.35,San Martín de la Vega,18.410999999999998,19092.0,Renta Media-Baja
+641,Móstoles,2020/04/14 07:00:00,1507.0,689.55,Móstoles,19.06,205712.0,Renta Media-Baja
+642,Leganés,2020/04/14 07:00:00,2450.0,1244.24,Leganés,19.548,186696.0,Renta Media-Baja
+644,Algete,2020/04/14 07:00:00,84.0,378.29,Algete,27.386,20102.0,Renta Media-Alta
+645,Mejorada del Campo,2020/04/14 07:00:00,152.0,620.26,Mejorada del Campo,18.533,22763.0,Renta Media-Baja
+646,Loeches,2020/04/14 07:00:00,48.0,692.54,Loeches,19.984,8159.0,Renta Media-Baja
+647,Parla,2020/04/14 07:00:00,594.0,434.51,Parla,17.772000000000002,125323.0,Renta Baja
+653,Soto del Real,2020/04/14 07:00:00,49.0,500.2,Soto del Real,26.491999999999997,8482.0,Renta Media-Media
+657,Campo Real,2020/04/14 07:00:00,21.0,348.61,Campo Real,19.386,5775.0,Renta Media-Baja
+659,Cobeña,2020/04/14 07:00:00,36.0,482.77,Cobeña,28.180999999999997,6921.0,Renta Media-Alta
+662,Guadarrama,2020/04/14 07:00:00,90.0,569.69,Guadarrama,22.3,15547.0,Renta Media-Media
+663,San Martín de Valdeiglesias,2020/04/14 07:00:00,51.0,597.96,San Martín de Valdeiglesias,17.371,8516.0,Renta Baja
+664,Torrelodones,2020/04/14 07:00:00,106.0,408.73,Torrelodones,33.721,22838.0,Renta Alta
+665,Boadilla del Monte,2020/04/14 07:00:00,208.0,393.66,Boadilla del Monte,36.065,47852.0,Renta Alta
+667,Tielmes,2020/04/14 07:00:00,29.0,1287.17,Tielmes,16.039,2617.0,Renta Baja
+668,San Sebastián de los Reyes,2020/04/14 07:00:00,362.0,394.59,San Sebastián de los Reyes,24.82,83329.0,Renta Media-Media
+669,Guadalix de la Sierra,2020/04/14 07:00:00,28.0,469.4,Guadalix de la Sierra,21.118000000000002,6057.0,Renta Media-Baja
+670,Humanes de Madrid,2020/04/14 07:00:00,86.0,417.31,Humanes de Madrid,17.593,19404.0,Renta Baja
+671,Chinchón,2020/04/14 07:00:00,23.0,445.65,Chinchón,16.925,5447.0,Renta Baja
+674,Torrejón de la Calzada,2020/04/14 07:00:00,21.0,243.59,Torrejón de la Calzada,20.897,7739.0,Renta Media-Baja
+677,Meco,2020/04/14 07:00:00,116.0,829.64,Meco,21.186,13133.0,Renta Media-Baja
+678,Arganda del Rey,2020/04/14 07:00:00,275.0,474.6,Arganda del Rey,19.113,55307.0,Renta Media-Baja
+680,Daganzo de Arriba,2020/04/14 07:00:00,35.0,323.06,Daganzo de Arriba,23.326,9841.0,Renta Media-Media
+684,Miraflores de la Sierra,2020/04/14 07:00:00,30.0,543.68,Miraflores de la Sierra,22.005,5890.0,Renta Media-Media
+685,Paracuellos de Jarama,2020/04/14 07:00:00,61.0,265.11,Paracuellos de Jarama,28.272,21718.0,Renta Media-Alta
+687,Collado Villalba,2020/04/14 07:00:00,274.0,395.53,Collado Villalba,21.276,62587.0,Renta Media-Media
+688,Colmenarejo,2020/04/14 07:00:00,26.0,321.42,Colmenarejo,23.395,8934.0,Renta Media-Media
+690,Sevilla la Nueva,2020/04/14 07:00:00,43.0,432.2,Sevilla la Nueva,21.335,8858.0,Renta Media-Media
+691,Colmenar de Oreja,2020/04/14 07:00:00,21.0,291.79,Colmenar de Oreja,16.418,8409.0,Renta Baja
+692,Brunete,2020/04/14 07:00:00,51.0,451.65,Brunete,23.574,10188.0,Renta Media-Media
+693,Villa del Prado,2020/04/14 07:00:00,54.0,818.55,Villa del Prado,16.761,6506.0,Renta Baja
+695,Valdemoro,2020/04/14 07:00:00,564.0,738.24,Valdemoro,21.309,72265.0,Renta Media-Media
+696,Tres Cantos,2020/04/14 07:00:00,262.0,545.27,Tres Cantos,30.728,42546.0,Renta Media-Alta
+700,Arroyomolinos,2020/04/14 07:00:00,130.0,498.29,Arroyomolinos,22.896,25374.0,Renta Media-Media
+701,Moralzarzal,2020/04/14 07:00:00,52.0,399.32,Moralzarzal,25.058000000000003,12321.0,Renta Media-Media
+702,Villarejo de Salvanés,2020/04/14 07:00:00,33.0,433.01,Villarejo de Salvanés,17.114,7301.0,Renta Baja
+703,Serranillos del Valle,2020/04/14 07:00:00,25.0,658.07,Serranillos del Valle,20.634,3957.0,Renta Media-Baja
+704,Villaviciosa de Odón,2020/04/14 07:00:00,148.0,533.53,Villaviciosa de Odón,29.414,26911.0,Renta Media-Alta
+705,Camarma de Esteruelas,2020/04/14 07:00:00,35.0,491.78,Camarma de Esteruelas,20.953000000000003,7048.0,Renta Media-Baja
+708,Majadahonda,2020/04/14 07:00:00,351.0,450.18,Majadahonda,35.254,70359.0,Renta Alta
+710,Alcobendas,2020/04/14 07:00:00,509.0,419.92,Alcobendas,34.037,112188.0,Renta Alta
+711,Alcalá de Henares,2020/04/14 07:00:00,2049.0,980.17,Alcalá de Henares,21.379,200768.0,Renta Media-Media
+712,Colmenar Viejo,2020/04/14 07:00:00,264.0,523.78,Colmenar Viejo,23.982,47445.0,Renta Media-Media
+713,San Fernando de Henares,2020/04/14 07:00:00,308.0,732.86,San Fernando de Henares,19.78,40781.0,Renta Media-Baja
+714,Villalbilla,2020/04/14 07:00:00,81.0,724.83,Villalbilla,24.35,11916.0,Renta Media-Media
+716,Torrejón de Ardoz,2020/04/14 07:00:00,823.0,595.13,Torrejón de Ardoz,19.585,126878.0,Renta Media-Baja
+718,Torres de la Alameda,2020/04/14 07:00:00,60.0,728.16,Torres de la Alameda,19.135,7939.0,Renta Media-Baja
+719,Alpedrete,2020/04/14 07:00:00,73.0,505.79,Alpedrete,24.855999999999998,14005.0,Renta Media-Media
+721,Getafe,2020/04/14 07:00:00,895.0,467.61,Getafe,21.031999999999996,173057.0,Renta Media-Baja
+724,Madrid-Retiro,2020/04/13 07:00:00,1098.0,987.64,Madrid-Retiro,51.79,119379.0,Renta Alta
+725,Madrid-Salamanca,2020/04/13 07:00:00,1143.0,726.45,Madrid-Salamanca,53.972,146148.0,Renta Alta
+726,Madrid-Centro,2020/04/13 07:00:00,792.0,556.85,Madrid-Centro,31.378,134881.0,Renta Media-Alta
+727,Madrid-Arganzuela,2020/04/13 07:00:00,1146.0,642.37,Madrid-Arganzuela,40.201,153830.0,Renta Alta
+728,Madrid-Chamartín,2020/04/13 07:00:00,1125.0,765.91,Madrid-Chamartín,60.948,145865.0,Renta Alta
+729,Madrid-Tetuán,2020/04/13 07:00:00,1574.0,962.82,Madrid-Tetuán,34.7,157937.0,Renta Alta
+730,Madrid-Chamberí,2020/04/13 07:00:00,1016.0,684.26,Madrid-Chamberí,48.989,139448.0,Renta Alta
+733,Madrid-Latina,2020/04/13 07:00:00,1902.0,762.11,Madrid-Latina,30.156,238154.0,Renta Media-Alta
+734,Madrid-Carabanchel,2020/04/13 07:00:00,1832.0,743.45,Madrid-Carabanchel,27.936,253040.0,Renta Media-Alta
+735,Madrid-Usera,2020/04/13 07:00:00,1071.0,721.45,Madrid-Usera,25.569000000000003,139501.0,Renta Media-Media
+736,Madrid-Puente de Vallecas,2020/04/13 07:00:00,2358.0,922.05,Madrid-Puente de Vallecas,24.688000000000002,234770.0,Renta Media-Media
+737,Madrid-San Blas - Canillejas,2020/04/13 07:00:00,1077.0,775.52,Madrid-San Blas - Canillejas,34.494,158166.0,Renta Alta
+738,Madrid-Barajas,2020/04/13 07:00:00,333.0,632.11,Madrid-Barajas,46.347,48972.0,Renta Alta
+739,Madrid-Moratalaz,2020/04/13 07:00:00,1035.0,1062.89,Madrid-Moratalaz,34.753,94609.0,Renta Alta
+740,Madrid-Ciudad Lineal,2020/04/13 07:00:00,1612.0,609.09,Madrid-Ciudad Lineal,36.833,216270.0,Renta Alta
+741,Madrid-Hortaleza,2020/04/13 07:00:00,1329.0,629.04,Madrid-Hortaleza,47.11,188267.0,Renta Alta
+742,Madrid-Villaverde,2020/04/13 07:00:00,1077.0,677.18,Madrid-Villaverde,26.599,148883.0,Renta Media-Alta
+743,Madrid-Villa de Vallecas,2020/04/13 07:00:00,995.0,933.14,Madrid-Villa de Vallecas,30.17,110436.0,Renta Media-Alta
+744,Madrid-Vicálvaro,2020/04/13 07:00:00,635.0,883.32,Madrid-Vicálvaro,31.465999999999998,72126.0,Renta Media-Alta
+745,Pozuelo de Alarcón,2020/04/13 07:00:00,444.0,502.83,Pozuelo de Alarcón,44.043,84360.0,Renta Alta
+746,Alcorcón,2020/04/13 07:00:00,1245.0,712.08,Alcorcón,20.995,170336.0,Renta Media-Baja
+747,Navalcarnero,2020/04/13 07:00:00,117.0,414.47,Navalcarnero,20.189,26364.0,Renta Media-Baja
+748,San Agustín del Guadalix,2020/04/13 07:00:00,42.0,288.4,San Agustín del Guadalix,30.633000000000003,12953.0,Renta Media-Alta
+752,Valdemorillo,2020/04/13 07:00:00,26.0,214.5,Valdemorillo,24.861,12058.0,Renta Media-Media
+753,Velilla de San Antonio,2020/04/13 07:00:00,52.0,416.23,Velilla de San Antonio,20.5,12334.0,Renta Media-Baja
+754,Villanueva de la Cañada,2020/04/13 07:00:00,68.0,278.87,Villanueva de la Cañada,32.688,18827.0,Renta Alta
+755,Villanueva del Pardillo,2020/04/13 07:00:00,59.0,349.34,Villanueva del Pardillo,27.166999999999998,16730.0,Renta Media-Alta
+756,Nuevo Baztán,2020/04/13 07:00:00,24.0,361.07,Nuevo Baztán,23.03,5959.0,Renta Media-Media
+761,Aranjuez,2020/04/13 07:00:00,359.0,565.97,Aranjuez,20.976,57792.0,Renta Media-Baja
+762,Cercedilla,2020/04/13 07:00:00,69.0,921.6,Cercedilla,20.721999999999998,6831.0,Renta Media-Baja
+764,Coslada,2020/04/13 07:00:00,622.0,703.6,Coslada,20.386,88847.0,Renta Media-Baja
+765,Morata de Tajuña,2020/04/13 07:00:00,81.0,1042.87,Morata de Tajuña,17.993,7452.0,Renta Baja
+768,Navas del Rey,2020/04/13 07:00:00,42.0,1426.63,Navas del Rey,17.605999999999998,2640.0,Renta Baja
+770,Fuenlabrada,2020/04/13 07:00:00,1200.0,588.19,Fuenlabrada,17.832,195864.0,Renta Baja
+771,Pinto,2020/04/13 07:00:00,174.0,327.36,Pinto,20.927,47594.0,Renta Media-Baja
+775,Galapagar,2020/04/13 07:00:00,129.0,388.91,Galapagar,25.579,32380.0,Renta Media-Media
+776,Griñón,2020/04/13 07:00:00,59.0,511.0,Griñón,22.293000000000003,9928.0,Renta Media-Media
+777,Aldea del Fresno,2020/04/13 07:00:00,30.0,994.69,Aldea del Fresno,17.879,2528.0,Renta Baja
+781,Ciempozuelos,2020/04/13 07:00:00,139.0,541.57,Ciempozuelos,18.608,23739.0,Renta Media-Baja
+783,San Lorenzo de El Escorial,2020/04/13 07:00:00,63.0,355.63,San Lorenzo de El Escorial,24.318,18241.0,Renta Media-Media
+784,San Martín de la Vega,2020/04/13 07:00:00,61.0,299.53,San Martín de la Vega,18.410999999999998,19092.0,Renta Media-Baja
+785,Móstoles,2020/04/13 07:00:00,1446.0,661.64,Móstoles,19.06,205712.0,Renta Media-Baja
+786,Leganés,2020/04/13 07:00:00,2417.0,1227.48,Leganés,19.548,186696.0,Renta Media-Baja
+788,Algete,2020/04/13 07:00:00,81.0,364.78,Algete,27.386,20102.0,Renta Media-Alta
+789,Mejorada del Campo,2020/04/13 07:00:00,149.0,608.01,Mejorada del Campo,18.533,22763.0,Renta Media-Baja
+790,Loeches,2020/04/13 07:00:00,47.0,678.11,Loeches,19.984,8159.0,Renta Media-Baja
+791,Parla,2020/04/13 07:00:00,587.0,429.39,Parla,17.772000000000002,125323.0,Renta Baja
+797,Soto del Real,2020/04/13 07:00:00,49.0,500.2,Soto del Real,26.491999999999997,8482.0,Renta Media-Media
+801,Campo Real,2020/04/13 07:00:00,21.0,348.61,Campo Real,19.386,5775.0,Renta Media-Baja
+803,Cobeña,2020/04/13 07:00:00,29.0,388.9,Cobeña,28.180999999999997,6921.0,Renta Media-Alta
+806,Guadarrama,2020/04/13 07:00:00,85.0,538.04,Guadarrama,22.3,15547.0,Renta Media-Media
+807,San Martín de Valdeiglesias,2020/04/13 07:00:00,51.0,597.96,San Martín de Valdeiglesias,17.371,8516.0,Renta Baja
+808,Torrelodones,2020/04/13 07:00:00,103.0,397.16,Torrelodones,33.721,22838.0,Renta Alta
+809,Boadilla del Monte,2020/04/13 07:00:00,200.0,378.52,Boadilla del Monte,36.065,47852.0,Renta Alta
+811,Tielmes,2020/04/13 07:00:00,28.0,1242.79,Tielmes,16.039,2617.0,Renta Baja
+812,San Sebastián de los Reyes,2020/04/13 07:00:00,357.0,389.14,San Sebastián de los Reyes,24.82,83329.0,Renta Media-Media
+813,Guadalix de la Sierra,2020/04/13 07:00:00,27.0,452.64,Guadalix de la Sierra,21.118000000000002,6057.0,Renta Media-Baja
+814,Humanes de Madrid,2020/04/13 07:00:00,85.0,412.46,Humanes de Madrid,17.593,19404.0,Renta Baja
+815,Chinchón,2020/04/13 07:00:00,23.0,445.65,Chinchón,16.925,5447.0,Renta Baja
+817,Torrejón de la Calzada,2020/04/13 07:00:00,21.0,243.59,Torrejón de la Calzada,20.897,7739.0,Renta Media-Baja
+819,Meco,2020/04/13 07:00:00,114.0,815.33,Meco,21.186,13133.0,Renta Media-Baja
+820,Arganda del Rey,2020/04/13 07:00:00,272.0,469.42,Arganda del Rey,19.113,55307.0,Renta Media-Baja
+822,Daganzo de Arriba,2020/04/13 07:00:00,36.0,332.29,Daganzo de Arriba,23.326,9841.0,Renta Media-Media
+826,Miraflores de la Sierra,2020/04/13 07:00:00,29.0,525.55,Miraflores de la Sierra,22.005,5890.0,Renta Media-Media
+827,Paracuellos de Jarama,2020/04/13 07:00:00,61.0,265.11,Paracuellos de Jarama,28.272,21718.0,Renta Media-Alta
+829,Collado Villalba,2020/04/13 07:00:00,260.0,375.32,Collado Villalba,21.276,62587.0,Renta Media-Media
+830,Colmenarejo,2020/04/13 07:00:00,23.0,284.34,Colmenarejo,23.395,8934.0,Renta Media-Media
+832,Sevilla la Nueva,2020/04/13 07:00:00,34.0,341.74,Sevilla la Nueva,21.335,8858.0,Renta Media-Media
+833,Colmenar de Oreja,2020/04/13 07:00:00,21.0,291.79,Colmenar de Oreja,16.418,8409.0,Renta Baja
+834,Brunete,2020/04/13 07:00:00,50.0,442.79,Brunete,23.574,10188.0,Renta Media-Media
+835,Villa del Prado,2020/04/13 07:00:00,53.0,803.4,Villa del Prado,16.761,6506.0,Renta Baja
+837,Valdemoro,2020/04/13 07:00:00,558.0,730.39,Valdemoro,21.309,72265.0,Renta Media-Media
+838,Tres Cantos,2020/04/13 07:00:00,254.0,528.62,Tres Cantos,30.728,42546.0,Renta Media-Alta
+842,Arroyomolinos,2020/04/13 07:00:00,126.0,482.96,Arroyomolinos,22.896,25374.0,Renta Media-Media
+843,Moralzarzal,2020/04/13 07:00:00,52.0,399.32,Moralzarzal,25.058000000000003,12321.0,Renta Media-Media
+844,Villarejo de Salvanés,2020/04/13 07:00:00,33.0,433.01,Villarejo de Salvanés,17.114,7301.0,Renta Baja
+845,Serranillos del Valle,2020/04/13 07:00:00,25.0,658.07,Serranillos del Valle,20.634,3957.0,Renta Media-Baja
+846,Villaviciosa de Odón,2020/04/13 07:00:00,148.0,533.53,Villaviciosa de Odón,29.414,26911.0,Renta Media-Alta
+847,Camarma de Esteruelas,2020/04/13 07:00:00,35.0,491.78,Camarma de Esteruelas,20.953000000000003,7048.0,Renta Media-Baja
+850,Majadahonda,2020/04/13 07:00:00,337.0,432.22,Majadahonda,35.254,70359.0,Renta Alta
+852,Alcobendas,2020/04/13 07:00:00,494.0,407.54,Alcobendas,34.037,112188.0,Renta Alta
+853,Alcalá de Henares,2020/04/13 07:00:00,2026.0,969.16,Alcalá de Henares,21.379,200768.0,Renta Media-Media
+854,Colmenar Viejo,2020/04/13 07:00:00,251.0,497.99,Colmenar Viejo,23.982,47445.0,Renta Media-Media
+855,San Fernando de Henares,2020/04/13 07:00:00,301.0,716.21,San Fernando de Henares,19.78,40781.0,Renta Media-Baja
+856,Villalbilla,2020/04/13 07:00:00,81.0,724.83,Villalbilla,24.35,11916.0,Renta Media-Media
+858,Torrejón de Ardoz,2020/04/13 07:00:00,808.0,584.28,Torrejón de Ardoz,19.585,126878.0,Renta Media-Baja
+860,Torres de la Alameda,2020/04/13 07:00:00,57.0,691.75,Torres de la Alameda,19.135,7939.0,Renta Media-Baja
+861,Alpedrete,2020/04/13 07:00:00,72.0,498.86,Alpedrete,24.855999999999998,14005.0,Renta Media-Media
+863,Getafe,2020/04/13 07:00:00,873.0,456.12,Getafe,21.031999999999996,173057.0,Renta Media-Baja
+866,Madrid-Retiro,2020/04/12 07:00:00,1090.0,980.45,Madrid-Retiro,51.79,119379.0,Renta Alta
+867,Madrid-Salamanca,2020/04/12 07:00:00,1137.0,722.63,Madrid-Salamanca,53.972,146148.0,Renta Alta
+868,Madrid-Centro,2020/04/12 07:00:00,784.0,551.22,Madrid-Centro,31.378,134881.0,Renta Media-Alta
+869,Madrid-Arganzuela,2020/04/12 07:00:00,1138.0,637.89,Madrid-Arganzuela,40.201,153830.0,Renta Alta
+870,Madrid-Chamartín,2020/04/12 07:00:00,1118.0,761.14,Madrid-Chamartín,60.948,145865.0,Renta Alta
+871,Madrid-Tetuán,2020/04/12 07:00:00,1553.0,949.97,Madrid-Tetuán,34.7,157937.0,Renta Alta
+872,Madrid-Chamberí,2020/04/12 07:00:00,1005.0,676.85,Madrid-Chamberí,48.989,139448.0,Renta Alta
+875,Madrid-Latina,2020/04/12 07:00:00,1880.0,753.29,Madrid-Latina,30.156,238154.0,Renta Media-Alta
+876,Madrid-Carabanchel,2020/04/12 07:00:00,1809.0,734.12,Madrid-Carabanchel,27.936,253040.0,Renta Media-Alta
+877,Madrid-Usera,2020/04/12 07:00:00,1064.0,716.73,Madrid-Usera,25.569000000000003,139501.0,Renta Media-Media
+878,Madrid-Puente de Vallecas,2020/04/12 07:00:00,2334.0,912.66,Madrid-Puente de Vallecas,24.688000000000002,234770.0,Renta Media-Media
+879,Madrid-San Blas - Canillejas,2020/04/12 07:00:00,1067.0,768.32,Madrid-San Blas - Canillejas,34.494,158166.0,Renta Alta
+880,Madrid-Barajas,2020/04/12 07:00:00,332.0,630.21,Madrid-Barajas,46.347,48972.0,Renta Alta
+881,Madrid-Moratalaz,2020/04/12 07:00:00,1020.0,1047.49,Madrid-Moratalaz,34.753,94609.0,Renta Alta
+882,Madrid-Ciudad Lineal,2020/04/12 07:00:00,1596.0,603.05,Madrid-Ciudad Lineal,36.833,216270.0,Renta Alta
+883,Madrid-Hortaleza,2020/04/12 07:00:00,1310.0,620.04,Madrid-Hortaleza,47.11,188267.0,Renta Alta
+884,Madrid-Villaverde,2020/04/12 07:00:00,1069.0,672.15,Madrid-Villaverde,26.599,148883.0,Renta Media-Alta
+885,Madrid-Villa de Vallecas,2020/04/12 07:00:00,989.0,927.52,Madrid-Villa de Vallecas,30.17,110436.0,Renta Media-Alta
+886,Madrid-Vicálvaro,2020/04/12 07:00:00,626.0,870.8,Madrid-Vicálvaro,31.465999999999998,72126.0,Renta Media-Alta
+887,Pozuelo de Alarcón,2020/04/12 07:00:00,442.0,500.57,Pozuelo de Alarcón,44.043,84360.0,Renta Alta
+888,Alcorcón,2020/04/12 07:00:00,1232.0,704.64,Alcorcón,20.995,170336.0,Renta Media-Baja
+889,Navalcarnero,2020/04/12 07:00:00,117.0,414.47,Navalcarnero,20.189,26364.0,Renta Media-Baja
+890,San Agustín del Guadalix,2020/04/12 07:00:00,39.0,267.8,San Agustín del Guadalix,30.633000000000003,12953.0,Renta Media-Alta
+894,Valdemorillo,2020/04/12 07:00:00,26.0,214.5,Valdemorillo,24.861,12058.0,Renta Media-Media
+895,Velilla de San Antonio,2020/04/12 07:00:00,52.0,416.23,Velilla de San Antonio,20.5,12334.0,Renta Media-Baja
+896,Villanueva de la Cañada,2020/04/12 07:00:00,68.0,278.87,Villanueva de la Cañada,32.688,18827.0,Renta Alta
+897,Villanueva del Pardillo,2020/04/12 07:00:00,59.0,349.34,Villanueva del Pardillo,27.166999999999998,16730.0,Renta Media-Alta
+898,Nuevo Baztán,2020/04/12 07:00:00,24.0,361.07,Nuevo Baztán,23.03,5959.0,Renta Media-Media
+903,Aranjuez,2020/04/12 07:00:00,354.0,558.09,Aranjuez,20.976,57792.0,Renta Media-Baja
+904,Cercedilla,2020/04/12 07:00:00,69.0,921.6,Cercedilla,20.721999999999998,6831.0,Renta Media-Baja
+906,Coslada,2020/04/12 07:00:00,620.0,701.33,Coslada,20.386,88847.0,Renta Media-Baja
+907,Morata de Tajuña,2020/04/12 07:00:00,81.0,1042.87,Morata de Tajuña,17.993,7452.0,Renta Baja
+910,Navas del Rey,2020/04/12 07:00:00,42.0,1426.63,Navas del Rey,17.605999999999998,2640.0,Renta Baja
+912,Fuenlabrada,2020/04/12 07:00:00,1186.0,581.33,Fuenlabrada,17.832,195864.0,Renta Baja
+913,Pinto,2020/04/12 07:00:00,174.0,327.36,Pinto,20.927,47594.0,Renta Media-Baja
+917,Galapagar,2020/04/12 07:00:00,129.0,388.91,Galapagar,25.579,32380.0,Renta Media-Media
+918,Griñón,2020/04/12 07:00:00,59.0,511.0,Griñón,22.293000000000003,9928.0,Renta Media-Media
+919,Aldea del Fresno,2020/04/12 07:00:00,28.0,928.38,Aldea del Fresno,17.879,2528.0,Renta Baja
+923,Ciempozuelos,2020/04/12 07:00:00,139.0,541.57,Ciempozuelos,18.608,23739.0,Renta Media-Baja
+925,San Lorenzo de El Escorial,2020/04/12 07:00:00,63.0,355.63,San Lorenzo de El Escorial,24.318,18241.0,Renta Media-Media
+926,San Martín de la Vega,2020/04/12 07:00:00,61.0,299.53,San Martín de la Vega,18.410999999999998,19092.0,Renta Media-Baja
+927,Móstoles,2020/04/12 07:00:00,1428.0,653.41,Móstoles,19.06,205712.0,Renta Media-Baja
+928,Leganés,2020/04/12 07:00:00,2394.0,1215.8,Leganés,19.548,186696.0,Renta Media-Baja
+930,Algete,2020/04/12 07:00:00,80.0,360.28,Algete,27.386,20102.0,Renta Media-Alta
+931,Mejorada del Campo,2020/04/12 07:00:00,147.0,599.85,Mejorada del Campo,18.533,22763.0,Renta Media-Baja
+932,Loeches,2020/04/12 07:00:00,47.0,678.11,Loeches,19.984,8159.0,Renta Media-Baja
+933,Parla,2020/04/12 07:00:00,585.0,427.93,Parla,17.772000000000002,125323.0,Renta Baja
+939,Soto del Real,2020/04/12 07:00:00,49.0,500.2,Soto del Real,26.491999999999997,8482.0,Renta Media-Media
+943,Campo Real,2020/04/12 07:00:00,21.0,348.61,Campo Real,19.386,5775.0,Renta Media-Baja
+945,Cobeña,2020/04/12 07:00:00,29.0,388.9,Cobeña,28.180999999999997,6921.0,Renta Media-Alta
+948,Guadarrama,2020/04/12 07:00:00,84.0,531.71,Guadarrama,22.3,15547.0,Renta Media-Media
+949,San Martín de Valdeiglesias,2020/04/12 07:00:00,50.0,586.24,San Martín de Valdeiglesias,17.371,8516.0,Renta Baja
+950,Torrelodones,2020/04/12 07:00:00,101.0,389.45,Torrelodones,33.721,22838.0,Renta Alta
+951,Boadilla del Monte,2020/04/12 07:00:00,199.0,376.63,Boadilla del Monte,36.065,47852.0,Renta Alta
+953,Tielmes,2020/04/12 07:00:00,28.0,1242.79,Tielmes,16.039,2617.0,Renta Baja
+954,San Sebastián de los Reyes,2020/04/12 07:00:00,343.0,373.88,San Sebastián de los Reyes,24.82,83329.0,Renta Media-Media
+955,Guadalix de la Sierra,2020/04/12 07:00:00,26.0,435.88,Guadalix de la Sierra,21.118000000000002,6057.0,Renta Media-Baja
+956,Humanes de Madrid,2020/04/12 07:00:00,81.0,393.05,Humanes de Madrid,17.593,19404.0,Renta Baja
+957,Chinchón,2020/04/12 07:00:00,23.0,445.65,Chinchón,16.925,5447.0,Renta Baja
+959,Torrejón de la Calzada,2020/04/12 07:00:00,21.0,243.59,Torrejón de la Calzada,20.897,7739.0,Renta Media-Baja
+961,Meco,2020/04/12 07:00:00,114.0,815.33,Meco,21.186,13133.0,Renta Media-Baja
+962,Arganda del Rey,2020/04/12 07:00:00,269.0,464.24,Arganda del Rey,19.113,55307.0,Renta Media-Baja
+964,Daganzo de Arriba,2020/04/12 07:00:00,36.0,332.29,Daganzo de Arriba,23.326,9841.0,Renta Media-Media
+968,Miraflores de la Sierra,2020/04/12 07:00:00,28.0,507.43,Miraflores de la Sierra,22.005,5890.0,Renta Media-Media
+969,Paracuellos de Jarama,2020/04/12 07:00:00,60.0,260.77,Paracuellos de Jarama,28.272,21718.0,Renta Media-Alta
+971,Collado Villalba,2020/04/12 07:00:00,260.0,375.32,Collado Villalba,21.276,62587.0,Renta Media-Media
+972,Colmenarejo,2020/04/12 07:00:00,23.0,284.34,Colmenarejo,23.395,8934.0,Renta Media-Media
+974,Sevilla la Nueva,2020/04/12 07:00:00,34.0,341.74,Sevilla la Nueva,21.335,8858.0,Renta Media-Media
+976,Brunete,2020/04/12 07:00:00,49.0,433.94,Brunete,23.574,10188.0,Renta Media-Media
+977,Villa del Prado,2020/04/12 07:00:00,52.0,788.24,Villa del Prado,16.761,6506.0,Renta Baja
+979,Valdemoro,2020/04/12 07:00:00,553.0,723.84,Valdemoro,21.309,72265.0,Renta Media-Media
+980,Tres Cantos,2020/04/12 07:00:00,248.0,516.13,Tres Cantos,30.728,42546.0,Renta Media-Alta
+984,Arroyomolinos,2020/04/12 07:00:00,126.0,482.96,Arroyomolinos,22.896,25374.0,Renta Media-Media
+985,Moralzarzal,2020/04/12 07:00:00,52.0,399.32,Moralzarzal,25.058000000000003,12321.0,Renta Media-Media
+986,Villarejo de Salvanés,2020/04/12 07:00:00,32.0,419.89,Villarejo de Salvanés,17.114,7301.0,Renta Baja
+987,Serranillos del Valle,2020/04/12 07:00:00,23.0,605.42,Serranillos del Valle,20.634,3957.0,Renta Media-Baja
+988,Villaviciosa de Odón,2020/04/12 07:00:00,147.0,529.92,Villaviciosa de Odón,29.414,26911.0,Renta Media-Alta
+989,Camarma de Esteruelas,2020/04/12 07:00:00,35.0,491.78,Camarma de Esteruelas,20.953000000000003,7048.0,Renta Media-Baja
+992,Majadahonda,2020/04/12 07:00:00,336.0,430.94,Majadahonda,35.254,70359.0,Renta Alta
+994,Alcobendas,2020/04/12 07:00:00,481.0,396.82,Alcobendas,34.037,112188.0,Renta Alta
+995,Alcalá de Henares,2020/04/12 07:00:00,2020.0,966.29,Alcalá de Henares,21.379,200768.0,Renta Media-Media
+996,Colmenar Viejo,2020/04/12 07:00:00,242.0,480.13,Colmenar Viejo,23.982,47445.0,Renta Media-Media
+997,San Fernando de Henares,2020/04/12 07:00:00,298.0,709.07,San Fernando de Henares,19.78,40781.0,Renta Media-Baja
+998,Villalbilla,2020/04/12 07:00:00,81.0,724.83,Villalbilla,24.35,11916.0,Renta Media-Media
+1000,Torrejón de Ardoz,2020/04/12 07:00:00,807.0,583.56,Torrejón de Ardoz,19.585,126878.0,Renta Media-Baja
+1002,Torres de la Alameda,2020/04/12 07:00:00,57.0,691.75,Torres de la Alameda,19.135,7939.0,Renta Media-Baja
+1003,Alpedrete,2020/04/12 07:00:00,72.0,498.86,Alpedrete,24.855999999999998,14005.0,Renta Media-Media
+1005,Getafe,2020/04/12 07:00:00,860.0,449.33,Getafe,21.031999999999996,173057.0,Renta Media-Baja
+1008,Madrid-Retiro,2020/04/11 07:00:00,1079.0,970.55,Madrid-Retiro,51.79,119379.0,Renta Alta
+1009,Madrid-Salamanca,2020/04/11 07:00:00,1130.0,718.19,Madrid-Salamanca,53.972,146148.0,Renta Alta
+1010,Madrid-Centro,2020/04/11 07:00:00,779.0,547.71,Madrid-Centro,31.378,134881.0,Renta Media-Alta
+1011,Madrid-Arganzuela,2020/04/11 07:00:00,1132.0,634.52,Madrid-Arganzuela,40.201,153830.0,Renta Alta
+1012,Madrid-Chamartín,2020/04/11 07:00:00,1111.0,756.37,Madrid-Chamartín,60.948,145865.0,Renta Alta
+1013,Madrid-Tetuán,2020/04/11 07:00:00,1542.0,943.25,Madrid-Tetuán,34.7,157937.0,Renta Alta
+1014,Madrid-Chamberí,2020/04/11 07:00:00,996.0,670.79,Madrid-Chamberí,48.989,139448.0,Renta Alta
+1017,Madrid-Latina,2020/04/11 07:00:00,1855.0,743.28,Madrid-Latina,30.156,238154.0,Renta Media-Alta
+1018,Madrid-Carabanchel,2020/04/11 07:00:00,1794.0,728.03,Madrid-Carabanchel,27.936,253040.0,Renta Media-Alta
+1019,Madrid-Usera,2020/04/11 07:00:00,1059.0,713.36,Madrid-Usera,25.569000000000003,139501.0,Renta Media-Media
+1020,Madrid-Puente de Vallecas,2020/04/11 07:00:00,2320.0,907.19,Madrid-Puente de Vallecas,24.688000000000002,234770.0,Renta Media-Media
+1021,Madrid-San Blas - Canillejas,2020/04/11 07:00:00,1039.0,748.15,Madrid-San Blas - Canillejas,34.494,158166.0,Renta Alta
+1022,Madrid-Barajas,2020/04/11 07:00:00,325.0,616.92,Madrid-Barajas,46.347,48972.0,Renta Alta
+1023,Madrid-Moratalaz,2020/04/11 07:00:00,1009.0,1036.19,Madrid-Moratalaz,34.753,94609.0,Renta Alta
+1024,Madrid-Ciudad Lineal,2020/04/11 07:00:00,1571.0,593.6,Madrid-Ciudad Lineal,36.833,216270.0,Renta Alta
+1025,Madrid-Hortaleza,2020/04/11 07:00:00,1287.0,609.16,Madrid-Hortaleza,47.11,188267.0,Renta Alta
+1026,Madrid-Villaverde,2020/04/11 07:00:00,1059.0,665.86,Madrid-Villaverde,26.599,148883.0,Renta Media-Alta
+1027,Madrid-Villa de Vallecas,2020/04/11 07:00:00,984.0,922.83,Madrid-Villa de Vallecas,30.17,110436.0,Renta Media-Alta
+1028,Madrid-Vicálvaro,2020/04/11 07:00:00,625.0,869.41,Madrid-Vicálvaro,31.465999999999998,72126.0,Renta Media-Alta
+1029,Pozuelo de Alarcón,2020/04/11 07:00:00,436.0,493.77,Pozuelo de Alarcón,44.043,84360.0,Renta Alta
+1030,Alcorcón,2020/04/11 07:00:00,1219.0,697.2,Alcorcón,20.995,170336.0,Renta Media-Baja
+1031,Navalcarnero,2020/04/11 07:00:00,114.0,403.84,Navalcarnero,20.189,26364.0,Renta Media-Baja
+1032,San Agustín del Guadalix,2020/04/11 07:00:00,34.0,233.47,San Agustín del Guadalix,30.633000000000003,12953.0,Renta Media-Alta
+1036,Valdemorillo,2020/04/11 07:00:00,26.0,214.5,Valdemorillo,24.861,12058.0,Renta Media-Media
+1037,Velilla de San Antonio,2020/04/11 07:00:00,52.0,416.23,Velilla de San Antonio,20.5,12334.0,Renta Media-Baja
+1038,Villanueva de la Cañada,2020/04/11 07:00:00,68.0,278.87,Villanueva de la Cañada,32.688,18827.0,Renta Alta
+1039,Villanueva del Pardillo,2020/04/11 07:00:00,59.0,349.34,Villanueva del Pardillo,27.166999999999998,16730.0,Renta Media-Alta
+1040,Nuevo Baztán,2020/04/11 07:00:00,24.0,361.07,Nuevo Baztán,23.03,5959.0,Renta Media-Media
+1045,Aranjuez,2020/04/11 07:00:00,350.0,551.78,Aranjuez,20.976,57792.0,Renta Media-Baja
+1046,Cercedilla,2020/04/11 07:00:00,68.0,908.24,Cercedilla,20.721999999999998,6831.0,Renta Media-Baja
+1048,Coslada,2020/04/11 07:00:00,614.0,694.55,Coslada,20.386,88847.0,Renta Media-Baja
+1049,Morata de Tajuña,2020/04/11 07:00:00,80.0,1030.0,Morata de Tajuña,17.993,7452.0,Renta Baja
+1052,Navas del Rey,2020/04/11 07:00:00,42.0,1426.63,Navas del Rey,17.605999999999998,2640.0,Renta Baja
+1054,Fuenlabrada,2020/04/11 07:00:00,1176.0,576.43,Fuenlabrada,17.832,195864.0,Renta Baja
+1055,Pinto,2020/04/11 07:00:00,173.0,325.48,Pinto,20.927,47594.0,Renta Media-Baja
+1059,Galapagar,2020/04/11 07:00:00,128.0,385.89,Galapagar,25.579,32380.0,Renta Media-Media
+1060,Griñón,2020/04/11 07:00:00,58.0,502.34,Griñón,22.293000000000003,9928.0,Renta Media-Media
+1061,Aldea del Fresno,2020/04/11 07:00:00,28.0,928.38,Aldea del Fresno,17.879,2528.0,Renta Baja
+1065,Ciempozuelos,2020/04/11 07:00:00,139.0,541.57,Ciempozuelos,18.608,23739.0,Renta Media-Baja
+1067,San Lorenzo de El Escorial,2020/04/11 07:00:00,62.0,349.99,San Lorenzo de El Escorial,24.318,18241.0,Renta Media-Media
+1068,San Martín de la Vega,2020/04/11 07:00:00,59.0,289.71,San Martín de la Vega,18.410999999999998,19092.0,Renta Media-Baja
+1069,Móstoles,2020/04/11 07:00:00,1412.0,646.09,Móstoles,19.06,205712.0,Renta Media-Baja
+1070,Leganés,2020/04/11 07:00:00,2388.0,1212.75,Leganés,19.548,186696.0,Renta Media-Baja
+1072,Algete,2020/04/11 07:00:00,78.0,351.27,Algete,27.386,20102.0,Renta Media-Alta
+1073,Mejorada del Campo,2020/04/11 07:00:00,146.0,595.77,Mejorada del Campo,18.533,22763.0,Renta Media-Baja
+1074,Loeches,2020/04/11 07:00:00,46.0,663.68,Loeches,19.984,8159.0,Renta Media-Baja
+1075,Parla,2020/04/11 07:00:00,581.0,425.0,Parla,17.772000000000002,125323.0,Renta Baja
+1081,Soto del Real,2020/04/11 07:00:00,49.0,500.2,Soto del Real,26.491999999999997,8482.0,Renta Media-Media
+1087,Cobeña,2020/04/11 07:00:00,29.0,388.9,Cobeña,28.180999999999997,6921.0,Renta Media-Alta
+1090,Guadarrama,2020/04/11 07:00:00,83.0,525.38,Guadarrama,22.3,15547.0,Renta Media-Media
+1091,San Martín de Valdeiglesias,2020/04/11 07:00:00,48.0,562.79,San Martín de Valdeiglesias,17.371,8516.0,Renta Baja
+1092,Torrelodones,2020/04/11 07:00:00,101.0,389.45,Torrelodones,33.721,22838.0,Renta Alta
+1093,Boadilla del Monte,2020/04/11 07:00:00,193.0,365.27,Boadilla del Monte,36.065,47852.0,Renta Alta
+1095,Tielmes,2020/04/11 07:00:00,28.0,1242.79,Tielmes,16.039,2617.0,Renta Baja
+1096,San Sebastián de los Reyes,2020/04/11 07:00:00,329.0,358.62,San Sebastián de los Reyes,24.82,83329.0,Renta Media-Media
+1097,Guadalix de la Sierra,2020/04/11 07:00:00,26.0,435.88,Guadalix de la Sierra,21.118000000000002,6057.0,Renta Media-Baja
+1098,Humanes de Madrid,2020/04/11 07:00:00,80.0,388.2,Humanes de Madrid,17.593,19404.0,Renta Baja
+1099,Chinchón,2020/04/11 07:00:00,23.0,445.65,Chinchón,16.925,5447.0,Renta Baja
+1103,Meco,2020/04/11 07:00:00,114.0,815.33,Meco,21.186,13133.0,Renta Media-Baja
+1104,Arganda del Rey,2020/04/11 07:00:00,266.0,459.06,Arganda del Rey,19.113,55307.0,Renta Media-Baja
+1106,Daganzo de Arriba,2020/04/11 07:00:00,36.0,332.29,Daganzo de Arriba,23.326,9841.0,Renta Media-Media
+1110,Miraflores de la Sierra,2020/04/11 07:00:00,28.0,507.43,Miraflores de la Sierra,22.005,5890.0,Renta Media-Media
+1111,Paracuellos de Jarama,2020/04/11 07:00:00,60.0,260.77,Paracuellos de Jarama,28.272,21718.0,Renta Media-Alta
+1113,Collado Villalba,2020/04/11 07:00:00,254.0,366.65,Collado Villalba,21.276,62587.0,Renta Media-Media
+1114,Colmenarejo,2020/04/11 07:00:00,22.0,271.97,Colmenarejo,23.395,8934.0,Renta Media-Media
+1116,Sevilla la Nueva,2020/04/11 07:00:00,28.0,281.44,Sevilla la Nueva,21.335,8858.0,Renta Media-Media
+1118,Brunete,2020/04/11 07:00:00,48.0,425.08,Brunete,23.574,10188.0,Renta Media-Media
+1119,Villa del Prado,2020/04/11 07:00:00,47.0,712.45,Villa del Prado,16.761,6506.0,Renta Baja
+1121,Valdemoro,2020/04/11 07:00:00,552.0,722.53,Valdemoro,21.309,72265.0,Renta Media-Media
+1122,Tres Cantos,2020/04/11 07:00:00,244.0,507.8,Tres Cantos,30.728,42546.0,Renta Media-Alta
+1126,Arroyomolinos,2020/04/11 07:00:00,122.0,467.63,Arroyomolinos,22.896,25374.0,Renta Media-Media
+1127,Moralzarzal,2020/04/11 07:00:00,51.0,391.64,Moralzarzal,25.058000000000003,12321.0,Renta Media-Media
+1128,Villarejo de Salvanés,2020/04/11 07:00:00,32.0,419.89,Villarejo de Salvanés,17.114,7301.0,Renta Baja
+1129,Serranillos del Valle,2020/04/11 07:00:00,22.0,579.1,Serranillos del Valle,20.634,3957.0,Renta Media-Baja
+1130,Villaviciosa de Odón,2020/04/11 07:00:00,144.0,519.11,Villaviciosa de Odón,29.414,26911.0,Renta Media-Alta
+1131,Camarma de Esteruelas,2020/04/11 07:00:00,35.0,491.78,Camarma de Esteruelas,20.953000000000003,7048.0,Renta Media-Baja
+1134,Majadahonda,2020/04/11 07:00:00,334.0,428.38,Majadahonda,35.254,70359.0,Renta Alta
+1136,Alcobendas,2020/04/11 07:00:00,465.0,383.62,Alcobendas,34.037,112188.0,Renta Alta
+1137,Alcalá de Henares,2020/04/11 07:00:00,2012.0,962.47,Alcalá de Henares,21.379,200768.0,Renta Media-Media
+1138,Colmenar Viejo,2020/04/11 07:00:00,240.0,476.16,Colmenar Viejo,23.982,47445.0,Renta Media-Media
+1139,San Fernando de Henares,2020/04/11 07:00:00,297.0,706.69,San Fernando de Henares,19.78,40781.0,Renta Media-Baja
+1140,Villalbilla,2020/04/11 07:00:00,81.0,724.83,Villalbilla,24.35,11916.0,Renta Media-Media
+1142,Torrejón de Ardoz,2020/04/11 07:00:00,804.0,581.39,Torrejón de Ardoz,19.585,126878.0,Renta Media-Baja
+1144,Torres de la Alameda,2020/04/11 07:00:00,57.0,691.75,Torres de la Alameda,19.135,7939.0,Renta Media-Baja
+1145,Alpedrete,2020/04/11 07:00:00,72.0,498.86,Alpedrete,24.855999999999998,14005.0,Renta Media-Media
+1147,Getafe,2020/04/11 07:00:00,849.0,443.58,Getafe,21.031999999999996,173057.0,Renta Media-Baja
+1150,Madrid-Retiro,2020/04/10 07:00:00,1053.0,947.16,Madrid-Retiro,51.79,119379.0,Renta Alta
+1151,Madrid-Salamanca,2020/04/10 07:00:00,1110.0,705.47,Madrid-Salamanca,53.972,146148.0,Renta Alta
+1152,Madrid-Centro,2020/04/10 07:00:00,757.0,532.24,Madrid-Centro,31.378,134881.0,Renta Media-Alta
+1153,Madrid-Arganzuela,2020/04/10 07:00:00,1118.0,626.67,Madrid-Arganzuela,40.201,153830.0,Renta Alta
+1154,Madrid-Chamartín,2020/04/10 07:00:00,1091.0,742.76,Madrid-Chamartín,60.948,145865.0,Renta Alta
+1155,Madrid-Tetuán,2020/04/10 07:00:00,1504.0,920.0,Madrid-Tetuán,34.7,157937.0,Renta Alta
+1156,Madrid-Chamberí,2020/04/10 07:00:00,955.0,643.18,Madrid-Chamberí,48.989,139448.0,Renta Alta
+1159,Madrid-Latina,2020/04/10 07:00:00,1778.0,712.42,Madrid-Latina,30.156,238154.0,Renta Media-Alta
+1160,Madrid-Carabanchel,2020/04/10 07:00:00,1726.0,700.44,Madrid-Carabanchel,27.936,253040.0,Renta Media-Alta
+1161,Madrid-Usera,2020/04/10 07:00:00,1016.0,684.4,Madrid-Usera,25.569000000000003,139501.0,Renta Media-Media
+1162,Madrid-Puente de Vallecas,2020/04/10 07:00:00,2271.0,888.03,Madrid-Puente de Vallecas,24.688000000000002,234770.0,Renta Media-Media
+1163,Madrid-San Blas - Canillejas,2020/04/10 07:00:00,1019.0,733.75,Madrid-San Blas - Canillejas,34.494,158166.0,Renta Alta
+1164,Madrid-Barajas,2020/04/10 07:00:00,319.0,605.53,Madrid-Barajas,46.347,48972.0,Renta Alta
+1165,Madrid-Moratalaz,2020/04/10 07:00:00,980.0,1006.41,Madrid-Moratalaz,34.753,94609.0,Renta Alta
+1166,Madrid-Ciudad Lineal,2020/04/10 07:00:00,1536.0,580.38,Madrid-Ciudad Lineal,36.833,216270.0,Renta Alta
+1167,Madrid-Hortaleza,2020/04/10 07:00:00,1259.0,595.91,Madrid-Hortaleza,47.11,188267.0,Renta Alta
+1168,Madrid-Villaverde,2020/04/10 07:00:00,1023.0,643.22,Madrid-Villaverde,26.599,148883.0,Renta Media-Alta
+1169,Madrid-Villa de Vallecas,2020/04/10 07:00:00,973.0,912.51,Madrid-Villa de Vallecas,30.17,110436.0,Renta Media-Alta
+1170,Madrid-Vicálvaro,2020/04/10 07:00:00,612.0,851.32,Madrid-Vicálvaro,31.465999999999998,72126.0,Renta Media-Alta
+1171,Pozuelo de Alarcón,2020/04/10 07:00:00,434.0,491.51,Pozuelo de Alarcón,44.043,84360.0,Renta Alta
+1172,Alcorcón,2020/04/10 07:00:00,1184.0,677.19,Alcorcón,20.995,170336.0,Renta Media-Baja
+1173,Navalcarnero,2020/04/10 07:00:00,112.0,396.76,Navalcarnero,20.189,26364.0,Renta Media-Baja
+1174,San Agustín del Guadalix,2020/04/10 07:00:00,32.0,219.73,San Agustín del Guadalix,30.633000000000003,12953.0,Renta Media-Alta
+1178,Valdemorillo,2020/04/10 07:00:00,25.0,206.25,Valdemorillo,24.861,12058.0,Renta Media-Media
+1179,Velilla de San Antonio,2020/04/10 07:00:00,51.0,408.23,Velilla de San Antonio,20.5,12334.0,Renta Media-Baja
+1180,Villanueva de la Cañada,2020/04/10 07:00:00,66.0,270.67,Villanueva de la Cañada,32.688,18827.0,Renta Alta
+1181,Villanueva del Pardillo,2020/04/10 07:00:00,58.0,343.42,Villanueva del Pardillo,27.166999999999998,16730.0,Renta Media-Alta
+1182,Nuevo Baztán,2020/04/10 07:00:00,23.0,346.02,Nuevo Baztán,23.03,5959.0,Renta Media-Media
+1187,Aranjuez,2020/04/10 07:00:00,343.0,540.75,Aranjuez,20.976,57792.0,Renta Media-Baja
+1188,Cercedilla,2020/04/10 07:00:00,68.0,908.24,Cercedilla,20.721999999999998,6831.0,Renta Media-Baja
+1190,Coslada,2020/04/10 07:00:00,608.0,687.76,Coslada,20.386,88847.0,Renta Media-Baja
+1191,Morata de Tajuña,2020/04/10 07:00:00,77.0,991.37,Morata de Tajuña,17.993,7452.0,Renta Baja
+1194,Navas del Rey,2020/04/10 07:00:00,42.0,1426.63,Navas del Rey,17.605999999999998,2640.0,Renta Baja
+1196,Fuenlabrada,2020/04/10 07:00:00,1147.0,562.21,Fuenlabrada,17.832,195864.0,Renta Baja
+1197,Pinto,2020/04/10 07:00:00,169.0,317.96,Pinto,20.927,47594.0,Renta Media-Baja
+1201,Galapagar,2020/04/10 07:00:00,125.0,376.85,Galapagar,25.579,32380.0,Renta Media-Media
+1202,Griñón,2020/04/10 07:00:00,57.0,493.68,Griñón,22.293000000000003,9928.0,Renta Media-Media
+1203,Aldea del Fresno,2020/04/10 07:00:00,28.0,928.38,Aldea del Fresno,17.879,2528.0,Renta Baja
+1207,Ciempozuelos,2020/04/10 07:00:00,139.0,541.57,Ciempozuelos,18.608,23739.0,Renta Media-Baja
+1209,San Lorenzo de El Escorial,2020/04/10 07:00:00,60.0,338.7,San Lorenzo de El Escorial,24.318,18241.0,Renta Media-Media
+1210,San Martín de la Vega,2020/04/10 07:00:00,56.0,274.98,San Martín de la Vega,18.410999999999998,19092.0,Renta Media-Baja
+1211,Móstoles,2020/04/10 07:00:00,1374.0,628.7,Móstoles,19.06,205712.0,Renta Media-Baja
+1212,Leganés,2020/04/10 07:00:00,2266.0,1150.79,Leganés,19.548,186696.0,Renta Media-Baja
+1214,Algete,2020/04/10 07:00:00,74.0,333.26,Algete,27.386,20102.0,Renta Media-Alta
+1215,Mejorada del Campo,2020/04/10 07:00:00,142.0,579.45,Mejorada del Campo,18.533,22763.0,Renta Media-Baja
+1216,Loeches,2020/04/10 07:00:00,45.0,649.26,Loeches,19.984,8159.0,Renta Media-Baja
+1217,Parla,2020/04/10 07:00:00,569.0,416.22,Parla,17.772000000000002,125323.0,Renta Baja
+1223,Soto del Real,2020/04/10 07:00:00,49.0,500.2,Soto del Real,26.491999999999997,8482.0,Renta Media-Media
+1229,Cobeña,2020/04/10 07:00:00,28.0,375.49,Cobeña,28.180999999999997,6921.0,Renta Media-Alta
+1232,Guadarrama,2020/04/10 07:00:00,82.0,519.05,Guadarrama,22.3,15547.0,Renta Media-Media
+1233,San Martín de Valdeiglesias,2020/04/10 07:00:00,47.0,551.06,San Martín de Valdeiglesias,17.371,8516.0,Renta Baja
+1234,Torrelodones,2020/04/10 07:00:00,101.0,389.45,Torrelodones,33.721,22838.0,Renta Alta
+1235,Boadilla del Monte,2020/04/10 07:00:00,186.0,352.03,Boadilla del Monte,36.065,47852.0,Renta Alta
+1237,Tielmes,2020/04/10 07:00:00,28.0,1242.79,Tielmes,16.039,2617.0,Renta Baja
+1238,San Sebastián de los Reyes,2020/04/10 07:00:00,309.0,336.82,San Sebastián de los Reyes,24.82,83329.0,Renta Media-Media
+1239,Guadalix de la Sierra,2020/04/10 07:00:00,25.0,419.11,Guadalix de la Sierra,21.118000000000002,6057.0,Renta Media-Baja
+1240,Humanes de Madrid,2020/04/10 07:00:00,77.0,373.64,Humanes de Madrid,17.593,19404.0,Renta Baja
+1241,Chinchón,2020/04/10 07:00:00,22.0,426.27,Chinchón,16.925,5447.0,Renta Baja
+1245,Meco,2020/04/10 07:00:00,112.0,801.03,Meco,21.186,13133.0,Renta Media-Baja
+1246,Arganda del Rey,2020/04/10 07:00:00,262.0,452.16,Arganda del Rey,19.113,55307.0,Renta Media-Baja
+1248,Daganzo de Arriba,2020/04/10 07:00:00,36.0,332.29,Daganzo de Arriba,23.326,9841.0,Renta Media-Media
+1252,Miraflores de la Sierra,2020/04/10 07:00:00,27.0,489.31,Miraflores de la Sierra,22.005,5890.0,Renta Media-Media
+1253,Paracuellos de Jarama,2020/04/10 07:00:00,59.0,256.42,Paracuellos de Jarama,28.272,21718.0,Renta Media-Alta
+1255,Collado Villalba,2020/04/10 07:00:00,251.0,362.32,Collado Villalba,21.276,62587.0,Renta Media-Media
+1256,Colmenarejo,2020/04/10 07:00:00,21.0,259.61,Colmenarejo,23.395,8934.0,Renta Media-Media
+1258,Sevilla la Nueva,2020/04/10 07:00:00,28.0,281.44,Sevilla la Nueva,21.335,8858.0,Renta Media-Media
+1260,Brunete,2020/04/10 07:00:00,48.0,425.08,Brunete,23.574,10188.0,Renta Media-Media
+1261,Villa del Prado,2020/04/10 07:00:00,43.0,651.81,Villa del Prado,16.761,6506.0,Renta Baja
+1263,Valdemoro,2020/04/10 07:00:00,539.0,705.52,Valdemoro,21.309,72265.0,Renta Media-Media
+1264,Tres Cantos,2020/04/10 07:00:00,240.0,499.48,Tres Cantos,30.728,42546.0,Renta Media-Alta
+1268,Arroyomolinos,2020/04/10 07:00:00,120.0,459.96,Arroyomolinos,22.896,25374.0,Renta Media-Media
+1269,Moralzarzal,2020/04/10 07:00:00,51.0,391.64,Moralzarzal,25.058000000000003,12321.0,Renta Media-Media
+1270,Villarejo de Salvanés,2020/04/10 07:00:00,32.0,419.89,Villarejo de Salvanés,17.114,7301.0,Renta Baja
+1271,Serranillos del Valle,2020/04/10 07:00:00,21.0,552.78,Serranillos del Valle,20.634,3957.0,Renta Media-Baja
+1272,Villaviciosa de Odón,2020/04/10 07:00:00,141.0,508.29,Villaviciosa de Odón,29.414,26911.0,Renta Media-Alta
+1273,Camarma de Esteruelas,2020/04/10 07:00:00,35.0,491.78,Camarma de Esteruelas,20.953000000000003,7048.0,Renta Media-Baja
+1276,Majadahonda,2020/04/10 07:00:00,330.0,423.25,Majadahonda,35.254,70359.0,Renta Alta
+1278,Alcobendas,2020/04/10 07:00:00,448.0,369.59,Alcobendas,34.037,112188.0,Renta Alta
+1279,Alcalá de Henares,2020/04/10 07:00:00,1987.0,950.51,Alcalá de Henares,21.379,200768.0,Renta Media-Media
+1280,Colmenar Viejo,2020/04/10 07:00:00,228.0,452.35,Colmenar Viejo,23.982,47445.0,Renta Media-Media
+1281,San Fernando de Henares,2020/04/10 07:00:00,287.0,682.89,San Fernando de Henares,19.78,40781.0,Renta Media-Baja
+1282,Villalbilla,2020/04/10 07:00:00,78.0,697.99,Villalbilla,24.35,11916.0,Renta Media-Media
+1284,Torrejón de Ardoz,2020/04/10 07:00:00,792.0,572.71,Torrejón de Ardoz,19.585,126878.0,Renta Media-Baja
+1286,Torres de la Alameda,2020/04/10 07:00:00,56.0,679.61,Torres de la Alameda,19.135,7939.0,Renta Media-Baja
+1287,Alpedrete,2020/04/10 07:00:00,71.0,491.93,Alpedrete,24.855999999999998,14005.0,Renta Media-Media
+1289,Getafe,2020/04/10 07:00:00,821.0,428.95,Getafe,21.031999999999996,173057.0,Renta Media-Baja
+1292,Madrid-Retiro,2020/04/09 07:00:00,1033.0,929.17,Madrid-Retiro,51.79,119379.0,Renta Alta
+1293,Madrid-Salamanca,2020/04/09 07:00:00,1103.0,701.03,Madrid-Salamanca,53.972,146148.0,Renta Alta
+1294,Madrid-Centro,2020/04/09 07:00:00,740.0,520.29,Madrid-Centro,31.378,134881.0,Renta Media-Alta
+1295,Madrid-Arganzuela,2020/04/09 07:00:00,1092.0,612.1,Madrid-Arganzuela,40.201,153830.0,Renta Alta
+1296,Madrid-Chamartín,2020/04/09 07:00:00,1079.0,734.59,Madrid-Chamartín,60.948,145865.0,Renta Alta
+1297,Madrid-Tetuán,2020/04/09 07:00:00,1490.0,911.44,Madrid-Tetuán,34.7,157937.0,Renta Alta
+1298,Madrid-Chamberí,2020/04/09 07:00:00,927.0,624.32,Madrid-Chamberí,48.989,139448.0,Renta Alta
+1301,Madrid-Latina,2020/04/09 07:00:00,1745.0,699.2,Madrid-Latina,30.156,238154.0,Renta Media-Alta
+1302,Madrid-Carabanchel,2020/04/09 07:00:00,1690.0,685.83,Madrid-Carabanchel,27.936,253040.0,Renta Media-Alta
+1303,Madrid-Usera,2020/04/09 07:00:00,973.0,655.43,Madrid-Usera,25.569000000000003,139501.0,Renta Media-Media
+1304,Madrid-Puente de Vallecas,2020/04/09 07:00:00,2243.0,877.08,Madrid-Puente de Vallecas,24.688000000000002,234770.0,Renta Media-Media
+1305,Madrid-San Blas - Canillejas,2020/04/09 07:00:00,1004.0,722.95,Madrid-San Blas - Canillejas,34.494,158166.0,Renta Alta
+1306,Madrid-Barajas,2020/04/09 07:00:00,305.0,578.96,Madrid-Barajas,46.347,48972.0,Renta Alta
+1307,Madrid-Moratalaz,2020/04/09 07:00:00,958.0,983.82,Madrid-Moratalaz,34.753,94609.0,Renta Alta
+1308,Madrid-Ciudad Lineal,2020/04/09 07:00:00,1507.0,569.42,Madrid-Ciudad Lineal,36.833,216270.0,Renta Alta
+1309,Madrid-Hortaleza,2020/04/09 07:00:00,1241.0,587.39,Madrid-Hortaleza,47.11,188267.0,Renta Alta
+1310,Madrid-Villaverde,2020/04/09 07:00:00,992.0,623.73,Madrid-Villaverde,26.599,148883.0,Renta Media-Alta
+1311,Madrid-Villa de Vallecas,2020/04/09 07:00:00,964.0,904.07,Madrid-Villa de Vallecas,30.17,110436.0,Renta Media-Alta
+1312,Madrid-Vicálvaro,2020/04/09 07:00:00,595.0,827.68,Madrid-Vicálvaro,31.465999999999998,72126.0,Renta Media-Alta
+1313,Pozuelo de Alarcón,2020/04/09 07:00:00,428.0,484.71,Pozuelo de Alarcón,44.043,84360.0,Renta Alta
+1314,Alcorcón,2020/04/09 07:00:00,1146.0,655.45,Alcorcón,20.995,170336.0,Renta Media-Baja
+1315,Navalcarnero,2020/04/09 07:00:00,109.0,386.13,Navalcarnero,20.189,26364.0,Renta Media-Baja
+1316,San Agustín del Guadalix,2020/04/09 07:00:00,32.0,219.73,San Agustín del Guadalix,30.633000000000003,12953.0,Renta Media-Alta
+1320,Valdemorillo,2020/04/09 07:00:00,24.0,198.0,Valdemorillo,24.861,12058.0,Renta Media-Media
+1321,Velilla de San Antonio,2020/04/09 07:00:00,50.0,400.22,Velilla de San Antonio,20.5,12334.0,Renta Media-Baja
+1322,Villanueva de la Cañada,2020/04/09 07:00:00,65.0,266.57,Villanueva de la Cañada,32.688,18827.0,Renta Alta
+1323,Villanueva del Pardillo,2020/04/09 07:00:00,58.0,343.42,Villanueva del Pardillo,27.166999999999998,16730.0,Renta Media-Alta
+1324,Nuevo Baztán,2020/04/09 07:00:00,22.0,330.98,Nuevo Baztán,23.03,5959.0,Renta Media-Media
+1329,Aranjuez,2020/04/09 07:00:00,336.0,529.71,Aranjuez,20.976,57792.0,Renta Media-Baja
+1330,Cercedilla,2020/04/09 07:00:00,58.0,774.68,Cercedilla,20.721999999999998,6831.0,Renta Media-Baja
+1332,Coslada,2020/04/09 07:00:00,607.0,686.63,Coslada,20.386,88847.0,Renta Media-Baja
+1333,Morata de Tajuña,2020/04/09 07:00:00,76.0,978.5,Morata de Tajuña,17.993,7452.0,Renta Baja
+1336,Navas del Rey,2020/04/09 07:00:00,41.0,1392.66,Navas del Rey,17.605999999999998,2640.0,Renta Baja
+1338,Fuenlabrada,2020/04/09 07:00:00,1095.0,536.73,Fuenlabrada,17.832,195864.0,Renta Baja
+1339,Pinto,2020/04/09 07:00:00,157.0,295.38,Pinto,20.927,47594.0,Renta Media-Baja
+1343,Galapagar,2020/04/09 07:00:00,122.0,367.8,Galapagar,25.579,32380.0,Renta Media-Media
+1344,Griñón,2020/04/09 07:00:00,56.0,485.02,Griñón,22.293000000000003,9928.0,Renta Media-Media
+1345,Aldea del Fresno,2020/04/09 07:00:00,28.0,928.38,Aldea del Fresno,17.879,2528.0,Renta Baja
+1349,Ciempozuelos,2020/04/09 07:00:00,137.0,533.78,Ciempozuelos,18.608,23739.0,Renta Media-Baja
+1351,San Lorenzo de El Escorial,2020/04/09 07:00:00,59.0,333.05,San Lorenzo de El Escorial,24.318,18241.0,Renta Media-Media
+1352,San Martín de la Vega,2020/04/09 07:00:00,56.0,274.98,San Martín de la Vega,18.410999999999998,19092.0,Renta Media-Baja
+1353,Móstoles,2020/04/09 07:00:00,1313.0,600.79,Móstoles,19.06,205712.0,Renta Media-Baja
+1354,Leganés,2020/04/09 07:00:00,2236.0,1135.56,Leganés,19.548,186696.0,Renta Media-Baja
+1356,Algete,2020/04/09 07:00:00,73.0,328.75,Algete,27.386,20102.0,Renta Media-Alta
+1357,Mejorada del Campo,2020/04/09 07:00:00,140.0,571.29,Mejorada del Campo,18.533,22763.0,Renta Media-Baja
+1358,Loeches,2020/04/09 07:00:00,45.0,649.26,Loeches,19.984,8159.0,Renta Media-Baja
+1359,Parla,2020/04/09 07:00:00,560.0,409.64,Parla,17.772000000000002,125323.0,Renta Baja
+1364,Soto del Real,2020/04/09 07:00:00,49.0,500.2,Soto del Real,26.491999999999997,8482.0,Renta Media-Media
+1370,Cobeña,2020/04/09 07:00:00,28.0,375.49,Cobeña,28.180999999999997,6921.0,Renta Media-Alta
+1373,Guadarrama,2020/04/09 07:00:00,76.0,481.07,Guadarrama,22.3,15547.0,Renta Media-Media
+1374,San Martín de Valdeiglesias,2020/04/09 07:00:00,46.0,539.34,San Martín de Valdeiglesias,17.371,8516.0,Renta Baja
+1375,Torrelodones,2020/04/09 07:00:00,100.0,385.59,Torrelodones,33.721,22838.0,Renta Alta
+1376,Boadilla del Monte,2020/04/09 07:00:00,185.0,350.13,Boadilla del Monte,36.065,47852.0,Renta Alta
+1378,Tielmes,2020/04/09 07:00:00,28.0,1242.79,Tielmes,16.039,2617.0,Renta Baja
+1379,San Sebastián de los Reyes,2020/04/09 07:00:00,303.0,330.28,San Sebastián de los Reyes,24.82,83329.0,Renta Media-Media
+1380,Guadalix de la Sierra,2020/04/09 07:00:00,25.0,419.11,Guadalix de la Sierra,21.118000000000002,6057.0,Renta Media-Baja
+1381,Humanes de Madrid,2020/04/09 07:00:00,74.0,359.08,Humanes de Madrid,17.593,19404.0,Renta Baja
+1386,Meco,2020/04/09 07:00:00,111.0,793.88,Meco,21.186,13133.0,Renta Media-Baja
+1387,Arganda del Rey,2020/04/09 07:00:00,260.0,448.71,Arganda del Rey,19.113,55307.0,Renta Media-Baja
+1389,Daganzo de Arriba,2020/04/09 07:00:00,35.0,323.06,Daganzo de Arriba,23.326,9841.0,Renta Media-Media
+1393,Miraflores de la Sierra,2020/04/09 07:00:00,25.0,453.06,Miraflores de la Sierra,22.005,5890.0,Renta Media-Media
+1394,Paracuellos de Jarama,2020/04/09 07:00:00,59.0,256.42,Paracuellos de Jarama,28.272,21718.0,Renta Media-Alta
+1396,Collado Villalba,2020/04/09 07:00:00,235.0,339.23,Collado Villalba,21.276,62587.0,Renta Media-Media
+1399,Sevilla la Nueva,2020/04/09 07:00:00,25.0,251.28,Sevilla la Nueva,21.335,8858.0,Renta Media-Media
+1401,Brunete,2020/04/09 07:00:00,46.0,407.37,Brunete,23.574,10188.0,Renta Media-Media
+1402,Villa del Prado,2020/04/09 07:00:00,42.0,636.65,Villa del Prado,16.761,6506.0,Renta Baja
+1404,Valdemoro,2020/04/09 07:00:00,528.0,691.12,Valdemoro,21.309,72265.0,Renta Media-Media
+1405,Tres Cantos,2020/04/09 07:00:00,235.0,489.07,Tres Cantos,30.728,42546.0,Renta Media-Alta
+1409,Arroyomolinos,2020/04/09 07:00:00,110.0,421.63,Arroyomolinos,22.896,25374.0,Renta Media-Media
+1410,Moralzarzal,2020/04/09 07:00:00,48.0,368.61,Moralzarzal,25.058000000000003,12321.0,Renta Media-Media
+1411,Villarejo de Salvanés,2020/04/09 07:00:00,31.0,406.77,Villarejo de Salvanés,17.114,7301.0,Renta Baja
+1412,Serranillos del Valle,2020/04/09 07:00:00,21.0,552.78,Serranillos del Valle,20.634,3957.0,Renta Media-Baja
+1413,Villaviciosa de Odón,2020/04/09 07:00:00,134.0,483.06,Villaviciosa de Odón,29.414,26911.0,Renta Media-Alta
+1414,Camarma de Esteruelas,2020/04/09 07:00:00,35.0,491.78,Camarma de Esteruelas,20.953000000000003,7048.0,Renta Media-Baja
+1417,Majadahonda,2020/04/09 07:00:00,331.0,424.53,Majadahonda,35.254,70359.0,Renta Alta
+1419,Alcobendas,2020/04/09 07:00:00,438.0,361.34,Alcobendas,34.037,112188.0,Renta Alta
+1420,Alcalá de Henares,2020/04/09 07:00:00,1966.0,940.46,Alcalá de Henares,21.379,200768.0,Renta Media-Media
+1421,Colmenar Viejo,2020/04/09 07:00:00,223.0,442.43,Colmenar Viejo,23.982,47445.0,Renta Media-Media
+1422,San Fernando de Henares,2020/04/09 07:00:00,284.0,675.76,San Fernando de Henares,19.78,40781.0,Renta Media-Baja
+1423,Villalbilla,2020/04/09 07:00:00,76.0,680.09,Villalbilla,24.35,11916.0,Renta Media-Media
+1425,Torrejón de Ardoz,2020/04/09 07:00:00,775.0,560.42,Torrejón de Ardoz,19.585,126878.0,Renta Media-Baja
+1427,Torres de la Alameda,2020/04/09 07:00:00,56.0,679.61,Torres de la Alameda,19.135,7939.0,Renta Media-Baja
+1428,Alpedrete,2020/04/09 07:00:00,71.0,491.93,Alpedrete,24.855999999999998,14005.0,Renta Media-Media
+1430,Getafe,2020/04/09 07:00:00,778.0,406.48,Getafe,21.031999999999996,173057.0,Renta Media-Baja
+1433,Madrid-Retiro,2020/04/08 07:00:00,983.0,884.2,Madrid-Retiro,51.79,119379.0,Renta Alta
+1434,Madrid-Salamanca,2020/04/08 07:00:00,1076.0,683.86,Madrid-Salamanca,53.972,146148.0,Renta Alta
+1435,Madrid-Centro,2020/04/08 07:00:00,708.0,497.79,Madrid-Centro,31.378,134881.0,Renta Media-Alta
+1436,Madrid-Arganzuela,2020/04/08 07:00:00,1066.0,597.53,Madrid-Arganzuela,40.201,153830.0,Renta Alta
+1437,Madrid-Chamartín,2020/04/08 07:00:00,1058.0,720.29,Madrid-Chamartín,60.948,145865.0,Renta Alta
+1438,Madrid-Tetuán,2020/04/08 07:00:00,1450.0,886.97,Madrid-Tetuán,34.7,157937.0,Renta Alta
+1439,Madrid-Chamberí,2020/04/08 07:00:00,902.0,607.48,Madrid-Chamberí,48.989,139448.0,Renta Alta
+1442,Madrid-Latina,2020/04/08 07:00:00,1685.0,675.16,Madrid-Latina,30.156,238154.0,Renta Media-Alta
+1443,Madrid-Carabanchel,2020/04/08 07:00:00,1635.0,663.51,Madrid-Carabanchel,27.936,253040.0,Renta Media-Alta
+1444,Madrid-Usera,2020/04/08 07:00:00,954.0,642.63,Madrid-Usera,25.569000000000003,139501.0,Renta Media-Media
+1445,Madrid-Puente de Vallecas,2020/04/08 07:00:00,2175.0,850.49,Madrid-Puente de Vallecas,24.688000000000002,234770.0,Renta Media-Media
+1446,Madrid-San Blas - Canillejas,2020/04/08 07:00:00,988.0,711.43,Madrid-San Blas - Canillejas,34.494,158166.0,Renta Alta
+1447,Madrid-Barajas,2020/04/08 07:00:00,303.0,575.16,Madrid-Barajas,46.347,48972.0,Renta Alta
+1448,Madrid-Moratalaz,2020/04/08 07:00:00,930.0,955.06,Madrid-Moratalaz,34.753,94609.0,Renta Alta
+1449,Madrid-Ciudad Lineal,2020/04/08 07:00:00,1454.0,549.39,Madrid-Ciudad Lineal,36.833,216270.0,Renta Alta
+1450,Madrid-Hortaleza,2020/04/08 07:00:00,1203.0,569.4,Madrid-Hortaleza,47.11,188267.0,Renta Alta
+1451,Madrid-Villaverde,2020/04/08 07:00:00,963.0,605.5,Madrid-Villaverde,26.599,148883.0,Renta Media-Alta
+1452,Madrid-Villa de Vallecas,2020/04/08 07:00:00,955.0,895.63,Madrid-Villa de Vallecas,30.17,110436.0,Renta Media-Alta
+1453,Madrid-Vicálvaro,2020/04/08 07:00:00,579.0,805.42,Madrid-Vicálvaro,31.465999999999998,72126.0,Renta Media-Alta
+1454,Pozuelo de Alarcón,2020/04/08 07:00:00,414.0,468.86,Pozuelo de Alarcón,44.043,84360.0,Renta Alta
+1455,Alcorcón,2020/04/08 07:00:00,1091.0,624.0,Alcorcón,20.995,170336.0,Renta Media-Baja
+1456,Navalcarnero,2020/04/08 07:00:00,107.0,379.04,Navalcarnero,20.189,26364.0,Renta Media-Baja
+1457,San Agustín del Guadalix,2020/04/08 07:00:00,30.0,206.0,San Agustín del Guadalix,30.633000000000003,12953.0,Renta Media-Alta
+1461,Valdemorillo,2020/04/08 07:00:00,22.0,181.5,Valdemorillo,24.861,12058.0,Renta Media-Media
+1462,Velilla de San Antonio,2020/04/08 07:00:00,45.0,360.2,Velilla de San Antonio,20.5,12334.0,Renta Media-Baja
+1463,Villanueva de la Cañada,2020/04/08 07:00:00,62.0,254.27,Villanueva de la Cañada,32.688,18827.0,Renta Alta
+1464,Villanueva del Pardillo,2020/04/08 07:00:00,55.0,325.66,Villanueva del Pardillo,27.166999999999998,16730.0,Renta Media-Alta
+1465,Nuevo Baztán,2020/04/08 07:00:00,22.0,330.98,Nuevo Baztán,23.03,5959.0,Renta Media-Media
+1469,Aranjuez,2020/04/08 07:00:00,329.0,518.67,Aranjuez,20.976,57792.0,Renta Media-Baja
+1470,Cercedilla,2020/04/08 07:00:00,47.0,627.75,Cercedilla,20.721999999999998,6831.0,Renta Media-Baja
+1472,Coslada,2020/04/08 07:00:00,575.0,650.43,Coslada,20.386,88847.0,Renta Media-Baja
+1473,Morata de Tajuña,2020/04/08 07:00:00,76.0,978.5,Morata de Tajuña,17.993,7452.0,Renta Baja
+1476,Navas del Rey,2020/04/08 07:00:00,41.0,1392.66,Navas del Rey,17.605999999999998,2640.0,Renta Baja
+1478,Fuenlabrada,2020/04/08 07:00:00,1067.0,523.0,Fuenlabrada,17.832,195864.0,Renta Baja
+1479,Pinto,2020/04/08 07:00:00,153.0,287.85,Pinto,20.927,47594.0,Renta Media-Baja
+1483,Galapagar,2020/04/08 07:00:00,115.0,346.7,Galapagar,25.579,32380.0,Renta Media-Media
+1484,Griñón,2020/04/08 07:00:00,53.0,459.03,Griñón,22.293000000000003,9928.0,Renta Media-Media
+1485,Aldea del Fresno,2020/04/08 07:00:00,27.0,895.23,Aldea del Fresno,17.879,2528.0,Renta Baja
+1489,Ciempozuelos,2020/04/08 07:00:00,138.0,537.68,Ciempozuelos,18.608,23739.0,Renta Media-Baja
+1491,San Lorenzo de El Escorial,2020/04/08 07:00:00,53.0,299.18,San Lorenzo de El Escorial,24.318,18241.0,Renta Media-Media
+1492,San Martín de la Vega,2020/04/08 07:00:00,56.0,274.98,San Martín de la Vega,18.410999999999998,19092.0,Renta Media-Baja
+1493,Móstoles,2020/04/08 07:00:00,1262.0,577.45,Móstoles,19.06,205712.0,Renta Media-Baja
+1494,Leganés,2020/04/08 07:00:00,2160.0,1096.96,Leganés,19.548,186696.0,Renta Media-Baja
+1496,Algete,2020/04/08 07:00:00,71.0,319.75,Algete,27.386,20102.0,Renta Media-Alta
+1497,Mejorada del Campo,2020/04/08 07:00:00,137.0,559.05,Mejorada del Campo,18.533,22763.0,Renta Media-Baja
+1498,Loeches,2020/04/08 07:00:00,44.0,634.83,Loeches,19.984,8159.0,Renta Media-Baja
+1499,Parla,2020/04/08 07:00:00,547.0,400.13,Parla,17.772000000000002,125323.0,Renta Baja
+1504,Soto del Real,2020/04/08 07:00:00,48.0,490.0,Soto del Real,26.491999999999997,8482.0,Renta Media-Media
+1510,Cobeña,2020/04/08 07:00:00,27.0,362.08,Cobeña,28.180999999999997,6921.0,Renta Media-Alta
+1513,Guadarrama,2020/04/08 07:00:00,70.0,443.09,Guadarrama,22.3,15547.0,Renta Media-Media
+1514,San Martín de Valdeiglesias,2020/04/08 07:00:00,46.0,539.34,San Martín de Valdeiglesias,17.371,8516.0,Renta Baja
+1515,Torrelodones,2020/04/08 07:00:00,97.0,374.03,Torrelodones,33.721,22838.0,Renta Alta
+1516,Boadilla del Monte,2020/04/08 07:00:00,168.0,317.96,Boadilla del Monte,36.065,47852.0,Renta Alta
+1518,Tielmes,2020/04/08 07:00:00,28.0,1242.79,Tielmes,16.039,2617.0,Renta Baja
+1519,San Sebastián de los Reyes,2020/04/08 07:00:00,288.0,313.93,San Sebastián de los Reyes,24.82,83329.0,Renta Media-Media
+1520,Guadalix de la Sierra,2020/04/08 07:00:00,23.0,385.58,Guadalix de la Sierra,21.118000000000002,6057.0,Renta Media-Baja
+1521,Humanes de Madrid,2020/04/08 07:00:00,73.0,354.23,Humanes de Madrid,17.593,19404.0,Renta Baja
+1526,Meco,2020/04/08 07:00:00,110.0,786.73,Meco,21.186,13133.0,Renta Media-Baja
+1527,Arganda del Rey,2020/04/08 07:00:00,254.0,438.35,Arganda del Rey,19.113,55307.0,Renta Media-Baja
+1529,Daganzo de Arriba,2020/04/08 07:00:00,34.0,313.83,Daganzo de Arriba,23.326,9841.0,Renta Media-Media
+1533,Miraflores de la Sierra,2020/04/08 07:00:00,23.0,416.82,Miraflores de la Sierra,22.005,5890.0,Renta Media-Media
+1534,Paracuellos de Jarama,2020/04/08 07:00:00,55.0,239.04,Paracuellos de Jarama,28.272,21718.0,Renta Media-Alta
+1536,Collado Villalba,2020/04/08 07:00:00,221.0,319.02,Collado Villalba,21.276,62587.0,Renta Media-Media
+1539,Sevilla la Nueva,2020/04/08 07:00:00,22.0,221.13,Sevilla la Nueva,21.335,8858.0,Renta Media-Media
+1541,Brunete,2020/04/08 07:00:00,46.0,407.37,Brunete,23.574,10188.0,Renta Media-Media
+1542,Villa del Prado,2020/04/08 07:00:00,37.0,560.86,Villa del Prado,16.761,6506.0,Renta Baja
+1544,Valdemoro,2020/04/08 07:00:00,523.0,684.57,Valdemoro,21.309,72265.0,Renta Media-Media
+1545,Tres Cantos,2020/04/08 07:00:00,222.0,462.02,Tres Cantos,30.728,42546.0,Renta Media-Alta
+1549,Arroyomolinos,2020/04/08 07:00:00,105.0,402.47,Arroyomolinos,22.896,25374.0,Renta Media-Media
+1550,Moralzarzal,2020/04/08 07:00:00,44.0,337.89,Moralzarzal,25.058000000000003,12321.0,Renta Media-Media
+1551,Villarejo de Salvanés,2020/04/08 07:00:00,31.0,406.77,Villarejo de Salvanés,17.114,7301.0,Renta Baja
+1553,Villaviciosa de Odón,2020/04/08 07:00:00,130.0,468.64,Villaviciosa de Odón,29.414,26911.0,Renta Media-Alta
+1554,Camarma de Esteruelas,2020/04/08 07:00:00,35.0,491.78,Camarma de Esteruelas,20.953000000000003,7048.0,Renta Media-Baja
+1557,Majadahonda,2020/04/08 07:00:00,321.0,411.7,Majadahonda,35.254,70359.0,Renta Alta
+1559,Alcobendas,2020/04/08 07:00:00,425.0,350.62,Alcobendas,34.037,112188.0,Renta Alta
+1560,Alcalá de Henares,2020/04/08 07:00:00,1950.0,932.81,Alcalá de Henares,21.379,200768.0,Renta Media-Media
+1561,Colmenar Viejo,2020/04/08 07:00:00,214.0,424.58,Colmenar Viejo,23.982,47445.0,Renta Media-Media
+1562,San Fernando de Henares,2020/04/08 07:00:00,266.0,632.93,San Fernando de Henares,19.78,40781.0,Renta Media-Baja
+1563,Villalbilla,2020/04/08 07:00:00,76.0,680.09,Villalbilla,24.35,11916.0,Renta Media-Media
+1565,Torrejón de Ardoz,2020/04/08 07:00:00,769.0,556.08,Torrejón de Ardoz,19.585,126878.0,Renta Media-Baja
+1567,Torres de la Alameda,2020/04/08 07:00:00,52.0,631.07,Torres de la Alameda,19.135,7939.0,Renta Media-Baja
+1568,Alpedrete,2020/04/08 07:00:00,69.0,478.07,Alpedrete,24.855999999999998,14005.0,Renta Media-Media
+1570,Getafe,2020/04/08 07:00:00,754.0,393.94,Getafe,21.031999999999996,173057.0,Renta Media-Baja
