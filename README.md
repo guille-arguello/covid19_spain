@@ -52,7 +52,7 @@ A continuación tenemos otra forma de ver los datos, la evolución de los casos 
 ![Casos VS incremento de casos día anterior](/resources/imagenes/casos_VS_incremento.png)
 
 
-#### 3.1.3) Incrementos porcentuales **actualizados a 18/04/2020** <a name="tot_vs_dia"></a>
+#### 3.1.3) Incrementos porcentuales **actualizados a 18/04/2020** <a name="porcentuales"></a>
 
 A continuación podemos ver el incremento porcentual de casos y fallecidos del dia respecto al total de casos. Como se puede observar lleva estancado días en torno al 3%.
 
