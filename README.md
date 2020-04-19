@@ -28,9 +28,9 @@ En este repositorio voy a ir incluyendo software para el análisis de los datos 
 
 ## 3. Analisis visual de la evolución del COVID-19 <a name="Analisis_visual"></a>
 
-### 3.1) Datos de España - **actualizados a 18/04/2020** <a name="Dato_España"></a>
+### 3.1) Datos de España - **actualizados a 19/04/2020** <a name="Dato_España"></a>
 
-#### 3.1.1) Incrementos diarios **actualizados a 18/04/2020** <a name="incrementos"></a>
+#### 3.1.1) Incrementos diarios **actualizados a 19/04/2020** <a name="incrementos"></a>
 
 
 En las siguientes gráficas se analiza la evolución del COVID-19 en España, incrementos diarios de las cifras de fallecidos, casos y recuperados, así como de casos activos.
@@ -43,7 +43,7 @@ En las siguientes gráficas se analiza la evolución del COVID-19 en España, in
 
 ![Evolución de casos activos: acumulado de casos menos el acumulado de falecidos y recuperados](/resources/imagenes/casos_activos.png)
 
-#### 3.1.2) Totales VS diarios **actualizados a 18/04/2020** <a name="tot_vs_dia"></a>
+#### 3.1.2) Totales VS diarios **actualizados a 19/04/2020** <a name="tot_vs_dia"></a>
 
 A continuación tenemos otra forma de ver los datos, la evolución de los casos totales respecto a los diarios, con un ajuste polinomial de orden 5 de los puntos 
 
@@ -52,21 +52,21 @@ A continuación tenemos otra forma de ver los datos, la evolución de los casos 
 ![Casos VS incremento de casos día anterior](/resources/imagenes/casos_VS_incremento.png)
 
 
-#### 3.1.3) Incrementos porcentuales **actualizados a 18/04/2020** <a name="porcentuales"></a>
+#### 3.1.3) Incrementos porcentuales **actualizados a 19/04/2020** <a name="porcentuales"></a>
 
 A continuación podemos ver el incremento porcentual de casos y fallecidos del dia respecto al total de casos. Como se puede observar lleva estancado días en torno al 3%.
 
 ![Incrementos porcentual](/resources/imagenes/incremento_porcentual.png)
 
 
-### 3.2) Comparación entre paises de la evolución del COVID-19 - **actualizados a 18/04/2020** <a name="paises"></a>
+### 3.2) Comparación entre paises de la evolución del COVID-19 - **actualizados a 19/04/2020** <a name="paises"></a>
 
 ![Evolución de recuperados a partir del primer día con 10 fallecidos acumulados](/resources/imagenes/paises.png)
 
 
-### 3.3) Datos de interes Comunidades autonomas - **actualizados a 18/04/2020** <a name="CCAA"></a>
+### 3.3) Datos de interes Comunidades autonomas - **actualizados a 19/04/2020** <a name="CCAA"></a>
 
-#### 3.3.1) Número de tests PCR realizados en Cataluña - **actualizados a 18/04/2020** <a name="Test_cat"></a>
+#### 3.3.1) Número de tests PCR realizados en Cataluña - **actualizados a 19/04/2020** <a name="Test_cat"></a>
 
 Cataluña he hecho publico el número de tests PCR realizados y los que han sido positivos y negativos
 
@@ -283,8 +283,12 @@ Fecha | Incremento de fallecidos predicho | Incremento de fallecidos observado
 14/04/2020 | 544 | 523 
 15/04/2020 | 447 | 551
 16/04/2020 | 452 | 585 
-17/04/2020 | 412 |  
-17/04/2020 | 465 |  
+17/04/2020 | 433 | 438
+18/04/2020 | 506 | 356
+19/04/2020 | 360 |  
+20/04/2020 | 334 |  
+21/04/2020 | 302 |  
+
 
 
 ## 5. Fuentes <a name="Fuentes"></a>
