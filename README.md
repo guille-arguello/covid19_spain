@@ -71,10 +71,10 @@ A continuación podemos ver el incremento porcentual de casos y fallecidos del d
 Cataluña he hecho publico el número de tests PCR realizados y los que han sido positivos y negativos
 
 | Dato| Número|
------------- | -------------
-Número total de tests | 83447
-Positivos | 33446
-Negativos | 50001
+|------------ | -------------|
+|Número total de tests | 83447 |
+|Positivos | 33446 |
+|Negativos | 50001 |
 
 ![Evolución del número de tests PCR hechos en Cataluña al día: totales, positivos y negativos](/resources/imagenes/tests.png)
 
@@ -84,12 +84,12 @@ Negativos | 50001
 A partir de los datos que ha hecho públicos la comunidad de Madrid de la tasa de incidencia acumulada por municipio/distrito y la renta neta de los municipios y distritos de Madrid, se ha hecho una analisis ANOVA de cómo influye el nivel de renta en la tasa de incidencia. Los municipios/distritos se han estratificado de la siguiente forma:
 
 |Renta | Categorización|
------------- | -------------
-Renta Baja	| < 85% de la mediana
-Renta Media-Baja	| > 85% < 100% de la mediana
-Renta Media-Media	| > 100% < 125% de la mediana
-Renta Media-Alta	| > 125% < 150% de la mediana
-Renta Alta	| > 150% de la mediana
+|------------ | -------------|
+|Renta Baja	| < 85% de la mediana|
+|Renta Media-Baja	| > 85% < 100% de la mediana|
+|Renta Media-Media	| > 100% < 125% de la mediana|
+|Renta Media-Alta	| > 125% < 150% de la mediana|
+|Renta Alta	| > 150% de la mediana|
 
 
 Ejecutamos el test ANOVA para la mayor fecha disponible al ser datos acumulados. Observamos que a nivel de significación del 95% la varibale renta es significativa a la hora de contiagiarse de COVID-19 en la comunidad de Madrid:
@@ -205,63 +205,64 @@ results.summary()
 Tabla por fecha y país con los 10 días con más nuevos casos. Los 10 días con más nuevos casos han sido en Estados Unidos:
 
 |Fecha | País| Incremento de casos|
------------- | -------------| -------------
-2020-04-10	| US	| 35098
-2020-04-04	| US	| 33267
-2020-04-08	| US	| 32829
-2020-04-09	| US	| 32385
-2020-04-17	| US	| 31905
-2020-04-03	| US	| 31824
-2020-04-02	| US	| 30390
-2020-04-11	| US	| 29861
-2020-04-06	| US	| 29595
-2020-04-07	| US	| 29556
+|------------ | -------------| -------------|
+|2020-04-10	| US	| 35098|
+|2020-04-04	| US	| 33267|
+|2020-04-08	| US	| 32829|
+|2020-04-09	| US	| 32385|
+|2020-04-17	| US	| 31905|
+|2020-04-03	| US	| 31824|
+|2020-04-02	| US	| 30390|
+|2020-04-11	| US	| 29861|
+|2020-04-06	| US	| 29595|
+|2020-04-07	| US	| 29556|
 
 Tabla por fecha y país con los 10 días con mayor incremento de fallecidos:
 
 |Fecha | País| Incremento de fallecidos|
------------- | -------------| -------------
-2020-04-16|US|4591
-2020-04-17|US|3857
-2020-04-15|US|2494
-2020-04-14|US|2303
-2020-04-10|US|2108
-2020-04-08|US|1973
-2020-04-07|US|1939
-2020-04-11|US|1876
-2020-04-09|US|1783
-2020-04-12|US|1557
+|------------ | -------------| -------------|
+|2020-04-16|US|4591|
+|2020-04-17|US|3857|
+|2020-04-15|US|2494|
+|2020-04-14|US|2303|
+|2020-04-10|US|2108|
+|2020-04-08|US|1973|
+|2020-04-07|US|1939|
+|2020-04-11|US|1876|
+|2020-04-09|US|1783|
+|2020-04-12|US|1557|
 
 
 ¿Qué paises están en el inicio de la curva? Es decir, vamos a ver los paises que doblan su número de fallecidos y casos más rápido, para paises que tengan más de 25 fallecidos acumulados **actualizados a 20/04/2020**
 
 
 |Country/Region|Fallecidos|Incremento porcentual de fallecidos respecto al total|Días que tarda en doblar fallecidos|
------------- | -------------| -------------| -------------
-Cameroon|42|47.619|2.100
-Croatia|47|17.021|5.875
-Mexico|650|16.000|6.250
-Moldova|67|14.925|6.700
-Pakistan|168|14.881|6.720
-Colombia|179|14.525|6.885
-Russia|361|13.296|7.521
-Peru|400|13.000|7.692
-Canada|1563|10.493|9.530
-United Arab Emirates|41|9.756|10.250
+|------------ | -------------| -------------| -------------|
+|Cameroon|42|47.619|2.100|
+|Croatia|47|17.021|5.875|
+|Mexico|650|16.000|6.250|
+|Moldova|67|14.925|6.700|
+|Pakistan|168|14.881|6.720|
+|Colombia|179|14.525|6.885|
+|Russia|361|13.296|7.521|
+|Peru|400|13.000|7.692|
+|Canada|1563|10.493|9.530|
+|United Arab Emirates|41|9.756|10.250|
 
 A continuación se muestran los 10 paises con más de 100 caos que menos tardan en doblar su número de casos.
 
 |Country/Region|Casos|Incremento porcentual de casos respecto al total|Días que tarda en doblar casos|
-Ghana|1042|19.962|5.010
-Somalia|164|17.683|5.655
-Russia|42853|14.141|7.071
-Nigeria|627|13.557|7.376
-Tanzania|170|13.529|7.391
-Djibouti|846|13.475|7.421
-Bangladesh|2456|12.704|7.872
-Burma|111|11.712|8.538
-Saudi Arabia|9362|11.621|8.605
-Venezuela|256|11.328|8.828
+|------------ | -------------| -------------| -------------|
+|Ghana|1042|19.962|5.010|
+|Somalia|164|17.683|5.655|
+|Russia|42853|14.141|7.071|
+|Nigeria|627|13.557|7.376|
+|Tanzania|170|13.529|7.391|
+|Djibouti|846|13.475|7.421|
+|Bangladesh|2456|12.704|7.872|
+|Burma|111|11.712|8.538|
+|Saudi Arabia|9362|11.621|8.605|
+|Venezuela|256|11.328|8.828|
 
 ## 4. Predicción de la evolución del COVID19 en España <a name="Predicción"></a>
 
