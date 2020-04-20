@@ -70,7 +70,7 @@ A continuación podemos ver el incremento porcentual de casos y fallecidos del d
 
 Cataluña he hecho publico el número de tests PCR realizados y los que han sido positivos y negativos
 
- Dato| Número
+| Dato| Número|
 ------------ | -------------
 Número total de tests | 83447
 Positivos | 33446
@@ -83,7 +83,7 @@ Negativos | 50001
 
 A partir de los datos que ha hecho públicos la comunidad de Madrid de la tasa de incidencia acumulada por municipio/distrito y la renta neta de los municipios y distritos de Madrid, se ha hecho una analisis ANOVA de cómo influye el nivel de renta en la tasa de incidencia. Los municipios/distritos se han estratificado de la siguiente forma:
 
-Renta | Categorización
+|Renta | Categorización|
 ------------ | -------------
 Renta Baja	| < 85% de la mediana
 Renta Media-Baja	| > 85% < 100% de la mediana
@@ -204,7 +204,7 @@ results.summary()
 
 Tabla por fecha y país con los 10 días con más nuevos casos. Los 10 días con más nuevos casos han sido en Estados Unidos:
 
-Fecha | País| Incremento de casos
+|Fecha | País| Incremento de casos|
 ------------ | -------------| -------------
 2020-04-10	| US	| 35098
 2020-04-04	| US	| 33267
@@ -219,7 +219,7 @@ Fecha | País| Incremento de casos
 
 Tabla por fecha y país con los 10 días con mayor incremento de fallecidos:
 
-Fecha | País| Incremento de fallecidos
+|Fecha | País| Incremento de fallecidos|
 ------------ | -------------| -------------
 2020-04-16|US|4591
 2020-04-17|US|3857
@@ -236,7 +236,7 @@ Fecha | País| Incremento de fallecidos
 ¿Qué paises están en el inicio de la curva? Es decir, vamos a ver los paises que doblan su número de fallecidos y casos más rápido, para paises que tengan más de 25 fallecidos acumulados **actualizados a 20/04/2020**
 
 
-Country/Region|Fallecidos|Incremento porcentual de fallecidos respecto al total|Días que tarda en doblar fallecidos
+|Country/Region|Fallecidos|Incremento porcentual de fallecidos respecto al total|Días que tarda en doblar fallecidos|
 ------------ | -------------| -------------| -------------
 Cameroon|42|47.619|2.100
 Croatia|47|17.021|5.875
@@ -251,7 +251,7 @@ United Arab Emirates|41|9.756|10.250
 
 A continuación se muestran los 10 paises con más de 100 caos que menos tardan en doblar su número de casos.
 
-Country/Region|Casos|Incremento porcentual de casos respecto al total|Días que tarda en doblar casos
+|Country/Region|Casos|Incremento porcentual de casos respecto al total|Días que tarda en doblar casos|
 Ghana|1042|19.962|5.010
 Somalia|164|17.683|5.655
 Russia|42853|14.141|7.071
