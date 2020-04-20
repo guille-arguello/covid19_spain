@@ -285,7 +285,7 @@ Fecha | Incremento de fallecidos predicho | Incremento de fallecidos observado
 16/04/2020 | 452 | 585 
 17/04/2020 | 433 | 438
 18/04/2020 | 506 | 356
-19/04/2020 | 360 |  
+19/04/2020 | 360 | 399 
 20/04/2020 | 334 |  
 21/04/2020 | 302 |  
 
