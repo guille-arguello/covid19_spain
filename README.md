@@ -28,9 +28,9 @@ En este repositorio voy a ir incluyendo software para el análisis de los datos 
 
 ## 3. Analisis visual de la evolución del COVID-19 <a name="Analisis_visual"></a>
 
-### 3.1) Datos de España - **actualizados a 20/04/2020** <a name="Dato_España"></a>
+### 3.1) Datos de España - **actualizados a 21/04/2020** <a name="Dato_España"></a>
 
-#### 3.1.1) Incrementos diarios **actualizados a 20/04/2020** <a name="incrementos"></a>
+#### 3.1.1) Incrementos diarios **actualizados a 21/04/2020** <a name="incrementos"></a>
 
 
 En las siguientes gráficas se analiza la evolución del COVID-19 en España, incrementos diarios de las cifras de fallecidos, casos y recuperados, así como de casos activos.
@@ -43,7 +43,7 @@ En las siguientes gráficas se analiza la evolución del COVID-19 en España, in
 
 ![Evolución de casos activos: acumulado de casos menos el acumulado de falecidos y recuperados](/resources/imagenes/casos_activos.png)
 
-#### 3.1.2) Totales VS diarios **actualizados a 20/04/2020** <a name="tot_vs_dia"></a>
+#### 3.1.2) Totales VS diarios **actualizados a 21/04/2020** <a name="tot_vs_dia"></a>
 
 A continuación tenemos otra forma de ver los datos, la evolución de los casos totales respecto a los diarios, con un ajuste polinomial de orden 5 de los puntos 
 
@@ -52,21 +52,21 @@ A continuación tenemos otra forma de ver los datos, la evolución de los casos 
 ![Casos VS incremento de casos día anterior](/resources/imagenes/casos_VS_incremento.png)
 
 
-#### 3.1.3) Incrementos porcentuales **actualizados a 20/04/2020** <a name="porcentuales"></a>
+#### 3.1.3) Incrementos porcentuales **actualizados a 21/04/2020** <a name="porcentuales"></a>
 
 A continuación podemos ver el incremento porcentual de casos y fallecidos del dia respecto al total de casos. Como se puede observar lleva estancado días en torno al 3%.
 
 ![Incrementos porcentual](/resources/imagenes/incremento_porcentual.png)
 
 
-### 3.2) Comparación entre paises de la evolución del COVID-19 - **actualizados a 20/04/2020** <a name="paises"></a>
+### 3.2) Comparación entre paises de la evolución del COVID-19 - **actualizados a 21/04/2020** <a name="paises"></a>
 
 ![Evolución de recuperados a partir del primer día con 10 fallecidos acumulados](/resources/imagenes/paises.png)
 
 
-### 3.3) Datos de interes Comunidades autonomas - **actualizados a 20/04/2020** <a name="CCAA"></a>
+### 3.3) Datos de interes Comunidades autonomas - **actualizados a 21/04/2020** <a name="CCAA"></a>
 
-#### 3.3.1) Número de tests PCR realizados en Cataluña - **actualizados a 20/04/2020** <a name="Test_cat"></a>
+#### 3.3.1) Número de tests PCR realizados en Cataluña - **actualizados a 21/04/2020** <a name="Test_cat"></a>
 
 Cataluña he hecho publico el número de tests PCR realizados y los que han sido positivos y negativos
 
@@ -238,31 +238,32 @@ Tabla por fecha y país con los 10 días con mayor incremento de fallecidos:
 
 |Country/Region|Fallecidos|Incremento porcentual de fallecidos respecto al total|Días que tarda en doblar fallecidos|
 |------------ | -------------| -------------| -------------|
-|Cameroon|42|47.619|2.100|
-|Croatia|47|17.021|5.875|
-|Mexico|650|16.000|6.250|
-|Moldova|67|14.925|6.700|
-|Pakistan|168|14.881|6.720|
-|Colombia|179|14.525|6.885|
-|Russia|361|13.296|7.521|
-|Peru|400|13.000|7.692|
-|Canada|1563|10.493|9.530|
-|United Arab Emirates|41|9.756|10.250|
+|Ireland|687|11.208|8.922|
+|Russia|405|10.864|9.205|
+|Peru|445|10.112|9.889|
+|Bangladesh|101|9.901|10.100|
+|Canada|1725|9.391|10.648|
+|Norway|181|8.840|11.313|
+|Afghanistan|36|8.333|12.000|
+|Belarus|51|7.843|12.750|
+|South Africa|58|6.897|14.500|
+|Ukraine|151|6.623|15.100|
+
 
 A continuación se muestran los 10 paises con más de 100 caos que menos tardan en doblar su número de casos.
 
 |Country/Region|Casos|Incremento porcentual de casos respecto al total|Días que tarda en doblar casos|
 |------------ | -------------| -------------| -------------|
-|Ghana|1042|19.962|5.010|
-|Somalia|164|17.683|5.655|
-|Russia|42853|14.141|7.071|
-|Nigeria|627|13.557|7.376|
-|Tanzania|170|13.529|7.391|
-|Djibouti|846|13.475|7.421|
-|Bangladesh|2456|12.704|7.872|
-|Burma|111|11.712|8.538|
-|Saudi Arabia|9362|11.621|8.605|
-|Venezuela|256|11.328|8.828|
+|Sudan|107|38.318|2.610|
+|Tanzania|254|33.071|3.024|
+|Somalia|237|30.802|3.247|
+|Belarus|6264|23.707|4.218|
+|Jamaica|223|22.422|4.460|
+|Singapore|8014|17.794|5.620|
+|Bangladesh|2948|16.689|5.992|
+|Cameroon|1163|12.554|7.966|
+|Guatemala|289|11.073|9.031|
+|Sri Lanka|304|10.855|9.212|
 
 ## 4. Predicción de la evolución del COVID19 en España <a name="Predicción"></a>
 
