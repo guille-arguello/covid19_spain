@@ -268,7 +268,6 @@ Tabla por fecha y país con los 10 días con mayor incremento de fallecidos:
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th></th>
 	  <th>Fecha</th>
       <th>Country/Region</th>
       <th>Fallecidos</th>
@@ -358,7 +357,6 @@ A continuación se muestran los 10 paises con más de 100 caos que menos tardan 
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th></th>
 	  <th>Fecha</th>
       <th>Country/Region</th>
       <th>Casos</th>
