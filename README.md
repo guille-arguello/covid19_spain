@@ -265,34 +265,15 @@ Tabla por fecha y país con los 10 días con mayor incremento de fallecidos:
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th></th>
+	  <th>Fecha</th>
       <th>Country/Region</th>
       <th>Fallecidos</th>
       <th>Incremento porcentual de fallecidos respecto al total</th>
       <th>Días que tarda en doblar fallecidos</th>
-    </tr>
-    <tr>
-      <th>Fecha</th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
     </tr>
   </thead>
   <tbody>
@@ -374,34 +355,15 @@ Tabla por fecha y país con los 10 días con mayor incremento de fallecidos:
 A continuación se muestran los 10 paises con más de 100 caos que menos tardan en doblar su número de casos.
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th></th>
+	  <th>Fecha</th>
       <th>Country/Region</th>
       <th>Casos</th>
       <th>Incremento porcentual de casos respecto al total</th>
       <th>Días que tarda en doblar casos</th>
-    </tr>
-    <tr>
-      <th>Fecha</th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
     </tr>
   </thead>
   <tbody>
