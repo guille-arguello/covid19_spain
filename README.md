@@ -79,7 +79,7 @@ Cataluña he hecho publico el número de tests PCR realizados y los que han sido
 ![Evolución del número de tests PCR hechos en Cataluña al día: totales, positivos y negativos](/resources/imagenes/tests.png)
 
 
-#### 3.3.2) Como influye el nivel de renta en la probabilidad de contagiarse en la comunidad de Madrid - **actualizados a 15/04/2020** <a name="Renta_mad"></a>
+#### 3.3.2) Como influye el nivel de renta en la probabilidad de contagiarse en la comunidad de Madrid - **actualizados a 22/04/2020** <a name="Renta_mad"></a>
 
 A partir de los datos que ha hecho públicos la comunidad de Madrid de la tasa de incidencia acumulada por municipio/distrito y la renta neta de los municipios y distritos de Madrid, se ha hecho una analisis ANOVA de cómo influye el nivel de renta en la tasa de incidencia. Los municipios/distritos se han estratificado de la siguiente forma:
 
@@ -105,6 +105,19 @@ table
 
 
 <div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -120,16 +133,16 @@ table
     <tr>
       <th>data_mad["Renta Categorical"]</th>
       <td>4.0</td>
-      <td>6.476488e+05</td>
-      <td>161912.189810</td>
-      <td>2.684711</td>
-      <td>0.036816</td>
+      <td>8.338377e+05</td>
+      <td>208459.432723</td>
+      <td>2.816715</td>
+      <td>0.029552</td>
     </tr>
     <tr>
       <th>Residual</th>
-      <td>84.0</td>
-      <td>5.065955e+06</td>
-      <td>60308.984845</td>
+      <td>93.0</td>
+      <td>6.882743e+06</td>
+      <td>74007.986294</td>
       <td>NaN</td>
       <td>NaN</td>
     </tr>
@@ -146,29 +159,28 @@ results.summary()
 
 
 
-
 <table class="simpletable">
 <caption>OLS Regression Results</caption>
 <tr>
-  <th>Dep. Variable:</th>    <td>tasa_incidencia_acumulada_total</td> <th>  R-squared:         </th> <td>   0.113</td>
+  <th>Dep. Variable:</th>    <td>tasa_incidencia_acumulada_total</td> <th>  R-squared:         </th> <td>   0.108</td>
 </tr>
 <tr>
-  <th>Model:</th>                          <td>OLS</td>               <th>  Adj. R-squared:    </th> <td>   0.071</td>
+  <th>Model:</th>                          <td>OLS</td>               <th>  Adj. R-squared:    </th> <td>   0.070</td>
 </tr>
 <tr>
-  <th>Method:</th>                    <td>Least Squares</td>          <th>  F-statistic:       </th> <td>   2.685</td>
+  <th>Method:</th>                    <td>Least Squares</td>          <th>  F-statistic:       </th> <td>   2.817</td>
 </tr>
 <tr>
-  <th>Date:</th>                    <td>Sun, 12 Apr 2020</td>         <th>  Prob (F-statistic):</th>  <td>0.0368</td> 
+  <th>Date:</th>                    <td>Wed, 22 Apr 2020</td>         <th>  Prob (F-statistic):</th>  <td>0.0296</td> 
 </tr>
 <tr>
-  <th>Time:</th>                        <td>13:38:51</td>             <th>  Log-Likelihood:    </th> <td> -613.53</td>
+  <th>Time:</th>                        <td>20:33:52</td>             <th>  Log-Likelihood:    </th> <td> -685.87</td>
 </tr>
 <tr>
-  <th>No. Observations:</th>             <td>    89</td>              <th>  AIC:               </th> <td>   1237.</td>
+  <th>No. Observations:</th>             <td>    98</td>              <th>  AIC:               </th> <td>   1382.</td>
 </tr>
 <tr>
-  <th>Df Residuals:</th>                 <td>    84</td>              <th>  BIC:               </th> <td>   1250.</td>
+  <th>Df Residuals:</th>                 <td>    93</td>              <th>  BIC:               </th> <td>   1395.</td>
 </tr>
 <tr>
   <th>Df Model:</th>                     <td>     4</td>              <th>                     </th>     <td> </td>   
@@ -182,21 +194,36 @@ results.summary()
                            <td></td>                             <th>coef</th>     <th>std err</th>      <th>t</th>      <th>P>|t|</th>  <th>[0.025</th>    <th>0.975]</th>  
 </tr>
 <tr>
-  <th>Intercept</th>                                          <td>  640.3465</td> <td>   59.562</td> <td>   10.751</td> <td> 0.000</td> <td>  521.902</td> <td>  758.791</td>
+  <th>Intercept</th>                                          <td>  791.6047</td> <td>   65.980</td> <td>   11.998</td> <td> 0.000</td> <td>  660.581</td> <td>  922.629</td>
 </tr>
 <tr>
-  <th>data_mad["Renta Categorical"][T.Renta Baja]</th>        <td>  124.4390</td> <td>   95.027</td> <td>    1.310</td> <td> 0.194</td> <td>  -64.534</td> <td>  313.412</td>
+  <th>data_mad["Renta Categorical"][T.Renta Baja]</th>        <td>   90.3053</td> <td>  102.571</td> <td>    0.880</td> <td> 0.381</td> <td> -113.380</td> <td>  293.990</td>
 </tr>
 <tr>
-  <th>data_mad["Renta Categorical"][T.Renta Media-Alta]</th>  <td>  -54.4895</td> <td>   90.481</td> <td>   -0.602</td> <td> 0.549</td> <td> -234.420</td> <td>  125.441</td>
+  <th>data_mad["Renta Categorical"][T.Renta Media-Alta]</th>  <td> -123.4083</td> <td>   98.182</td> <td>   -1.257</td> <td> 0.212</td> <td> -318.378</td> <td>   71.562</td>
 </tr>
 <tr>
-  <th>data_mad["Renta Categorical"][T.Renta Media-Baja]</th>  <td>  -41.2813</td> <td>   78.548</td> <td>   -0.526</td> <td> 0.601</td> <td> -197.482</td> <td>  114.919</td>
+  <th>data_mad["Renta Categorical"][T.Renta Media-Baja]</th>  <td> -129.6947</td> <td>   83.645</td> <td>   -1.551</td> <td> 0.124</td> <td> -295.798</td> <td>   36.408</td>
 </tr>
 <tr>
-  <th>data_mad["Renta Categorical"][T.Renta Media-Media]</th> <td> -153.8337</td> <td>   77.201</td> <td>   -1.993</td> <td> 0.050</td> <td> -307.356</td> <td>   -0.312</td>
+  <th>data_mad["Renta Categorical"][T.Renta Media-Media]</th> <td> -185.9529</td> <td>   84.229</td> <td>   -2.208</td> <td> 0.030</td> <td> -353.214</td> <td>  -18.692</td>
 </tr>
 </table>
+<table class="simpletable">
+<tr>
+  <th>Omnibus:</th>       <td> 4.162</td> <th>  Durbin-Watson:     </th> <td>   1.481</td>
+</tr>
+<tr>
+  <th>Prob(Omnibus):</th> <td> 0.125</td> <th>  Jarque-Bera (JB):  </th> <td>   4.138</td>
+</tr>
+<tr>
+  <th>Skew:</th>          <td> 0.495</td> <th>  Prob(JB):          </th> <td>   0.126</td>
+</tr>
+<tr>
+  <th>Kurtosis:</th>      <td> 2.813</td> <th>  Cond. No.          </th> <td>    6.36</td>
+</tr>
+</table><br/><br/>Warnings:<br/>[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
 
 
 
@@ -236,34 +263,222 @@ Tabla por fecha y país con los 10 días con mayor incremento de fallecidos:
 ¿Qué paises están en el inicio de la curva? Es decir, vamos a ver los paises que doblan su número de fallecidos y casos más rápido, para paises que tengan más de 25 fallecidos acumulados **actualizados a 21/04/2020**
 
 
-|Country/Region|Fallecidos|Incremento porcentual de fallecidos respecto al total|Días que tarda en doblar fallecidos|
-|------------ | -------------| -------------| -------------|
-|Ireland|687|11.208|8.922|
-|Russia|405|10.864|9.205|
-|Peru|445|10.112|9.889|
-|Bangladesh|101|9.901|10.100|
-|Canada|1725|9.391|10.648|
-|Norway|181|8.840|11.313|
-|Afghanistan|36|8.333|12.000|
-|Belarus|51|7.843|12.750|
-|South Africa|58|6.897|14.500|
-|Ukraine|151|6.623|15.100|
+
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Country/Region</th>
+      <th>Fallecidos</th>
+      <th>Incremento porcentual de fallecidos respecto al total</th>
+      <th>Días que tarda en doblar fallecidos</th>
+    </tr>
+    <tr>
+      <th>Fecha</th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>2020-04-21</th>
+      <td>Finland</td>
+      <td>141</td>
+      <td>30.496</td>
+      <td>3.279</td>
+    </tr>
+    <tr>
+      <th>2020-04-21</th>
+      <td>Pakistan</td>
+      <td>201</td>
+      <td>12.438</td>
+      <td>8.040</td>
+    </tr>
+    <tr>
+      <th>2020-04-21</th>
+      <td>Russia</td>
+      <td>456</td>
+      <td>11.184</td>
+      <td>8.941</td>
+    </tr>
+    <tr>
+      <th>2020-04-21</th>
+      <td>Sweden</td>
+      <td>1765</td>
+      <td>10.482</td>
+      <td>9.541</td>
+    </tr>
+    <tr>
+      <th>2020-04-21</th>
+      <td>Japan</td>
+      <td>263</td>
+      <td>10.266</td>
+      <td>9.741</td>
+    </tr>
+    <tr>
+      <th>2020-04-21</th>
+      <td>India</td>
+      <td>645</td>
+      <td>8.217</td>
+      <td>12.170</td>
+    </tr>
+    <tr>
+      <th>2020-04-21</th>
+      <td>Bangladesh</td>
+      <td>110</td>
+      <td>8.182</td>
+      <td>12.222</td>
+    </tr>
+    <tr>
+      <th>2020-04-21</th>
+      <td>Peru</td>
+      <td>484</td>
+      <td>8.058</td>
+      <td>12.410</td>
+    </tr>
+    <tr>
+      <th>2020-04-21</th>
+      <td>Argentina</td>
+      <td>147</td>
+      <td>7.483</td>
+      <td>13.364</td>
+    </tr>
+    <tr>
+      <th>2020-04-21</th>
+      <td>Panama</td>
+      <td>136</td>
+      <td>7.353</td>
+      <td>13.600</td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 
 A continuación se muestran los 10 paises con más de 100 caos que menos tardan en doblar su número de casos.
 
-|Country/Region|Casos|Incremento porcentual de casos respecto al total|Días que tarda en doblar casos|
-|------------ | -------------| -------------| -------------|
-|Sudan|107|38.318|2.610|
-|Tanzania|254|33.071|3.024|
-|Somalia|237|30.802|3.247|
-|Belarus|6264|23.707|4.218|
-|Jamaica|223|22.422|4.460|
-|Singapore|8014|17.794|5.620|
-|Bangladesh|2948|16.689|5.992|
-|Cameroon|1163|12.554|7.966|
-|Guatemala|289|11.073|9.031|
-|Sri Lanka|304|10.855|9.212|
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Country/Region</th>
+      <th>Casos</th>
+      <th>Incremento porcentual de casos respecto al total</th>
+      <th>Días que tarda en doblar casos</th>
+    </tr>
+    <tr>
+      <th>Fecha</th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>2020-04-21</th>
+      <td>Gabon</td>
+      <td>156</td>
+      <td>23.077</td>
+      <td>4.333</td>
+    </tr>
+    <tr>
+      <th>2020-04-21</th>
+      <td>Somalia</td>
+      <td>286</td>
+      <td>17.133</td>
+      <td>5.837</td>
+    </tr>
+    <tr>
+      <th>2020-04-21</th>
+      <td>Bangladesh</td>
+      <td>3382</td>
+      <td>12.833</td>
+      <td>7.793</td>
+    </tr>
+    <tr>
+      <th>2020-04-21</th>
+      <td>Singapore</td>
+      <td>9125</td>
+      <td>12.175</td>
+      <td>8.213</td>
+    </tr>
+    <tr>
+      <th>2020-04-21</th>
+      <td>Pakistan</td>
+      <td>9565</td>
+      <td>11.992</td>
+      <td>8.339</td>
+    </tr>
+    <tr>
+      <th>2020-04-21</th>
+      <td>Russia</td>
+      <td>52763</td>
+      <td>10.693</td>
+      <td>9.352</td>
+    </tr>
+    <tr>
+      <th>2020-04-21</th>
+      <td>Djibouti</td>
+      <td>945</td>
+      <td>10.476</td>
+      <td>9.545</td>
+    </tr>
+    <tr>
+      <th>2020-04-21</th>
+      <td>Venezuela</td>
+      <td>285</td>
+      <td>10.175</td>
+      <td>9.828</td>
+    </tr>
+    <tr>
+      <th>2020-04-21</th>
+      <td>Saudi Arabia</td>
+      <td>11631</td>
+      <td>9.862</td>
+      <td>10.140</td>
+    </tr>
+    <tr>
+      <th>2020-04-21</th>
+      <td>Guinea</td>
+      <td>688</td>
+      <td>9.593</td>
+      <td>10.424</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
 
 ## 4. Predicción de la evolución del COVID19 en España <a name="Predicción"></a>
 
@@ -318,8 +533,15 @@ Fecha | Incremento de fallecidos predicho | Incremento de fallecidos observado
 17/04/2020 | 433 | 438
 18/04/2020 | 506 | 356
 19/04/2020 | 360 | 399 
-20/04/2020 | 334 |  
-21/04/2020 | 302 |  
+20/04/2020 | 334 | 430 
+21/04/2020 | 302 | 435
+22/04/2020 | 364 | 
+23/04/2020 | 420 | 
+
+A continuación la predicción de la evolución de la media movil semanal:
+
+![Evolución de recuperados a partir del primer día con 10 fallecidos acumulados](/resources/imagenes/predicción_media_movil.png)
+
 
 
 
