@@ -278,70 +278,70 @@ Tabla por fecha y país con los 10 días con mayor incremento de fallecidos:
   </thead>
   <tbody>
     <tr>
-      <th>2020-04-21</th>
+      <td>2020-04-21</td>
       <td>Finland</td>
       <td>141</td>
       <td>30.496</td>
       <td>3.279</td>
     </tr>
     <tr>
-      <th>2020-04-21</th>
+      <td>2020-04-21</td>
       <td>Pakistan</td>
       <td>201</td>
       <td>12.438</td>
       <td>8.040</td>
     </tr>
     <tr>
-      <th>2020-04-21</th>
+      <td>2020-04-21</td>
       <td>Russia</td>
       <td>456</td>
       <td>11.184</td>
       <td>8.941</td>
     </tr>
     <tr>
-      <th>2020-04-21</th>
+      <td>2020-04-21</td>
       <td>Sweden</td>
       <td>1765</td>
       <td>10.482</td>
       <td>9.541</td>
     </tr>
     <tr>
-      <th>2020-04-21</th>
+      <td>2020-04-21</td>
       <td>Japan</td>
       <td>263</td>
       <td>10.266</td>
       <td>9.741</td>
     </tr>
     <tr>
-      <th>2020-04-21</th>
+      <td>2020-04-21</td>
       <td>India</td>
       <td>645</td>
       <td>8.217</td>
       <td>12.170</td>
     </tr>
     <tr>
-      <th>2020-04-21</th>
+      <td>2020-04-21</td>
       <td>Bangladesh</td>
       <td>110</td>
       <td>8.182</td>
       <td>12.222</td>
     </tr>
     <tr>
-      <th>2020-04-21</th>
+      <td>2020-04-21</td>
       <td>Peru</td>
       <td>484</td>
       <td>8.058</td>
       <td>12.410</td>
     </tr>
     <tr>
-      <th>2020-04-21</th>
+      <td>2020-04-21</td>
       <td>Argentina</td>
       <td>147</td>
       <td>7.483</td>
       <td>13.364</td>
     </tr>
     <tr>
-      <th>2020-04-21</th>
+      <td>2020-04-21</td>
       <td>Panama</td>
       <td>136</td>
       <td>7.353</td>
@@ -368,70 +368,70 @@ A continuación se muestran los 10 paises con más de 100 caos que menos tardan 
   </thead>
   <tbody>
     <tr>
-      <th>2020-04-21</th>
+      <td>2020-04-21</td>
       <td>Gabon</td>
       <td>156</td>
       <td>23.077</td>
       <td>4.333</td>
     </tr>
     <tr>
-      <th>2020-04-21</th>
+      <td>2020-04-21</td>
       <td>Somalia</td>
       <td>286</td>
       <td>17.133</td>
       <td>5.837</td>
     </tr>
     <tr>
-      <th>2020-04-21</th>
+      <td>2020-04-21</td>
       <td>Bangladesh</td>
       <td>3382</td>
       <td>12.833</td>
       <td>7.793</td>
     </tr>
     <tr>
-      <th>2020-04-21</th>
+      <td>2020-04-21</td>
       <td>Singapore</td>
       <td>9125</td>
       <td>12.175</td>
       <td>8.213</td>
     </tr>
     <tr>
-      <th>2020-04-21</th>
+      <td>2020-04-21</td>
       <td>Pakistan</td>
       <td>9565</td>
       <td>11.992</td>
       <td>8.339</td>
     </tr>
     <tr>
-      <th>2020-04-21</th>
+      <td>2020-04-21</td>
       <td>Russia</td>
       <td>52763</td>
       <td>10.693</td>
       <td>9.352</td>
     </tr>
     <tr>
-      <th>2020-04-21</th>
+      <td>2020-04-21</td>
       <td>Djibouti</td>
       <td>945</td>
       <td>10.476</td>
       <td>9.545</td>
     </tr>
     <tr>
-      <th>2020-04-21</th>
+      <td>2020-04-21</td>
       <td>Venezuela</td>
       <td>285</td>
       <td>10.175</td>
       <td>9.828</td>
     </tr>
     <tr>
-      <th>2020-04-21</th>
+      <td>2020-04-21</td>
       <td>Saudi Arabia</td>
       <td>11631</td>
       <td>9.862</td>
       <td>10.140</td>
     </tr>
     <tr>
-      <th>2020-04-21</th>
+      <td>2020-04-21</td>
       <td>Guinea</td>
       <td>688</td>
       <td>9.593</td>
