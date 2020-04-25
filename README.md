@@ -72,9 +72,9 @@ Cataluña he hecho publico el número de tests PCR realizados y los que han sido
 
 | Dato| Número|
 |------------ | -------------|
-|Número total de tests | 83447 |
-|Positivos | 33446 |
-|Negativos | 50001 |
+|Número total de tests | 141364 |
+|Positivos | 47725 |
+|Negativos | 93639 |
 
 ![Evolución del número de tests PCR hechos en Cataluña al día: totales, positivos y negativos](/resources/imagenes/tests.png)
 
