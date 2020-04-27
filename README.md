@@ -45,7 +45,7 @@ En las siguientes gráficas se analiza la evolución del COVID-19 en España, in
 
 #### 3.1.2) Totales VS diarios **actualizados a 27/04/2020** <a name="tot_vs_dia"></a>
 
-A continuación tenemos otra forma de ver los datos, la evolución de los casos totales respecto a los diarios, con un ajuste polinomial de orden 5 de los puntos 
+A continuación tenemos otra forma de ver los datos, la evolución de los casos totales respecto a los diarios, con un ajuste polinomial de orden 5 de los puntos, simplemente para observar la tendencia, sin interés predictivo.
 
 ![Fallecidos VS incremento de fallecidos día anterior](/resources/imagenes/fallecidos_VS_incremento.png)
 
